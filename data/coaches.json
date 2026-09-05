@@ -285,5 +285,67 @@
       "https://www.ubbullrun.com/2016/5/28/11772736/canisius-golden-griffins-reggie-witherspoon-hire-head-coach-buffalo-bulls"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Detroit Mercy",
+    "Conference": "Horz",
+    "Coach Name": "Bacari Alexander",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Detroit",
+        "Role": "Assistant Coach",
+        "Start": "2001",
+        "End": "2007"
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Assistant Coach",
+        "Start": "2008",
+        "End": "2008"
+      },
+      {
+        "Organization": "Western Michigan",
+        "Role": "Assistant Coach",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Detroit Mercy",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Denver",
+        "Role": "Assistant Coach",
+        "Start": "2019",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Detroit Mercy",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018",
+        "Record": "16-47",
+        "WinPct": 0.254
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bacari_Alexander",
+      "https://www.freep.com/story/sports/college/university-michigan/wolverines/2016/04/21/udm-basketball-bacari-alexander-michigan/83326988/",
+      "https://www.freep.com/story/sports/college/2018/03/26/detroit-mercy-fires-bacari-alexander/459436002/",
+      "https://www.mlive.com/broncos/index.ssf/2010/04/assistant_basketball_coach_bac.html",
+      "https://www.usatoday.com/story/sports/ncaab/2013/04/05/michigan-wolverines-final-four-bacari-alexander/2058243/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
