@@ -700,5 +700,140 @@
       "https://unlvrebels.com/sports/mens-basketball/roster/coaches/josh-pastner/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Jacksonville St.",
+    "Conference": "OVC",
+    "Coach Name": "Ray Harper",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Kentucky Wesleyan",
+        "Role": "Assistant Coach",
+        "Start": "1985",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kentucky Wesleyan",
+        "Role": "Associate Head Coach",
+        "Start": "1989",
+        "End": "1996"
+      },
+      {
+        "Organization": "Kentucky Wesleyan",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2005"
+      },
+      {
+        "Organization": "Oklahoma City University",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Assistant Coach",
+        "Start": "2009",
+        "End": "2012"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Jacksonville State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Kentucky Wesleyan",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2005"
+      },
+      {
+        "Organization": "Oklahoma City University",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Jacksonville State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1998-99",
+        "Tournament": "NCAA Division II",
+        "Result": "Champion",
+        "School": "Kentucky Wesleyan"
+      },
+      {
+        "Season": "2000-01",
+        "Tournament": "NCAA Division II",
+        "Result": "Champion",
+        "School": "Kentucky Wesleyan"
+      },
+      {
+        "Season": "2006-07",
+        "Tournament": "NAIA",
+        "Result": "Champion",
+        "School": "Oklahoma City University"
+      },
+      {
+        "Season": "2007-08",
+        "Tournament": "NAIA",
+        "Result": "Champion",
+        "School": "Oklahoma City University"
+      },
+      {
+        "Season": "2011-12",
+        "Tournament": "Sun Belt",
+        "Result": "Champion",
+        "School": "Western Kentucky"
+      },
+      {
+        "Season": "2012-13",
+        "Tournament": "Sun Belt",
+        "Result": "Champion",
+        "School": "Western Kentucky"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "OVC",
+        "Result": "Champion",
+        "School": "Jacksonville State"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kentucky Wesleyan",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ray_Harper_(basketball)",
+      "http://www.jsugamecocksports.com/news/2016/4/6/gamecocks-tab-ray-harper-next-mens-basketball-head-coach.aspx",
+      "http://www.wkusports.com/ViewArticle.dbml?ATCLID=204789389&D8_OEM_ID=5400",
+      "http://www.okcu.edu/athletics/coachdetail.aspx?id=260&c=1",
+      "http://www.bgdailynews.com/sports/wku/wku-s-ray-harper-resigns-following-suspension-of-three-players/article_d32bd8ee-ec92-11e5-adb1-f78176a70948.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
