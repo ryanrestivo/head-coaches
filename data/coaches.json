@@ -1987,5 +1987,87 @@
       "https://www.nba.com/bucks/coaches/terry-porter/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Rutgers",
+    "Conference": "B10",
+    "Coach Name": "Steve Pikiell",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "UConn",
+        "Role": "Assistant Coach",
+        "Start": "1992",
+        "End": "1992"
+      },
+      {
+        "Organization": "Yale",
+        "Role": "Assistant Coach",
+        "Start": "1992",
+        "End": "1995"
+      },
+      {
+        "Organization": "Wesleyan",
+        "Role": "Interim Head Coach",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Central Connecticut State",
+        "Role": "Assistant Coach",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Assistant Coach",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Stony Brook",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2016"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Stony Brook",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2016",
+        "Record": "192-156",
+        "WinPct": 0.552
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "161-160",
+        "WinPct": 0.502
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1999-00",
+        "Tournament": "NCAA Division I",
+        "Result": "Participated (as CCU assistant)",
+        "School": "Central Connecticut State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Steve_Pikiell",
+      "https://scarletknights.com/sports/mens-basketball/roster/coaches/steve-pikiell/",
+      "https://seahawkssb.com/sports/mens-basketball/roster/coaches/steve-pikiell/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
