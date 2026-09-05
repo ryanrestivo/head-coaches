@@ -1252,5 +1252,62 @@
       "https://milwaukeecourieronline.com/index.php/2016/10/28/family-provides-focus-for-new-uwm-basketball-coach/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "NJIT",
+    "Conference": "ASun",
+    "Coach Name": "Brian Kennedy",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "DePaul",
+        "Role": "Assistant Coach",
+        "Start": "1997",
+        "End": "2002"
+      },
+      {
+        "Organization": "NJIT",
+        "Role": "Assistant Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "NJIT",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023"
+      },
+      {
+        "Organization": "Lehigh",
+        "Role": "Assistant Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "NJIT",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023",
+        "Record": "81-123",
+        "WinPct": 0.397
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2018-19",
+        "Tournament": "CIT",
+        "Result": "Second Round",
+        "School": "NJIT"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Kennedy_(basketball)",
+      "http://www.njithighlanders.com/staff.aspx?staff=141",
+      "http://www.app.com/story/sports/college/2016/04/15/njit-hoops-brian-kennedy-atlantic-sun/83069144/",
+      "https://www.sports-reference.com/cbb/coaches/brian-kennedy-2.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
