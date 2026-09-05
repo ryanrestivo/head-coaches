@@ -916,5 +916,98 @@
       "https://www.fiba.basketball/en/players/122607-louis-benton-rowe"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Little Rock",
+    "Conference": "SB",
+    "Coach Name": "Wes Flanigan",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "NW Mississippi CC",
+        "Role": "Assistant Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Assistant Coach",
+        "Start": "2004",
+        "End": "2008"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant Coach",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Nebraska",
+        "Role": "Assistant Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Mississippi State",
+        "Role": "Assistant Coach",
+        "Start": "2012",
+        "End": "2015"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Assistant Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Auburn",
+        "Role": "Assistant Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Assistant Coach",
+        "Start": "2023",
+        "End": "2026"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Assistant Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018",
+        "Record": "22-42",
+        "WinPct": 0.344
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Auburn",
+        "Undergraduate Year": 1997,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Wes_Flanigan",
+      "http://lrtrojans.com/coaches.aspx?rc=408&path=mbball",
+      "http://www.al.com/auburnbasketball/index.ssf/2018/04/wes_flanigan_hired_as_auburns.html",
+      "http://www.espn.com/mens-college-basketball/story/_/id/22703788/university-arkansas-little-rock-fires-coach-team-loses-school-record-25-games",
+      "http://www.uabsports.com/sports/m-baskbl/mtt/flanigan_wes00.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
