@@ -182,5 +182,108 @@
       "https://roanoke.com/sports/new-army-basketball-coach-praises-timesland-influences/article_36177b83-aa87-5b5f-9d90-f58fa0eda7d0.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Canisius",
+    "Conference": "MAAC",
+    "Coach Name": "Reggie Witherspoon",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Sweet Home High School",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1997"
+      },
+      {
+        "Organization": "Erie Community College",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2013"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Assistant Coach",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Chattanooga",
+        "Role": "Assistant Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Canisius",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      },
+      {
+        "Organization": "USA Basketball U-18",
+        "Role": "Assistant Coach",
+        "Start": "2006",
+        "End": "2006"
+      },
+      {
+        "Organization": "USA Basketball U-18",
+        "Role": "Assistant Coach",
+        "Start": "2010",
+        "End": "2010"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Erie Community College",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": "A.A."
+      },
+      {
+        "Undergraduate College": "Empire State College",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": "B.S. (Interdisciplinary Studies)"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Sweet Home High School",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1997"
+      },
+      {
+        "Organization": "Erie Community College",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "1999",
+        "Record": "43-15",
+        "WinPct": 0.7414
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2013",
+        "Record": "198-228",
+        "WinPct": 0.4648
+      },
+      {
+        "Organization": "Canisius",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "Sources": [
+      "https://gogriffs.com/sports/mens-basketball/roster/coaches/reggie-witherspoon/673",
+      "https://www.ubbullrun.com/2016/5/28/11772736/canisius-golden-griffins-reggie-witherspoon-hire-head-coach-buffalo-bulls"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
