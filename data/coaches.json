@@ -835,5 +835,86 @@
       "http://www.bgdailynews.com/sports/wku/wku-s-ray-harper-resigns-following-suspension-of-three-players/article_d32bd8ee-ec92-11e5-adb1-f78176a70948.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "James Madison",
+    "Conference": "CAA",
+    "Coach Name": "Louis Rowe",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "James Madison",
+        "Role": "Graduate Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Assistant Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "FIU",
+        "Role": "Assistant Coach",
+        "Start": "2012",
+        "End": "2015"
+      },
+      {
+        "Organization": "Bowling Green",
+        "Role": "Assistant Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Assistant Coach",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Oregon",
+        "Role": "Assistant Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "Cleveland State",
+        "Role": "Assistant Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "43-85",
+        "WinPct": 0.336
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "James Madison",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Louis_Rowe_(basketball)",
+      "http://jmusports.com/news/2016/3/31/louis-rowe-named-mens-basketball-head-coach.aspx",
+      "https://www.espn.com/mens-college-basketball/story/_/id/28871215/james-madison-parts-ways-louis-rowe-4-seasons",
+      "https://csuvikings.com/news/2025/4/24/mens-basketball-louis-rowe-added-to-cleveland-state-mens-basketball-staff-as-assistant-coach.aspx",
+      "https://www.fiba.basketball/en/players/122607-louis-benton-rowe"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
