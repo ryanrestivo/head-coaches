@@ -2557,5 +2557,57 @@
       "https://vnews.com/2026/03/17/dartmouth-college-mens-basketball-coach/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Delaware",
+    "Conference": "CAA",
+    "Coach Name": "Martin Ingelsby",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Wagner",
+        "Role": "Assistant Coach",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Notre Dame",
+        "Role": "Assistant Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "Delaware",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Delaware",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "157-158",
+        "WinPct": 0.498
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "CAA",
+        "Result": "Champion",
+        "School": "Delaware"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Martin_Ingelsby",
+      "http://collegebasketball.nbcsports.com/2016/05/24/delaware-hires-martin-inglesby-as-head-coach/",
+      "http://www.bluehens.com/ViewArticle.dbml?DB_OEM_ID=29100&amp;ATCLID=210976489",
+      "https://www.inquirer.com/philly/entertainment/movies/20150825_Screenwriter_Brad_Ingelsby__Out_of_Philadelphia_to__Out_of_the_Furnace_.html",
+      "https://www.philly.com/philly/sports/colleges/20160325_Jensen__Homeboy_Martin_Ingelsby_back_in_Philly_with_his_Notre_Dame_team.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
