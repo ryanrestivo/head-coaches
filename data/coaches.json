@@ -2751,5 +2751,103 @@
       "https://usfdons.com/news/2016/3/30/kyle-smith-named-head-mens-basketball-coach-Kyle-Smith-USF-Columbia.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Santa Clara",
+    "Conference": "WCC",
+    "Coach Name": "Herb Sendek",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Central Catholic HS (PA)",
+        "Role": "Assistant Coach",
+        "Start": "1984",
+        "End": "1985"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Graduate Assistant / Assistant Coach",
+        "Start": "1985",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Assistant Coach",
+        "Start": "1989",
+        "End": "1993"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1996"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2006"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2015"
+      },
+      {
+        "Organization": "Santa Clara",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1996"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2006",
+        "Record": "191-132",
+        "WinPct": 0.591
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2015",
+        "Record": "159-137",
+        "WinPct": 0.537
+      },
+      {
+        "Organization": "Santa Clara",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "187-129",
+        "WinPct": 0.592
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1994-95",
+        "Tournament": "MAC",
+        "Result": "Coach of the Year + Regular Season Title",
+        "School": "Miami (OH)"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Herb_Sendek",
+      "http://santaclarabroncos.com/sports/m-baskbl/coaches/sendek_herb",
+      "http://usatoday30.usatoday.com/sports/college/mensbasketball/bonus/2006-11-02-sendek-ariz-state_x.htm",
+      "http://www.carnegiemellontoday.com/issues/july-2009-issue/feature-stories/point-person/",
+      "http://www.muredhawks.com/fls/26100/sports/m_basketball/PDF/2013-14MBKMediaSupplement_Web.pdf?SPSID%3D617734%26SPID%3D87615%26DB_LANG%3DC%26DB_OEM_ID%3D26100"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
