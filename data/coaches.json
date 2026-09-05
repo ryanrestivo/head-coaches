@@ -1615,5 +1615,99 @@
       "http://www.kauffmansports.com/jeff-linder.php"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Pacific",
+    "Conference": "WCC",
+    "Coach Name": "Damon Stoudamire",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Rice",
+        "Role": "Director of Player Development",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "Memphis (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Arizona (College)",
+        "Role": "Assistant Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Memphis (College)",
+        "Role": "Assistant Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Pacific",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      },
+      {
+        "Organization": "Boston Celtics (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2026"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Assistant Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Pacific",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "71-77",
+        "WinPct": 0.48
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2026"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Arizona",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2024-25",
+        "Tournament": "NIT",
+        "Result": "First Round",
+        "School": "Georgia Tech"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Damon_Stoudamire",
+      "https://tigerswcc.com/sports/mens-basketball/roster/coaches/damon-stoudamire/",
+      "http://pacifica.com/sports/mens-basketball/roster/coaches/damon-stoudamire/",
+      "https://www.nba.com/celtics/staff-directories/damon-stoudamire-assistant-coach"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
