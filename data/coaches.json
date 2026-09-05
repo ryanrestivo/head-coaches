@@ -2405,5 +2405,71 @@
       "https://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122002125.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Cornell",
+    "Conference": "Ivy",
+    "Coach Name": "Brian Earl",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Princeton",
+        "Role": "Assistant / Associate Head Coach",
+        "Start": "2007",
+        "End": "2016"
+      },
+      {
+        "Organization": "Cornell",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "William & Mary",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Cornell",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "96-103",
+        "WinPct": 0.482
+      },
+      {
+        "Organization": "William & Mary",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null,
+        "Record": "37-27",
+        "WinPct": 0.578
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2018-19",
+        "Tournament": "CIT",
+        "Result": "First Round",
+        "School": "Cornell"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "NIT",
+        "Result": "First Round",
+        "School": "Cornell"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Earl",
+      "http://articles.philly.com/1994-03-28/news/25847456_1_jersey-team-basketball-team-career-points",
+      "http://articles.philly.com/1995-03-29/news/25700441_1_brian-earl-princeton-team-danny-earl",
+      "http://articles.philly.com/1996-01-11/sports/25654032_1_coach-carril-brian-earl-princeton",
+      "http://cornellsun.com/2016/04/18/princeton-associate-head-coach-brian-earl-named-cornell-mens-basketball-head-coach/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
