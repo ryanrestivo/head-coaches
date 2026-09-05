@@ -2069,5 +2069,132 @@
       "https://seahawkssb.com/sports/mens-basketball/roster/coaches/steve-pikiell/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "SMU",
+    "Conference": "Amer",
+    "Coach Name": "Tim Jankovich",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Texas-Pan American",
+        "Role": "Graduate Assistant",
+        "Start": "1983",
+        "End": "1984"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant Coach",
+        "Start": "1984",
+        "End": "1986"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant Coach",
+        "Start": "1986",
+        "End": "1987"
+      },
+      {
+        "Organization": "Colorado State",
+        "Role": "Associate Head Coach",
+        "Start": "1987",
+        "End": "1991"
+      },
+      {
+        "Organization": "Baylor",
+        "Role": "Assistant Coach",
+        "Start": "1991",
+        "End": "1992"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Assistant Coach",
+        "Start": "1992",
+        "End": "1993"
+      },
+      {
+        "Organization": "North Texas",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1997"
+      },
+      {
+        "Organization": "Hutchinson CC",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Assistant Coach",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Assistant Coach",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2012"
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Associate Head Coach / Head Coach",
+        "Start": "2012",
+        "End": "2022"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "North Texas",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1997",
+        "Record": "53-57",
+        "WinPct": 0.482
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2012",
+        "Record": "104-64",
+        "WinPct": 0.619
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2022",
+        "Record": "125-64",
+        "WinPct": 0.661
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2018-19",
+        "Tournament": "AAC",
+        "Result": "Champion (SMU)",
+        "School": "SMU"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tim_Jankovich",
+      "https://smutigers.com/sports/mens-basketball/roster/coaches/tim-jankovich/",
+      "https://illinoisstate.com/sports/mens-basketball/roster/coaches/tim-jankovich/",
+      "https://www.northtexasknights.com/sports/mens-basketball/roster/coaches/tim-jankovich/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
