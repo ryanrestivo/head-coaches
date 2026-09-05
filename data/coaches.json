@@ -586,5 +586,119 @@
       "https://richmondspiders.com/news/2021/5/17/mens-basketball-mooney-adds-maurice-joseph-kevin-hovde-to-mens-basketball-staff.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Georgia Tech",
+    "Conference": "ACC",
+    "Coach Name": "Josh Pastner",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Arizona",
+        "Role": "Assistant Coach",
+        "Start": "2002",
+        "End": "2008"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Assistant Coach",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016",
+        "Record": "167-73",
+        "WinPct": 0.696
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023",
+        "Record": "109-114",
+        "WinPct": 0.489
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 64",
+        "School": "Memphis"
+      },
+      {
+        "Season": "2012-13",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32",
+        "School": "Memphis"
+      },
+      {
+        "Season": "2013-14",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32",
+        "School": "Memphis"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "NIT",
+        "Result": "Runner-up",
+        "School": "Georgia Tech"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 64",
+        "School": "Georgia Tech"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Arizona",
+        "Undergraduate Year": 1998,
+        "Undergraduate Degree": "B.S. (Family Studies)"
+      },
+      {
+        "Graduate College": "Arizona",
+        "Graduate Year": 1999,
+        "Graduate Degree": "M.S. (Teaching and Teacher Education)"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Josh_Pastner",
+      "http://grfx.cstv.com/photos/schools/mem/sports/m-baskbl/auto_pdf/CoachPastnerBio.pdf",
+      "http://gotigersgo.cstv.com/sports/m-baskbl/mtt/pastner_josh00.html",
+      "https://www.espn.com/mens-college-basketball/story/_/id/4527261",
+      "https://unlvrebels.com/sports/mens-basketball/roster/coaches/josh-pastner/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
