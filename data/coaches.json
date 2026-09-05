@@ -1933,5 +1933,59 @@
       "https://www.espn.com/mens-college-basketball/story/_/id/31038575/pittsburgh-names-kevin-stallings-head-coach"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Portland",
+    "Conference": "WCC",
+    "Coach Name": "Terry Porter",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Sacramento Kings (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Milwaukee Bucks (NBA)",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Detroit Pistons (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Phoenix Suns (NBA)",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "Portland",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Portland",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "43-103",
+        "WinPct": 0.293
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Terry_Porter",
+      "https://gopilots.com/sports/mens-basketball/roster/coaches/terry-porter/",
+      "https://www.nba.com/bucks/coaches/terry-porter/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
