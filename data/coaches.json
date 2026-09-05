@@ -436,5 +436,78 @@
       "https://www.wmubroncos.com/sports/mens-basketball/roster/coaches/jeff-rutter/4506"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Drexel",
+    "Conference": "CAA",
+    "Coach Name": "Zach Spiker",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Cornell",
+        "Role": "Assistant Coach",
+        "Start": "2004",
+        "End": "2009"
+      },
+      {
+        "Organization": "Army",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "Drexel",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Army",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016",
+        "Record": "102-112",
+        "WinPct": 0.477
+      },
+      {
+        "Organization": "Drexel",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "9-23",
+        "WinPct": 0.2813
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "CAA",
+        "Result": "Champions",
+        "School": "Drexel"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 64",
+        "School": "Drexel"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Ithaca College",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Zach_Spiker",
+      "http://www.csnphilly.com/ncaa/zach-spiker-says-love-philly-attracted-him-drexel-job",
+      "http://www.drexeldragons.com/coaches.aspx?rc=796",
+      "http://www.goarmywestpoint.com/coaches.aspx?rc=388",
+      "https://cornellbigred.com/sports/mens-basketball/roster/coaches/zach-spiker/516"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
