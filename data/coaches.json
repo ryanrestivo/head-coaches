@@ -1709,5 +1709,97 @@
       "https://www.nba.com/celtics/staff-directories/damon-stoudamire-assistant-coach"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Pittsburgh",
+    "Conference": "ACC",
+    "Coach Name": "Kevin Stallings",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Purdue",
+        "Role": "Assistant Coach",
+        "Start": "1982",
+        "End": "1988"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant Coach",
+        "Start": "1988",
+        "End": "1993"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1999"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2016"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Illinois State",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1999",
+        "Record": "123-63",
+        "WinPct": 0.661
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2016",
+        "Record": "332-220",
+        "WinPct": 0.601
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018",
+        "Record": "24-41",
+        "WinPct": 0.369
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "SEC",
+        "Result": "Champion",
+        "School": "Vanderbilt"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Purdue",
+        "Undergraduate Year": 1982,
+        "Undergraduate Degree": "B.S. (Business Management)"
+      },
+      {
+        "Graduate College": "Purdue",
+        "Graduate Year": 1984,
+        "Graduate Degree": "M.S. (Counseling)"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kevin_Stallings",
+      "https://pittsburghpanthers.com/sports/mens-basketball/roster/coaches/kevin-stallings/",
+      "http://secnetwork.com/sports/vandy-mbb/mtt/stallings_kevin00.html",
+      "https://illinoisstate.com/sports/mens-basketball/roster/coaches/kevin-stallings/",
+      "https://www.espn.com/mens-college-basketball/story/_/id/31038575/pittsburgh-names-kevin-stallings-head-coach"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
