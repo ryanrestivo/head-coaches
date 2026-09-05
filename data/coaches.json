@@ -1309,5 +1309,107 @@
       "https://www.sports-reference.com/cbb/coaches/brian-kennedy-2.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "New Mexico St.",
+    "Conference": "WAC",
+    "Coach Name": "Paul Weir",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Don Bosco Catholic HS",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "Northwestern State",
+        "Role": "Assistant Coach",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Assistant Coach",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Assistant Coach",
+        "Start": "2007",
+        "End": "2016"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Eastern New Mexico",
+        "Role": "Athletic Director",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Abilene Christian",
+        "Role": "Associate VP for Athletics",
+        "Start": "2023",
+        "End": "2026"
+      },
+      {
+        "Organization": "St. Michael's High School",
+        "Role": "President",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017",
+        "Record": "28-6",
+        "WinPct": 0.824
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "58-63",
+        "WinPct": 0.479
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "WAC",
+        "Result": "Champion",
+        "School": "New Mexico State"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "NCAA Division I",
+        "Result": "First Round",
+        "School": "New Mexico State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Paul_Weir_(basketball)",
+      "http://www.nmstatesports.com/coaches.aspx?rc=313",
+      "http://golobos.com/coaches.aspx?rc=533",
+      "https://www.abqjournal.com/985951",
+      "https://www.enmu.edu/about/news-and-events/enmu-news/general-news/3150-dr-paul-weir-appointed-eastern-new-mexico-university-director-of-athletics"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
