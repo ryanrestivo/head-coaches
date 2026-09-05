@@ -2609,5 +2609,55 @@
       "https://www.philly.com/philly/sports/colleges/20160325_Jensen__Homeboy_Martin_Ingelsby_back_in_Philly_with_his_Notre_Dame_team.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Denver",
+    "Conference": "MWC",
+    "Coach Name": "Rodney Billups",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Colorado",
+        "Role": "Assistant Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Denver",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      },
+      {
+        "Organization": "Portland Trail Blazers (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2022",
+        "End": "2024"
+      },
+      {
+        "Organization": "Denver Nuggets (NBA)",
+        "Role": "Assistant Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Denver",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "48-94",
+        "WinPct": 0.338
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rodney_Billups",
+      "http://www.denverpioneers.com/sports/m-baskbl/mtt/billups_rodney00.html",
+      "http://www.denverpioneers.com/sports/m-baskbl/mtt/rodney_billups_1008538.html",
+      "http://www.denverpost.com/colleges/ci_29636497/rodney-billups-named-denver-pioneers-mens-basketball-coach",
+      "http://www.nba.com/dleague/news/draft_board.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
