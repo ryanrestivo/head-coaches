@@ -2471,5 +2471,91 @@
       "http://cornellsun.com/2016/04/18/princeton-associate-head-coach-brian-earl-named-cornell-mens-basketball-head-coach/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Dartmouth",
+    "Conference": "Ivy",
+    "Coach Name": "David McLaughlin",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Suffolk",
+        "Role": "Assistant Coach",
+        "Start": "1997",
+        "End": "1998"
+      },
+      {
+        "Organization": "Wesleyan",
+        "Role": "Assistant Coach",
+        "Start": "1998",
+        "End": "2000"
+      },
+      {
+        "Organization": "Stonehill",
+        "Role": "Assistant Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Stonehill",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2013"
+      },
+      {
+        "Organization": "Northeastern",
+        "Role": "Assistant Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Dartmouth",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2026"
+      },
+      {
+        "Organization": "Colby",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Stonehill",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2013"
+      },
+      {
+        "Organization": "Dartmouth",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2026"
+      },
+      {
+        "Organization": "Colby",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "NE-10",
+        "Result": "Champion",
+        "School": "Stonehill"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/David_McLaughlin_(basketball)",
+      "http://www.dartmouthsports.com/ViewArticle.dbml?DB_OEM_ID=11600&amp;ATCLID=210910840",
+      "http://www.dartmouthsports.com/ViewArticle.dbml?DB_OEM_ID=11600&amp;ATCLID=210931619",
+      "https://colbyathletics.com/news/2026/4/30/mens-basketball-mclaughlin-to-lead-colby-mens-basketball-program.aspx",
+      "https://vnews.com/2026/03/17/dartmouth-college-mens-basketball-coach/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
