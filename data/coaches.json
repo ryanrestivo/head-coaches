@@ -2659,5 +2659,97 @@
       "http://www.nba.com/dleague/news/draft_board.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "San Francisco",
+    "Conference": "WCC",
+    "Coach Name": "Kyle Smith",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "San Diego",
+        "Role": "Assistant Coach",
+        "Start": "1992",
+        "End": "2000"
+      },
+      {
+        "Organization": "Air Force",
+        "Role": "Assistant Coach",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "Saint Mary's",
+        "Role": "Assistant Coach",
+        "Start": "2001",
+        "End": "2010"
+      },
+      {
+        "Organization": "Columbia",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2022"
+      },
+      {
+        "Organization": "Washington State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2024"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Columbia",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016",
+        "Record": "101-82",
+        "WinPct": 0.552
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2022",
+        "Record": "63-40",
+        "WinPct": 0.612
+      },
+      {
+        "Organization": "Washington State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2024",
+        "Record": "94-71",
+        "WinPct": 0.57
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null,
+        "Record": "41-27",
+        "WinPct": 0.603
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kyle_Smith_(basketball)",
+      "http://usfdons.com/coaches.aspx?rc=420&amp;path=mbball",
+      "http://www.gocolumbialions.com/ViewArticle.dbml?SPSID=43664&amp;SPID=3886&amp;DB_OEM_ID=9600&amp;ATCLID=204940599&amp;Q_SEASON=2010",
+      "https://core.ac.uk/download/pdf/289237672.pdf",
+      "https://usfdons.com/news/2016/3/30/kyle-smith-named-head-mens-basketball-coach-Kyle-Smith-USF-Columbia.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
