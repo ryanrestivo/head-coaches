@@ -2849,5 +2849,109 @@
       "http://www.muredhawks.com/fls/26100/sports/m_basketball/PDF/2013-14MBKMediaSupplement_Web.pdf?SPSID%3D617734%26SPID%3D87615%26DB_LANG%3DC%26DB_OEM_ID%3D26100"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "South Dakota St.",
+    "Conference": "Summit",
+    "Coach Name": "T.J. Otzelberger",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Burlington Catholic HS (WI)",
+        "Role": "Varsity Head Coach / AD",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Chipola CC",
+        "Role": "Assistant Coach",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant / Associate Head Coach",
+        "Start": "2006",
+        "End": "2013"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Associate Head Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019",
+        "Record": "70-33",
+        "WinPct": 0.68
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021",
+        "Record": "29-30",
+        "WinPct": 0.491
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null,
+        "Record": "124-53",
+        "WinPct": 0.701
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 16 (as Iowa State assistant)",
+        "School": "Iowa State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/TJ_Otzelberger",
+      "http://big12sports.com/documents/2024/3/10/2023_24_All_Big_12_MBB_Teams.pdf",
+      "http://big12sports.com/news/2024/3/16/mens-basketball-no-7-iowa-state-wins-phillips-66-big-12-mbb-championship-final-69-41-over-no-1-houston.aspx",
+      "http://big12sports.com/news/2025/3/10/phillips-66-all-big-12-mens-basketball-awards-announced.aspx",
+      "http://hoopedia.nba.com/index.php?title=Chipola_College"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
