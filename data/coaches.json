@@ -1,0 +1,99 @@
+{
+  "School": "Arkansas St.",
+  "Conference": "SB",
+  "Coach Name": "Grant McCasland",
+  "Year": 2016,
+  "Background": [
+    {
+      "Organization": "Texas Tech",
+      "Role": "Director of Operations",
+      "Start": "1999",
+      "End": "2001"
+    },
+    {
+      "Organization": "Northeastern JC",
+      "Role": "Assistant Coach",
+      "Start": "2001",
+      "End": "2003"
+    },
+    {
+      "Organization": "Midland College",
+      "Role": "Head Coach",
+      "Start": "2004",
+      "End": "2009"
+    },
+    {
+      "Organization": "Midwestern State",
+      "Role": "Head Coach",
+      "Start": "2009",
+      "End": "2011",
+      "Record": "143-32",
+      "WinPct": 0.8171
+    },
+    {
+      "Organization": "Baylor",
+      "Role": "Assistant Coach",
+      "Start": "2011",
+      "End": "2016"
+    }
+  ],
+  "Education": [
+    {
+      "Undergraduate College": "Baylor",
+      "Undergraduate Year": 1999,
+      "Undergraduate Degree": "B.S."
+    },
+    {
+      "Graduate College": "Texas Tech",
+      "Graduate Year": 2001,
+      "Graduate Degree": "M.S."
+    }
+  ],
+  "HeadCoachingRecords": [
+    {
+      "Organization": "Midwestern State",
+      "Role": "Head Coach",
+      "Start": "2009",
+      "End": "2011",
+      "Record": "143-32",
+      "WinPct": 0.8171
+    }
+  ],
+  "PostseasonExperience": [
+    {
+      "Season": "2004-05",
+      "Tournament": "NJCAA",
+      "Result": "Elite Eight",
+      "School": "Midland College"
+    },
+    {
+      "Season": "2006-07",
+      "Tournament": "NJCAA",
+      "Result": "National Champions",
+      "School": "Midland College"
+    },
+    {
+      "Season": "2008-09",
+      "Tournament": "NJCAA",
+      "Result": "National Finals",
+      "School": "Midland College"
+    },
+    {
+      "Season": "2009-10",
+      "Tournament": "NCAA Division II",
+      "Result": "Elite Eight",
+      "School": "Midwestern State"
+    },
+    {
+      "Season": "2010-11",
+      "Tournament": "NCAA Division II",
+      "Result": "Elite Eight",
+      "School": "Midwestern State"
+    }
+  ],
+  "Sources": [
+    "https://astateredwolves.com/sports/2016/3/16/210809295.aspx",
+    "https://astateredwolves.com/staff-directory/grant-mccasland/223"
+  ],
+  "ResearchDate": "2026-09-04"
+}
