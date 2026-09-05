@@ -2328,5 +2328,82 @@
       "http://www.ekusports.com/sports/m-baskbl/mtt/ford_travis00.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Columbia",
+    "Conference": "Ivy",
+    "Coach Name": "Jim Engles",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Wagner",
+        "Role": "Assistant Coach",
+        "Start": "1991",
+        "End": "1997"
+      },
+      {
+        "Organization": "Rider",
+        "Role": "Assistant Coach",
+        "Start": "1997",
+        "End": "2003"
+      },
+      {
+        "Organization": "Columbia",
+        "Role": "Assistant Coach",
+        "Start": "2003",
+        "End": "2008"
+      },
+      {
+        "Organization": "NJIT",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016"
+      },
+      {
+        "Organization": "Columbia",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "NJIT",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016",
+        "Record": "111-139",
+        "WinPct": 0.444
+      },
+      {
+        "Organization": "Columbia",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2025",
+        "Record": "71-150",
+        "WinPct": 0.321
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "Great West",
+        "Result": "Coach of the Year",
+        "School": "NJIT"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "CIT",
+        "Result": "Semifinals",
+        "School": "NJIT"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jim_Engles (Wikipedia)",
+      "http://web1.ncaa.org/stats/StatsSrv/careercoach",
+      "http://www.nydailynews.com/sports/college/jim-engles-leaving-njit-takes-columbia-article-1.2585444",
+      "https://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122002125.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
