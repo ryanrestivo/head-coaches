@@ -1513,5 +1513,107 @@
       "http://www.southlandconference.com/sports/general/2018/6/14/ma_RBMB_0614180612.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Northern Colorado",
+    "Conference": "BSky",
+    "Coach Name": "Jeff Linder",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Colorado",
+        "Role": "Assistant Director of Basketball Operations",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "Emporia State",
+        "Role": "Assistant Coach",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Midland College",
+        "Role": "Assistant Coach",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "Weber State",
+        "Role": "Assistant Coach",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Assistant / Associate Head Coach",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Boise State",
+        "Role": "Assistant / Associate Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Northern Colorado",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Northern Colorado",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "80-50",
+        "WinPct": 0.615
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024",
+        "Record": "63-59",
+        "WinPct": 0.516
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "CIT",
+        "Result": "Champion",
+        "School": "Northern Colorado"
+      },
+      {
+        "Season": "2012-13",
+        "Tournament": "NCAA Division I",
+        "Result": "Participated (associate HC, Boise State)",
+        "School": "Boise State"
+      },
+      {
+        "Season": "2014-15",
+        "Tournament": "NCAA Division I",
+        "Result": "Participated (associate HC, Boise State)",
+        "School": "Boise State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jeff_Linder",
+      "http://www.broncosports.com/sports/m-baskbl/mtt/jeff_linder_843538.html",
+      "https://bigskyconf.com/news/2019/3/12/mens-basketball-jeff-linder-named-bigskymbb-coach-of-the-year.aspx",
+      "https://gowyo.com/news/2020/3/17/mens-basketball-jeff-linder-named-head-coach-of-cowboy-basketball-program.aspx",
+      "http://www.kauffmansports.com/jeff-linder.php"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
