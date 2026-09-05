@@ -1174,5 +1174,83 @@
       "http://www.cbssports.com/collegebasketball/blog/eye-on-college-basketball/21948116/tubby-smith-out-at-minnesota"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Milwaukee",
+    "Conference": "Horz",
+    "Coach Name": "LaVall Jordan",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Butler",
+        "Role": "Assistant Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Assistant Coach",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "DePaul",
+        "Role": "Assistant Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017",
+        "Record": "11-24",
+        "WinPct": 0.314
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022",
+        "Record": "83-74",
+        "WinPct": 0.529
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32",
+        "School": "Butler"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/LaVall_Jordan",
+      "http://collegebasketball.ap.org/article/milwaukee-hires-michigan-assistant-lavall-jordan-coach",
+      "http://www.horizonleague.org/blog/milwaukee-hires-lavall-jordan-as-mens-basketball-head-coach",
+      "http://www.bizjournals.com/milwaukee/news/2016/04/07/uwm-hires-michigan-assistant-lavall-jordan-to.html",
+      "https://milwaukeecourieronline.com/index.php/2016/10/28/family-provides-focus-for-new-uwm-basketball-coach/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
