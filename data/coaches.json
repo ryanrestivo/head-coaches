@@ -2196,5 +2196,137 @@
       "https://www.northtexasknights.com/sports/mens-basketball/roster/coaches/tim-jankovich/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Saint Louis",
+    "Conference": "A10",
+    "Coach Name": "Travis Ford",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Campbellsville",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2000"
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2005"
+      },
+      {
+        "Organization": "Massachusetts",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016"
+      },
+      {
+        "Organization": "Saint Louis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Campbellsville",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "1999",
+        "Record": "67-31",
+        "WinPct": 0.684
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2005",
+        "Record": "61-80",
+        "WinPct": 0.433
+      },
+      {
+        "Organization": "Massachusetts",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008",
+        "Record": "62-35",
+        "WinPct": 0.639
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016",
+        "Record": "155-111",
+        "WinPct": 0.583
+      },
+      {
+        "Organization": "Saint Louis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "146-109",
+        "WinPct": 0.573
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2004-05",
+        "Tournament": "OVC",
+        "Result": "Champion",
+        "School": "Eastern Kentucky"
+      },
+      {
+        "Season": "2006-07",
+        "Tournament": "A-10 regular season",
+        "Result": "Co-Champion",
+        "School": "Massachusetts"
+      },
+      {
+        "Season": "2007-08",
+        "Tournament": "NIT",
+        "Result": "Finals (Runner-up)",
+        "School": "Massachusetts"
+      },
+      {
+        "Season": "2008-09",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32",
+        "School": "Oklahoma State"
+      },
+      {
+        "Season": "2018-19",
+        "Tournament": "A-10 tournament",
+        "Result": "Champion",
+        "School": "Saint Louis"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Travis_Ford",
+      "https://slubillickens.com/sports/mens-basketball/roster/coaches/travis-ford/",
+      "https://okstate.com/sports/mens-basketball/roster/coaches/travis-ford/",
+      "https://umassminutemen.com/sports/mens-basketball/roster/coaches/travis-ford/",
+      "http://www.ekusports.com/sports/m-baskbl/mtt/ford_travis00.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
