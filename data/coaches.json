@@ -1411,5 +1411,107 @@
       "https://www.enmu.edu/about/news-and-events/enmu-news/general-news/3150-dr-paul-weir-appointed-eastern-new-mexico-university-director-of-athletics"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Nicholls St.",
+    "Conference": "Slnd",
+    "Coach Name": "Richie Riley",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Georgetown (KY)",
+        "Role": "Assistant Coach",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Hawaii Pacific",
+        "Role": "Assistant Coach",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Pikeville",
+        "Role": "Assistant Coach",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Coastal Carolina",
+        "Role": "Assistant Coach",
+        "Start": "2009",
+        "End": "2011"
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Assistant Coach",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant Coach",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Clemson",
+        "Role": "Assistant Coach",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "Nicholls State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Nicholls State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018",
+        "Record": "35-28",
+        "WinPct": 0.556
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "152-106",
+        "WinPct": 0.589
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "NIT",
+        "Result": "First Round",
+        "School": "Nicholls State"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Eastern Kentucky",
+        "Undergraduate Year": 2002,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Richie_Riley",
+      "https://www.southalbajaguars.com/sports/mens-basketball/roster/coaches/richie-riley/",
+      "https://www.nicollethegators.com/sports/mens-basketball/roster/coaches/richie-riley/",
+      "http://www.southlandconference.com/sports/general/2018/6/14/ma_RBMB_0614180612.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
