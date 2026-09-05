@@ -509,5 +509,82 @@
       "https://cornellbigred.com/sports/mens-basketball/roster/coaches/zach-spiker/516"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "George Washington",
+    "Conference": "A10",
+    "Coach Name": "Maurice Joseph",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "George Washington",
+        "Role": "Director of Basketball Operations / Assistant Coach",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Interim Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Fairleigh Dickinson",
+        "Role": "Assistant Coach",
+        "Start": "2019",
+        "End": "2020"
+      },
+      {
+        "Organization": "George Mason",
+        "Role": "Assistant Coach",
+        "Start": "2020",
+        "End": "2021"
+      },
+      {
+        "Organization": "Richmond",
+        "Role": "Assistant Coach",
+        "Start": "2021",
+        "End": "2022"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Assistant Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "George Washington",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019",
+        "Record": "44-57",
+        "WinPct": 0.436
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "CBI",
+        "Result": "Quarterfinal",
+        "School": "George Washington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Maurice_Joseph",
+      "https://gwtoday.gwu.edu/maurice-joseph-named-head-coach-men%E2%80%99s-basketball",
+      "http://www.gwsports.com/sports/m-baskbl/mtt/joseph_maurice00.html",
+      "http://fduknights.com/news/2019/8/7/mens-basketball-herenda-adds-maurice-joseph-to-coaching-staff.aspx",
+      "https://gomason.com/sports/mens-basketball/roster/coaches/maurice-joseph/871",
+      "https://richmondspiders.com/news/2021/5/17/mens-basketball-mooney-adds-maurice-joseph-kevin-hovde-to-mens-basketball-staff.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
