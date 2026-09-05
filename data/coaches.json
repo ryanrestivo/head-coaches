@@ -1009,5 +1009,170 @@
       "http://www.uabsports.com/sports/m-baskbl/mtt/flanigan_wes00.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Memphis",
+    "Conference": "Amer",
+    "Coach Name": "Tubby Smith",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Great Mills HS",
+        "Role": "Head Coach",
+        "Start": "1973",
+        "End": "1977"
+      },
+      {
+        "Organization": "Hoke County HS",
+        "Role": "Head Coach",
+        "Start": "1977",
+        "End": "1979"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant Coach",
+        "Start": "1979",
+        "End": "1986"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Assistant Coach",
+        "Start": "1986",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Assistant Coach",
+        "Start": "1989",
+        "End": "1991"
+      },
+      {
+        "Organization": "Tulsa",
+        "Role": "Head Coach",
+        "Start": "1991",
+        "End": "1995"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1997"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2007"
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "High Point",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tulsa",
+        "Role": "Head Coach",
+        "Start": "1991",
+        "End": "1995",
+        "Record": "79-43",
+        "WinPct": 0.648
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1997",
+        "Record": "45-19",
+        "WinPct": 0.703
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2007",
+        "Record": "263-83",
+        "WinPct": 0.76
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013",
+        "Record": "124-81",
+        "WinPct": 0.605
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016",
+        "Record": "46-50",
+        "WinPct": 0.479
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018",
+        "Record": "40-26",
+        "WinPct": 0.606
+      },
+      {
+        "Organization": "High Point",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "45-67",
+        "WinPct": 0.402
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1997-98",
+        "Tournament": "NCAA Division I",
+        "Result": "Champion",
+        "School": "Kentucky"
+      },
+      {
+        "Season": "1993-94",
+        "Tournament": "NCAA Division I",
+        "Result": "Sweet 16",
+        "School": "Tulsa"
+      },
+      {
+        "Season": "1995-96",
+        "Tournament": "NCAA Division I",
+        "Result": "Sweet 16",
+        "School": "Georgia"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tubby_Smith",
+      "https://web.archive.org/web/20150513020723/http://www.ukathletics.com/sports/m-baskbl/mtt/smith_tubby00.html",
+      "https://www.espn.com/mens-college-basketball/news/story?id=2681321",
+      "http://www.cbssports.com/collegebasketball/blog/eye-on-college-basketball/21948116/tubby-smith-out-at-minnesota"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
