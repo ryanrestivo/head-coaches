@@ -347,5 +347,94 @@
       "https://www.usatoday.com/story/sports/ncaab/2013/04/05/michigan-wolverines-final-four-bacari-alexander/2058243/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Drake",
+    "Conference": "MVC",
+    "Coach Name": "Jeff Rutter",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "North Dakota State",
+        "Role": "Assistant Coach",
+        "Start": "1990",
+        "End": "1995"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Assistant Coach",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Wisconsin-Parkside",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2003"
+      },
+      {
+        "Organization": "Northern Iowa",
+        "Role": "Assistant Coach",
+        "Start": "2003",
+        "End": "2006"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant Coach",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Director of Basketball Operations",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Assistant Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Interim Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Assistant Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "Western Michigan",
+        "Role": "Assistant Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wisconsin-Parkside",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2003"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Interim Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jeff_Rutter",
+      "http://www.desmoinesregister.com/story/sports/college/drake/drake-bulldogs/2016/12/06/giacolettis-resignation-rutter-gets-his-first-shot-di-head-coaching-gig/95052942/",
+      "http://www.godrakebulldogs.com/coaches.aspx?rc=2",
+      "https://www.wmubroncos.com/sports/mens-basketball/roster/coaches/jeff-rutter/4506"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
