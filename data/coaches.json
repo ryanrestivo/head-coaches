@@ -1617,6 +1617,138 @@
     "ResearchDate": "2026-09-05"
   },
   {
+    "School": "Oklahoma St.",
+    "Conference": "B12",
+    "Coach Name": "Brad Underwood",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Hardin-Simmons",
+        "Role": "Graduate Assistant",
+        "Start": "1986",
+        "End": "1987"
+      },
+      {
+        "Organization": "Dodge City CC",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1992"
+      },
+      {
+        "Organization": "Western Illinois",
+        "Role": "Assistant Coach",
+        "Start": "1992",
+        "End": "2003"
+      },
+      {
+        "Organization": "Daytona Beach CC",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2006"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant / Associate Head Coach",
+        "Start": "2006",
+        "End": "2012"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Associate Head Coach",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Dodge City CC",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1992",
+        "Record": "62-60",
+        "WinPct": 0.508
+      },
+      {
+        "Organization": "Daytona Beach CC",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2006",
+        "Record": "70-25",
+        "WinPct": 0.737
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016",
+        "Record": "89-14",
+        "WinPct": 0.864
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017",
+        "Record": "20-13",
+        "WinPct": 0.606
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "193-110",
+        "WinPct": 0.637
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-14",
+        "Tournament": "Southland",
+        "Result": "Champion",
+        "School": "Stephen F. Austin"
+      },
+      {
+        "Season": "2014-15",
+        "Tournament": "Southland",
+        "Result": "Champion",
+        "School": "Stephen F. Austin"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "Southland",
+        "Result": "Champion",
+        "School": "Stephen F. Austin"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brad_Underwood",
+      "https://outlawsok.com/sports/mens-basketball/roster/coaches/brad-underwood/",
+      "https://goillini.com/sports/mens-basketball/roster/coaches/brad-underwood/",
+      "http://www.sfasports.com/sports/mens-basketball/roster/coaches/brad-underwood/",
+      "http://hsuathletics.com/sports/m-baskbl/Lettermen"
+    ],
+    "ResearchDate": "2026-09-05"
+  },
+  {
     "School": "Pacific",
     "Conference": "WCC",
     "Coach Name": "Damon Stoudamire",
