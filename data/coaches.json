@@ -7030,5 +7030,77 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia TOC has a Coaching career section I couldn't extract cleanly (Purdue, Missouri State, Tennessee, California, Missouri are the documented stints per TOC). Specific year-ranges for Missouri (2013-17) need verification."
+  },
+  {
+    "School": "Morehead St.",
+    "Conference": "OVC",
+    "Coach Name": "Preston Spradlin",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Kentucky",
+        "Role": "Graduate Assistant",
+        "Start": "2009",
+        "End": "2011"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Director of Basketball Optrations",
+        "Start": "2011",
+        "End": "2014"
+      },
+      {
+        "Organization": "Morehead State",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "Morehead State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Morehead State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "178-136",
+        "WinPct": 0.567
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "OVC",
+        "Result": "OVC Tournament Champion (2021, 2024), 2x Reg Season (2023, 2024), 2x CoY (2021, 2023) (as Morehead HC); Sun Belt Reg Season (2025)",
+        "School": "Morehead State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Preston_Spradlin",
+      "http://collegebasketball.ap.org/article/sean-woods-resigns-morehead-state-mens-basketball-coach",
+      "http://www.msueagles.com/coaches.aspx?rc=494",
+      "http://www.msueagles.com/news/2017/3/28/preston-spradlin-formally-introduced-as-mens-basketball-head-coach.aspx",
+      "https://msueagles.com/sports/mens-basketball/roster/coaches/preston-spradlin/1039"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "CSV lists 2017 hire; wiki shows Morehead HC 2016-24. Discrepancy noted."
   }
 ]
