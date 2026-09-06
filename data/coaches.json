@@ -5949,5 +5949,154 @@
       "https://goeags.com/news/2020/3/12/mens-basketball-big-sky-conference-cancels-tournament.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Florida A&M",
+    "Conference": "MEAC",
+    "Coach Name": "Robert McCullum",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Council Junior HS",
+        "Role": "Head Coach",
+        "Start": "1976",
+        "End": "1978"
+      },
+      {
+        "Organization": "Ramsay HS",
+        "Role": "Assistant",
+        "Start": "1978",
+        "End": "1982"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1983"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Assistant",
+        "Start": "1984",
+        "End": "1985"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Assistant",
+        "Start": "1985",
+        "End": "1987"
+      },
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1990"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1996"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2000"
+      },
+      {
+        "Organization": "Western Michigan",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2003"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "UCF",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Guangzhou Long-Lions",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Oregon",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Florida A&M",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Western Michigan",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2003"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Florida A&M",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024",
+        "Record": "151-254",
+        "WinPct": 0.373
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "MEAC",
+        "Result": "MEAC Coach of the Year (2021) (as FAMU HC)",
+        "School": "Florida A&M"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Robert_McCullum",
+      "http://blogs.orlandosentinel.com/sports_college_ucf/2009/07/ucf-officially-hires-for-usf-head-coach-to-join-mens-basketball-staff.html",
+      "http://www.goducks.com/coaches.aspx?rc=1535&amp;path=mbball",
+      "http://www.tallahassee.com/story/sports/college/famu/2017/05/16/robert-mccullum-introduced-famus-new-basketball-coach/101752642/",
+      "http://www.tampabay.com/blogs/bulls/2007/12/mccullum-back-i.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
