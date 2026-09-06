@@ -3666,5 +3666,84 @@
       "https://www.al.com/sports/index.ssf/2016/04/rob_ehsan_uab.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UCF",
+    "Conference": "AEast",
+    "Coach Name": "Johnny Dawkins",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Duke",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Duke",
+        "Role": "Associate HC",
+        "Start": "1999",
+        "End": "2008"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016"
+      },
+      {
+        "Organization": "UCF",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2016",
+        "Record": "156-115",
+        "WinPct": 0.576
+      },
+      {
+        "Organization": "UCF",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "189-132",
+        "WinPct": 0.589
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Duke",
+        "Undergraduate Year": 1986,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2009-10",
+        "Tournament": "NIT",
+        "Result": "Champion (as Stanford HC)",
+        "School": "Stanford"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "NIT",
+        "Result": "Champion (as UCF HC)",
+        "School": "UCF"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Johnny_Dawkins",
+      "http://gostanford.cstv.com/sports/m-baskbl/spec-rel/042608aab.html",
+      "http://touch.orlandosentinel.com/#section/-1/article/p2p-86332916/",
+      "http://ucfknights.com/ViewArticle.dbml?DB_OEM_ID=34100&amp;ATCLID=211793507",
+      "http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25516745/stanford-fires-johnny-dawkins"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
