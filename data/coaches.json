@@ -6840,5 +6840,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Thin Wikipedia article; no detailed coaching career table. Flagged for Ryan to verify tenure span + record."
+  },
+  {
+    "School": "Miami OH",
+    "Conference": "Horz",
+    "Coach Name": "Jack Owens",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jack_Owens"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Thin Wikipedia article; minimal coaching-table detail. Flagged for Ryan to verify."
   }
 ]
