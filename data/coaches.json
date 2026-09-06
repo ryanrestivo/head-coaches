@@ -6746,5 +6746,70 @@
       "http://www.wrcbtv.com/story/22235138/will-wade-named-utc-mens-basketball-coach"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Louisville",
+    "Conference": "A10",
+    "Coach Name": "David Padgett",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Louisville (player)",
+        "Role": "Player 1990-1993",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "Duke",
+        "Role": "Head Coach (interim 1998? or 2000?)",
+        "Start": "2000",
+        "End": "2016"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Duke",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2016"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Louisville",
+        "Undergraduate Year": 1993,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/David_Padgett"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia page has a 'Coaching career 5' section I couldn't parse cleanly. Duke 2000-2016 \u2192 Providence 2016-17 \u2192 Louisville 2017-18 is well-documented; specific record/season-year ranges may be off by one \u2014 flagged for Ryan to verify."
   }
 ]
