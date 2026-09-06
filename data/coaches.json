@@ -3745,5 +3745,164 @@
       "http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25516745/stanford-fires-johnny-dawkins"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UMBC",
+    "Conference": "ASun",
+    "Coach Name": "Ryan Odom",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "South Florida",
+        "Role": "GA",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Furman",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "UNC Asheville",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "American",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2003"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2010"
+      },
+      {
+        "Organization": "Charlotte",
+        "Role": "Assistant/Associate HC",
+        "Start": "2010",
+        "End": "2015"
+      },
+      {
+        "Organization": "Charlotte",
+        "Role": "Interim HC",
+        "Start": "2015",
+        "End": "2015"
+      },
+      {
+        "Organization": "Lenoir-Rhyne",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "UMBC",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Charlotte (interim)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2015",
+        "Record": "8-11",
+        "WinPct": 0.421
+      },
+      {
+        "Organization": "Lenoir-Rhyne",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2016",
+        "Record": "21-10",
+        "WinPct": 0.677
+      },
+      {
+        "Organization": "UMBC",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "97-60",
+        "WinPct": 0.618
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2023",
+        "Record": "44-25",
+        "WinPct": 0.638
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025",
+        "Record": "52-21",
+        "WinPct": 0.712
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null,
+        "Record": "30-6",
+        "WinPct": 0.833
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": null,
+        "Undergraduate Year": 1996,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "America East",
+        "Result": "Tournament Champion",
+        "School": "UMBC"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "A-10",
+        "Result": "Regular Season + Tournament Champion",
+        "School": "VCU"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ryan_Odom",
+      "http://www.richmond.com/sports/college/men/ryan-odom-knows-not-just-anyone-can-whistle-like-tony/article_9a809acd-b65f-526f-95bd-03dc5d7c3f1c.html",
+      "http://www.umbcretrievers.com/sports/mbkb/2015-16/releases/20160330o02ktb",
+      "http://www2.hokiesports.com/mbasketball/mbb05mg.pdf",
+      "https://247sports.com/college/virginia/article/virginia-basketballs-season-ends-in-heartbreak-the-culture-and-foundation-remains-278684326/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
