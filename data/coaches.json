@@ -5513,5 +5513,51 @@
       "http://www.ajc.com/sports/uga/recalling-the-tornado-of-866637.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Coppin St.",
+    "Conference": "MEAC",
+    "Coach Name": "Juan Dixon",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "District of Columbia (women's)",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Coppin State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Coppin State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023",
+        "Record": "51-131",
+        "WinPct": 0.28
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Maryland",
+        "Undergraduate Year": 2002,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Juan_Dixon",
+      "http://network.nationalpost.com/np/blogs/postedsports/archive/2008/02/21/nba-raptors-deal-juan-dixon.aspx",
+      "http://pittsburghpanthers.cstv.com/sports/m-baskbl/mtt/dixon_jermaine00.html",
+      "http://play.hbogo.com/feature/urn:hbo:feature:GWIjITwqLHqmywwEAAAIn",
+      "http://washingtontimes.com/metro/20070117-101644-9729r.htm"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
