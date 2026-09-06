@@ -3212,5 +3212,106 @@
       "https://archive.org/details/floorburnsinside0000haas"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Stephen F. Austin",
+    "Conference": "Slnd",
+    "Coach Name": "Kyle Keller",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Louisiana Tech",
+        "Role": "Assistant Coach",
+        "Start": "1990",
+        "End": "1994"
+      },
+      {
+        "Organization": "Tyler JC",
+        "Role": "Assistant Coach",
+        "Start": "1994",
+        "End": "1996"
+      },
+      {
+        "Organization": "UTSA",
+        "Role": "Assistant Coach",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Tyler JC",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Assistant Coach",
+        "Start": "1999",
+        "End": "2008"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant Coach",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant Coach",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2025"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tyler JC",
+        "Role": "Head Coach (Junior College)",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2025",
+        "Record": "171-95",
+        "WinPct": 0.643
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "Southland",
+        "Result": "Regular Season Champion",
+        "School": "Stephen F. Austin"
+      },
+      {
+        "Season": "2017-18",
+        "Tournament": "Southland",
+        "Result": "Tournament Champion (NCAA vacated)",
+        "School": "Stephen F. Austin"
+      }
+    ],
+    "Education": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kyle_Keller_(basketball)",
+      "http://www.espn.com/espn/eticket/story?page=110126/OklahomaState&amp;redirected=true",
+      "https://12thman.com/news/2025/4/6/mens-basketball-mcmillan-adds-keller-to-texas-am-coaching-staff",
+      "https://collegebasketball.ap.org/article/stephen-f-austin-gets-postseason-bans-agrees-sanctions",
+      "https://collegebasketball.ap.org/article/stephen-f-austin-stuns-no-1-duke-85-83-ot"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
