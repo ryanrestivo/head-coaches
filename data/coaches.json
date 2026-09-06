@@ -5118,5 +5118,106 @@
       "https://letsgopeay.com/coaches.aspx?rc=583&amp;path=mbball"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Bethune Cookman",
+    "Conference": "MEAC",
+    "Coach Name": "Ryan Ridder",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "North Raleigh Christian",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "Embry-Riddle",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Campbell",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Daytona State",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2024"
+      },
+      {
+        "Organization": "Mercer",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Daytona State",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017",
+        "Record": "95-28",
+        "WinPct": 0.772
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2024"
+      },
+      {
+        "Organization": "Mercer",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Embry-Riddle (per playing career note)",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "MEAC",
+        "Result": "Regular Season Champion (2018)",
+        "School": "Bethune-Cookman"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ryan_Ridder",
+      "http://bcuathletics.com/news/2017/3/31/ryan-ridder-named-head-coach-for-mens-basketball.aspx",
+      "http://www.news-journalonline.com/sports/20170331/ryan-ridder-officially-introduced-as-b-cu-mens-basketball-coach",
+      "https://utmsports.com/news/2021/3/30/mens-basketball-ryan-ridder-named-12th-head-coach-in-skyhawk-mens-basketball-history.aspx",
+      "https://www.news-journalonline.com/story/sports/college/basketball/2021/03/30/bethune-cookman-basketball-coach-ryan-ridder-leaving-ut-martin/7058775002/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
