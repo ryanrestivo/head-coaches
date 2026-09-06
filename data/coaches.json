@@ -7333,5 +7333,155 @@
       "https://s3.amazonaws.com/sidearm.sites/hawkeyesports.com/documents/2016/6/29/mediaguide0607.pdf"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "New Mexico St.",
+    "Conference": "WAC",
+    "Coach Name": "Chris Jans",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Elmhurst",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1994"
+      },
+      {
+        "Organization": "Grand View",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1996"
+      },
+      {
+        "Organization": "Kirkwood CC",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "Independence CC",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Howard JC",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Chipola",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2014"
+      },
+      {
+        "Organization": "Bowling Green",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2015"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Special Assistant",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "Mississippi State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Kirkwood CC",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "Independence CC",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Howard JC",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Chipola",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Bowling Green",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2015"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "Mississippi State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null,
+        "Record": "219-103",
+        "WinPct": 0.68,
+        "Note": "college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-22",
+        "Tournament": "WAC",
+        "Result": "4x WAC Reg Season + 3x WAC Tournament (2018/2019/2020/2022 reg, 2018/2019/2022 tourney) + 3x WAC CoY (2018/2019/2020) (as NM State HC)",
+        "School": "New Mexico State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Chris_Jans",
+      "http://toledoblade.typepad.com/falconfodder/mens-basketball/",
+      "http://www.bgsufalcons.com/news/2015/4/2/MBB_0402150226.aspx",
+      "http://www.toledoblade.com/local/2015/04/03/BGSU-fires-Chris-Jans.html",
+      "https://web.archive.org/web/20140416191726/http://toledoblade.typepad.com/falconfodder/mens-basketball/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
