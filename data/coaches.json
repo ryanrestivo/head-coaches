@@ -2953,5 +2953,74 @@
       "http://hoopedia.nba.com/index.php?title=Chipola_College"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Central Connecticut",
+    "Conference": "NEC",
+    "Coach Name": "Donyell Marshall",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "George Washington",
+        "Role": "Assistant Coach (G League/Pro)",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Maine Red Claws (G League)",
+        "Role": "Assistant Coach",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Rider",
+        "Role": "Assistant Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Assistant Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Central Connecticut State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      },
+      {
+        "Organization": "Greensboro Swarm (G League)",
+        "Role": "Assistant Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Central Connecticut State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "40-104",
+        "WinPct": 0.278
+      }
+    ],
+    "PostseasonExperience": [],
+    "Education": [
+      {
+        "Undergraduate College": "Connecticut",
+        "Undergraduate Year": 1994,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Donyell_Marshall",
+      "http://www.ccsubluedevils.com/sports/mbkb/coaches/Donyell_Marshall?view=bio",
+      "http://www.courant.com/sports/college/hc-central-hartford-mens-basketball-1112-20161111-story.html",
+      "http://www.gobroncs.com/ViewArticle.dbml?SPSID=96740&SPID=11878&DB_OEM_ID=20200&ATCLID=209256041"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
