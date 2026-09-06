@@ -4631,5 +4631,40 @@
       "http://www.usbasket.com/player.asp?Cntry=USA&amp;PlayerID=22433"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Tulane",
+    "Conference": "CUSA",
+    "Coach Name": "Mike Dunleavy",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Duke",
+        "Role": "Assistant (unverified - see note)",
+        "Start": null,
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tulane",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Duke",
+        "Undergraduate Year": 2002,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Dunleavy_Jr."
+    ],
+    "ReviewNote": "FLAG for review: CSV lists Tulane 'Mike Dunleavy' (2016). Wikipedia's Mike_Dunleavy_Jr. article is the Duke-alum NBA player/GM (Duke 1999-2002). The article credits 'Mike Dunleavy Sr.' as a former Tulane head coach. Cannot confirm WHICH Dunleavy was Tulane's 2016 hire from a single reliable source. Left as minimal flagged stub - no fabricated record or sources. Need one more source to resolve before finalizing.",
+    "ResearchDate": "2026-09-05"
   }
 ]
