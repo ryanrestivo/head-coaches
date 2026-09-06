@@ -5378,5 +5378,140 @@
       "https://thecourier.com/news/376904/ap-source-findlay-high-graduate-paris-heading-to-south-carolina/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Cleveland St.",
+    "Conference": "Horz",
+    "Coach Name": "Dennis Felton",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Oxon Hill HS (MD)",
+        "Role": "Assistant",
+        "Start": "1984",
+        "End": "1984"
+      },
+      {
+        "Organization": "Charles County CC",
+        "Role": "Assistant",
+        "Start": "1985",
+        "End": "1986"
+      },
+      {
+        "Organization": "Delaware",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1990"
+      },
+      {
+        "Organization": "Tulane",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "Saint Joseph's",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1992"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1994"
+      },
+      {
+        "Organization": "Clemson",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1998"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2003"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2009"
+      },
+      {
+        "Organization": "Tulsa",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Cleveland State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Fordham",
+        "Role": "Assistant",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "George Mason",
+        "Role": "Associate HC",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2003"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2009"
+      },
+      {
+        "Organization": "Cleveland State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2002-03",
+        "Tournament": "Sun Belt",
+        "Result": "3x Sun Belt Reg Season + Tournament Champs (2001-2003), CoY (2002) (as WKU HC)",
+        "School": "Western Kentucky"
+      },
+      {
+        "Season": "2007-08",
+        "Tournament": "SEC",
+        "Result": "SEC Tournament Champ (2008) (as Georgia HC); career 206-189",
+        "School": "Georgia"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dennis_Felton",
+      "http://blogs.usatoday.com/gameon/2009/01/paper-reports-f.html",
+      "http://tulsahurricane.com/coaches.aspx?rc=175",
+      "http://usatoday30.usatoday.com/sports/college/mensbasketball/sec/2009-01-29-georgia-felton-fired_N.htm",
+      "http://www.ajc.com/sports/uga/recalling-the-tornado-of-866637.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
