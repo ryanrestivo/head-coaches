@@ -3524,5 +3524,71 @@
       "https://catalog.utm.edu/content.php?catoid=5&amp;navoid=95"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Texas Tech",
+    "Conference": "B12",
+    "Coach Name": "Chris Beard",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2023"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016",
+        "Record": "30-5",
+        "WinPct": 0.857
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019",
+        "Record": "112-55",
+        "WinPct": 0.671
+      }
+    ],
+    "Education": [
+      {
+        "Graduate College": "Abilene Christian",
+        "Graduate Year": 1998,
+        "Graduate Degree": "MEd"
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Chris_Beard",
+      "http://texastech.com/news/2018/3/23/mens-basketball-red-raider-recap-texas-tech-v-purdue.aspx",
+      "http://web1.ncaa.org/stats/StatsSrv/careercoach",
+      "http://www.espn.com/mens-college-basketball/game?gameId=400989273",
+      "http://www.heartlandsports.org/custompages/mbball/2013/confsked.htm"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
