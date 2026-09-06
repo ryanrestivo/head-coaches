@@ -6098,5 +6098,58 @@
       "http://www.tampabay.com/blogs/bulls/2007/12/mccullum-back-i.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Furman",
+    "Conference": "SoCon",
+    "Coach Name": "Bob Richey",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Charleston Southern",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Furman",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Furman",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Furman",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "203-94",
+        "WinPct": 0.684
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "SoCon",
+        "Result": "SoCon Reg Season Champ (2023) + 2x SoCon Tournament (2023, 2026) (as Furman HC)",
+        "School": "Furman"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bob_Richey",
+      "https://furmanpaladins.com/staff-directory/bob-richey/16",
+      "https://sportsspectrum.com/podcast/2021/06/16/podcast-furman-bob-richey-leadership-identity-jesus/",
+      "https://www.espn.com/mens-college-basketball/recap?gameId=401083352",
+      "https://www.espn.com/mens-college-basketball/story/_/id/35874027/no-13-furman-deals-no-4-virginia-another-early-ncaa-tourney-exit"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
