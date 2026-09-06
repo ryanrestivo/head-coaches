@@ -4542,5 +4542,94 @@
       "https://siusalukis.com/news/2024/3/8/mens-basketball-news-southern-illinois-parts-ways-with-mens-basketball-head-coach-bryan-mullins"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Wyoming",
+    "Conference": "MW",
+    "Coach Name": "Allen Edwards",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Morehead State",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2006"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Towson",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Assistant",
+        "Start": "2020",
+        "End": "2022"
+      },
+      {
+        "Organization": "UMass",
+        "Role": "Assistant",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "60-76",
+        "WinPct": 0.441
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kentucky",
+        "Undergraduate Year": 1998,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "CBI",
+        "Result": "Champion",
+        "School": "Wyoming"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Allen_Edwards_(basketball)",
+      "http://vcuathletics.com/mbb/0708bios/edwards.php",
+      "http://www.bigbluehistory.net/bb/statistics/Players/Edwards_Allen.html",
+      "http://www.umsportshalloffame.com/steve-edwards.html",
+      "http://www.usbasket.com/player.asp?Cntry=USA&amp;PlayerID=22433"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
