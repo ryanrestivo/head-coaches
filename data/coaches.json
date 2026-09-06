@@ -3121,5 +3121,96 @@
       "http://www.unlvrebels.com/sports/m-baskbl/spec-rel/070213aaa.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Stanford",
+    "Conference": "ACC",
+    "Coach Name": "Jerod Haase",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Nebraska",
+        "Role": "Player",
+        "Start": "1993",
+        "End": "1997"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant Coach",
+        "Start": "1999",
+        "End": "2004"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "UNC Greensboro",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016",
+        "Record": "80-53",
+        "WinPct": 0.602
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "126-127",
+        "WinPct": 0.498
+      },
+      {
+        "Organization": "UNC Greensboro",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "C-USA",
+        "Result": "Tournament + Regular Season Champion",
+        "School": "UAB"
+      },
+      {
+        "Season": "2014-15",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32 (upset of #3 Iowa State)",
+        "School": "UAB"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "NIT",
+        "Result": "First Round",
+        "School": "UAB"
+      }
+    ],
+    "Education": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jerod_Haase",
+      "http://tarheelblue.cstv.com/sports/m-baskbl/mtt/haase_jerod00.html",
+      "http://www.al.com/sports/index.ssf/2012/03/uab_hires_north_carolina_assis.html",
+      "http://www.uabsports.com/sports/m-baskbl/mtt/jerod_haase_798006.html",
+      "https://archive.org/details/floorburnsinside0000haas"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
