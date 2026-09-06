@@ -5559,5 +5559,112 @@
       "http://washingtontimes.com/metro/20070117-101644-9729r.htm"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Dayton",
+    "Conference": "Horz",
+    "Coach Name": "Anthony Grant",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Miami HS (FL)",
+        "Role": "Assistant",
+        "Start": "1987",
+        "End": "1992"
+      },
+      {
+        "Organization": "Miami Central HS",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1993"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1996"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2006"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2015"
+      },
+      {
+        "Organization": "Oklahoma City Thunder (NBA)",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "Dayton",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2015"
+      },
+      {
+        "Organization": "Dayton",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "390-205",
+        "WinPct": 0.655
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2006-09",
+        "Tournament": "CAA",
+        "Result": "2x CAA Tournament + 3x CAA Reg Season Champs (as VCU HC)",
+        "School": "VCU"
+      },
+      {
+        "Season": "2019-20",
+        "Tournament": "A-10",
+        "Result": "A-10 Reg Season Champ (2020), Naismith/AP/NABC/Sp.News National CoY (2020) (as Dayton HC)",
+        "School": "Dayton"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Grant_(basketball)",
+      "http://sports.espn.go.com/ncb/recap?gameId=274000008",
+      "http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25108922/alabama-fires-anthony-grant",
+      "http://www.cstv.com/sports/m-baskbl/stories/041806aao.html",
+      "http://www.nba.com/thunder/news/coaching_staff_150629"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
