@@ -6282,5 +6282,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article is heavily player-biased; no dedicated coaching-career table. Record/seasons not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Grambling St.",
+    "Conference": "SWAC",
+    "Coach Name": "Donte Jackson",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Grambling State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Grambling State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Donte_Jackson"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia article doesn't render a dedicated coaching-career table; prior roles (Grambling asst, UConn asst) not extracted \u2014 flagged for Ryan to verify."
   }
 ]
