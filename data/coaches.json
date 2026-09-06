@@ -4336,5 +4336,120 @@
       "http://www.espn.com/colleges/basketball/recruiting/school/_/id/238/class/2018"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Western Kentucky",
+    "Conference": "CUSA",
+    "Coach Name": "Rick Stansbury",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Campbellsville",
+        "Role": "GA/Assistant",
+        "Start": "1981",
+        "End": "1984"
+      },
+      {
+        "Organization": "Cumberland (KY)",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1984"
+      },
+      {
+        "Organization": "Austin Peay",
+        "Role": "Assistant",
+        "Start": "1984",
+        "End": "1990"
+      },
+      {
+        "Organization": "Mississippi State",
+        "Role": "Assistant/Associate HC",
+        "Start": "1990",
+        "End": "1998"
+      },
+      {
+        "Organization": "Mississippi State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2012"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Associate HC",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mississippi State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2012",
+        "Record": "293-166",
+        "WinPct": 0.638
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023",
+        "Record": "139-89",
+        "WinPct": 0.61
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Campbellsville",
+        "Undergraduate Year": 1981,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2002-03",
+        "Tournament": "SEC",
+        "Result": "Tournament Championship (2002, as MS State HC)",
+        "School": "Mississippi State"
+      },
+      {
+        "Season": "2009-10",
+        "Tournament": "SEC",
+        "Result": "Tournament Championship (2009, as MS State HC)",
+        "School": "Mississippi State"
+      },
+      {
+        "Season": "2004-05",
+        "Tournament": "SEC",
+        "Result": "Regular Season Champion + CoY (2004, as MS State HC)",
+        "School": "Mississippi State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rick_Stansbury",
+      "http://conferenceusa.com/documents/2024/7/3/MBB_RECORD_BOOK_MASTER_through_23_24_.pdf",
+      "http://sports.usatoday.com/2016/03/28/its-official-wku-hires-stansbury-as-coach/",
+      "http://www.clarionledger.com/story/sports/college/kentuckiana/2016/03/28/its-official-wku-hires-stansbury-as-new-basketball-coach/82335644/",
+      "http://www.espn.com/mens-college-basketball/story/_/id/10897307/rick-stansbury-joins-texas-aggies-coaching-staff"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
