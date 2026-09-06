@@ -3374,5 +3374,78 @@
       "https://issuu.com/thepost23/docs/fullpaper_032119"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "TCU",
+    "Conference": "B12",
+    "Coach Name": "Jamie Dixon",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2016"
+      },
+      {
+        "Organization": "TCU",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2016",
+        "Record": "328-123",
+        "WinPct": 0.727
+      },
+      {
+        "Organization": "TCU",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": null,
+        "Record": "199-138",
+        "WinPct": 0.591
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2007-08",
+        "Tournament": "NCAA Division I",
+        "Result": "Sweet 16",
+        "School": "Pittsburgh"
+      },
+      {
+        "Season": "2010-11",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32 (17 seed)",
+        "School": "Pittsburgh"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "NIT",
+        "Result": "Champion",
+        "School": "TCU"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "TCU",
+        "Undergraduate Year": 1987,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jamie_Dixon",
+      "http://grfx.cstv.com/photos/schools/pitt/sports/m-baskbl/auto_pdf/09-10_Pitt_MBB_Coach-Staff.pdf",
+      "http://old.post-gazette.com/sports/pitt/20030427dixon0427p5.asp",
+      "http://pittsburghpanthers.cstv.com/sports/m-baskbl/mtt/dixon_jamie00.html",
+      "http://sports.espn.go.com/espn/blog/index?entryID=4323444&amp;name=katz_andy"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
