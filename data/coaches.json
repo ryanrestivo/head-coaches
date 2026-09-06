@@ -4451,5 +4451,96 @@
       "http://www.espn.com/mens-college-basketball/story/_/id/10897307/rick-stansbury-joins-texas-aggies-coaching-staff"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Wright State",
+    "Conference": "Horz",
+    "Coach Name": "Scott Nagy",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Illinois",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "SIU Edwardsville",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1995"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2016"
+      },
+      {
+        "Organization": "Wright State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2016",
+        "Record": "410-240",
+        "WinPct": 0.631
+      },
+      {
+        "Organization": "Wright State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "167-92",
+        "WinPct": 0.644
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "Summit League",
+        "Result": "Regular Season + Tournament Champion (3\u00d7, 2012/2013/2016)",
+        "School": "South Dakota State"
+      },
+      {
+        "Season": "2017-18",
+        "Tournament": "Horizon League",
+        "Result": "Tournament Champion (2018, as WSU HC)",
+        "School": "Wright State"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "Horizon League",
+        "Result": "Tournament Champion (2022, as WSU HC)",
+        "School": "Wright State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Scott_Nagy_(basketball)",
+      "https://gojacks.com/news/2012/3/29/205405755.aspx",
+      "https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1007&amp;context=basketball-guides",
+      "https://siusalukis.com/news/2024/3/28/mens-basketball-news-scott-nagy-named-southern-illinois-mens-basketball-coach",
+      "https://siusalukis.com/news/2024/3/8/mens-basketball-news-southern-illinois-parts-ways-with-mens-basketball-head-coach-bryan-mullins"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
