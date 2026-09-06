@@ -7851,5 +7851,130 @@
       "https://goshockers.com/news/2023/3/22/mens-basketball-mills-selected-to-lead-shocker-hoops-program.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Portland St.",
+    "Conference": "BSky",
+    "Coach Name": "Barret Peery",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Southern Utah",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Snow College",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Utah Valley",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1998"
+      },
+      {
+        "Organization": "Southern Utah",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2002"
+      },
+      {
+        "Organization": "Portland State",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "College of Southern Idaho",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "College of Southern Idaho",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Utah",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Indian Hills CC",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2014"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2015"
+      },
+      {
+        "Organization": "Santa Clara",
+        "Role": "Assoc HC",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Portland State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Assoc HC",
+        "Start": "2021",
+        "End": "2022"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2022",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "College of Southern Idaho",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Indian Hills CC",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2014"
+      },
+      {
+        "Organization": "Portland State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "244-86",
+        "WinPct": 0.739,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Barret_Peery",
+      "http://goviks.com/news/2017/4/10/portland-state-names-barret-peery-as-new-mens-basketball-coach.aspx",
+      "http://sodaho_ftp.sidearmsports.com/custompages/Men's%20Basketball/mediaguides/20142015mbbmediaguide.pdf",
+      "http://www.santaclarabroncos.com/sports/m-baskbl/coaches/peery_barret?view=bio",
+      "https://web.archive.org/web/20170416044909/http://sodaho_ftp.sidearmsports.com/custompages/Men's%20Basketball/mediaguides/20142015mbbmediaguide.pdf"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
