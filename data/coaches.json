@@ -3904,5 +3904,107 @@
       "https://247sports.com/college/virginia/article/virginia-basketballs-season-ends-in-heartbreak-the-culture-and-foundation-remains-278684326/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UNLV",
+    "Conference": "B12",
+    "Coach Name": "Marvin Menzies",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Hamilton HS (CA)",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1991"
+      },
+      {
+        "Organization": "Santa Monica (JC)",
+        "Role": "Assistant/HC",
+        "Start": "1991",
+        "End": "1996"
+      },
+      {
+        "Organization": "Sacramento State",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "USC",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2016"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Associate HC",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Kansas City (UMKC)",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2016",
+        "Record": "198-111",
+        "WinPct": 0.641
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019",
+        "Record": "48-48",
+        "WinPct": 0.5
+      }
+    ],
+    "Education": [
+      {
+        "Graduate College": "Sacramento State",
+        "Graduate Year": 2003,
+        "Graduate Degree": "M.A."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Marvin_Menzies",
+      "http://nevadasportsnet.com/news/reporters/making-sense-of-unlv-replacing-marvin-menzies-with-tj-otzelberger",
+      "http://nmstatesports.com/coaches.aspx?rc=312",
+      "https://kcroos.com/documents/2022/4/26/MBB_Head_Coach_Hiring.pdf",
+      "https://kcroos.com/news/2026/1/12/mens-basketball-program-to-undergo-leadership-change-in-2026-27"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
