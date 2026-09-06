@@ -6869,5 +6869,67 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Thin Wikipedia article; minimal coaching-table detail. Flagged for Ryan to verify."
+  },
+  {
+    "School": "Milwaukee",
+    "Conference": "Horz",
+    "Coach Name": "Pat Baldwin",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "1982",
+        "End": "2003"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant under Tom Crean",
+        "Start": "2014",
+        "End": "2024"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Executive Dir/Assoc HC",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "1982",
+        "End": "2003",
+        "Record": "486-247",
+        "WinPct": 0.663,
+        "Note": "well-documented (486-247 at MU)"
+      },
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Marquette",
+        "Undergraduate Year": 1968,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Pat_Baldwin"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Well-known coach. Marquette HC 1982-2003 (486-247) is the documented record. Milwaukee 2017-19 is from CSV + hire news; tenure-end needs verification."
   }
 ]
