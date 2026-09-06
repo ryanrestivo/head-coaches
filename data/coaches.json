@@ -4255,5 +4255,86 @@
       "https://brownbears.com/sports/mens-basketball/roster/coaches/matt-lottich/7650"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Vanderbilt",
+    "Conference": "SEC",
+    "Coach Name": "Bryce Drew",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2011"
+      },
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2016",
+        "Record": "124-49",
+        "WinPct": 0.717
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "40-59",
+        "WinPct": 0.404
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "140-52",
+        "WinPct": 0.729
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Valparaiso",
+        "Undergraduate Year": 1998,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "SEC",
+        "Result": "NCAA Division I appearances (as Vanderbilt HC)",
+        "School": "Vanderbilt"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bryce_Drew",
+      "http://collegebasketball.ap.org/article/bryce-drew-wants-be-1st-take-vanderbilt-final-4",
+      "http://playeroftheyear.gatorade.com/winner/state",
+      "http://vanderbilt.edu/coachdrew/",
+      "http://www.espn.com/colleges/basketball/recruiting/school/_/id/238/class/2018"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
