@@ -3313,5 +3313,66 @@
       "https://collegebasketball.ap.org/article/stephen-f-austin-stuns-no-1-duke-85-83-ot"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Stony Brook",
+    "Conference": "AEast",
+    "Coach Name": "Jeff Boals",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Stony Brook",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Stony Brook",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019",
+        "Record": "55-42",
+        "WinPct": 0.567
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "129-93",
+        "WinPct": 0.581
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "NCAA Division I",
+        "Result": "Round of 32",
+        "School": "Ohio"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "MAC",
+        "Result": "Tournament Champion (automatic bid)",
+        "School": "Ohio"
+      }
+    ],
+    "Education": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jeff_Boals",
+      "http://uconnhuskies.com/news/2017/11/13/Men_s_Hoops_Welcomes_Stony_Brook_on_Tuesday.aspx?path=mbball",
+      "http://www.ohiostatebuckeyes.com/ViewArticle.dbml?DB_OEM_ID=17300&amp;ATCLID=3735150",
+      "https://getsomemaction.com/news/2024/10/21/mac-announces-2024-25-mens-basketball-preseason-poll-teams.aspx",
+      "https://issuu.com/thepost23/docs/fullpaper_032119"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
