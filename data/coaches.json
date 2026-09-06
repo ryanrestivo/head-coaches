@@ -7102,5 +7102,113 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "CSV lists 2017 hire; wiki shows Morehead HC 2016-24. Discrepancy noted."
+  },
+  {
+    "School": "N.C. State",
+    "Conference": "ACC",
+    "Coach Name": "Kevin Keatts",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Southwestern Michigan",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2011"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2014"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "N.C. State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2011"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "N.C. State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2025",
+        "Record": "223-141",
+        "WinPct": 0.613,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2014-17",
+        "Tournament": "CAA",
+        "Result": "3x CAA Reg Season + 2x CAA Tournament (2015/2016/2017 season, 2016/2017 tourney), 2x CoY (2015, 2016) (as UNC Wm HC)",
+        "School": "UNC Wilmington"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "NCAA",
+        "Result": "Final Four (2024) + ACC Tournament Champ (2024) (as NC State HC)",
+        "School": "N.C. State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kevin_Keatts",
+      "http://gopack.com/coaches.aspx?rc=550&amp;path=mbball",
+      "http://theacc.com/news/2017/10/26/mens-basketball-duke-voted-acc-basketball-preseason-favorite.aspx",
+      "http://www.cbssports.com/college-basketball/news/nc-state-hires-unc-wilmingtons-kevin-keatts-to-be-next-wolfpack-coach/",
+      "http://www.gocards.com/sports/m-baskbl/mtt/keatts_kevin00.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
