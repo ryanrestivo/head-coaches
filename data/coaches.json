@@ -4783,5 +4783,135 @@
       "http://ohiobobcats.cstv.com/sports/m-baskbl/spec-rel/062708aab.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Alabama A&M",
+    "Conference": "SIAC",
+    "Coach Name": "Donnie Marsh",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Franklin & Marshall",
+        "Role": "Assistant",
+        "Start": "1980",
+        "End": "1987"
+      },
+      {
+        "Organization": "Elizabethtown",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1989"
+      },
+      {
+        "Organization": "TCNJ",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1993"
+      },
+      {
+        "Organization": "Florida State",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1997"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2000"
+      },
+      {
+        "Organization": "FIU",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2012"
+      },
+      {
+        "Organization": "Texas Southern",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Texas Southern",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "Alabama A&M",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Associate HC",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Detroit Mercy",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Elizabethtown",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1989"
+      },
+      {
+        "Organization": "TCNJ",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1993"
+      },
+      {
+        "Organization": "FIU",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Alabama A&M",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018",
+        "Record": "3-28",
+        "WinPct": 0.097
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Donnie_Marsh",
+      "http://fgcuathletics.com/news/2018/5/21/mens-basketball-veteran-donnie-marsh-named-fgcu-mbb-associate-head-coach.aspx",
+      "http://www.al.com/sports/index.ssf/2017/04/former_uab_assistant_basketbal.html",
+      "http://www.cstv.com/sports/m-baskbl/stories/021606aay.html",
+      "http://www.trentonian.com/articles/2010/10/26/sports/doc4cc79837dda6f515486050.txt"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
