@@ -3022,5 +3022,104 @@
       "http://www.gobroncs.com/ViewArticle.dbml?SPSID=96740&SPID=11878&DB_OEM_ID=20200&ATCLID=209256041"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Southern Utah",
+    "Conference": "BSky",
+    "Coach Name": "Todd Simon",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Harrison Community HS (MI)",
+        "Role": "JV HC / Varsity Asst",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Pepperdine",
+        "Role": "Volunteer Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Video Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "Findlay Prep (HS, NV)",
+        "Role": "Assistant / Associate HC",
+        "Start": "2006",
+        "End": "2012"
+      },
+      {
+        "Organization": "Findlay Prep (HS, NV)",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Southern Utah",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023"
+      },
+      {
+        "Organization": "Bowling Green",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017",
+        "Record": "9-8",
+        "WinPct": 0.529
+      },
+      {
+        "Organization": "Southern Utah",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023",
+        "Record": "118-106",
+        "WinPct": 0.527
+      },
+      {
+        "Organization": "Bowling Green",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null,
+        "Record": "52-46",
+        "WinPct": 0.531
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Big Sky",
+        "Result": "Coach of the Year + Jim Phelan Natl Coach of the Year",
+        "School": "Southern Utah"
+      }
+    ],
+    "Education": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Todd_Simon_(basketball)",
+      "http://www.coachtoddsimon.com/p/about-me.html",
+      "http://www.sltrib.com/sports/3694507-155/southern-utah-mens-basketball-t-birds-hire",
+      "http://www.unlvrebels.com/sports/m-baskbl/mtt/todd_simon_856483.html",
+      "http://www.unlvrebels.com/sports/m-baskbl/spec-rel/070213aaa.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
