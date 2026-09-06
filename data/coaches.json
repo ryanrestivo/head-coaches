@@ -6931,5 +6931,104 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Well-known coach. Marquette HC 1982-2003 (486-247) is the documented record. Milwaukee 2017-19 is from CSV + hire news; tenure-end needs verification."
+  },
+  {
+    "School": "Missouri",
+    "Conference": "SEC",
+    "Coach Name": "Cuonzo Martin",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Purdue (assistant)",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "2000"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2006"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Missouri (1st stint)",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Arizona",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "Missouri (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2006"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Arizona",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "Missouri (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Cuonzo_Martin",
+      "http://sanfrancisco.cbslocal.com/2017/03/15/cal-mens-basketball-coach-cuonzo-martin-resigns/",
+      "http://thevolunteertimes.com/campbell/vol-watch-vols-hire-cuonzo-martin/",
+      "http://www.calbears.com/news/2016/10/25/mens-basketball-martin-agrees-to-contract-through-2020-21-season.aspx",
+      "http://www.calbears.com/news/2016/3/15/210806087.aspx?path=mbball"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia TOC has a Coaching career section I couldn't extract cleanly (Purdue, Missouri State, Tennessee, California, Missouri are the documented stints per TOC). Specific year-ranges for Missouri (2013-17) need verification."
   }
 ]
