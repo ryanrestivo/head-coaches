@@ -7761,5 +7761,95 @@
       "https://mgoblue.com/news/2026/7/10/boynton-jr-named-head-coach-of-mens-basketball-program"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Oral Roberts",
+    "Conference": "Slnd",
+    "Coach Name": "Paul Mills",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "North Belt Christian Academy",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Fort Bend Baptist Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Video Coordinator",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Baylor",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2017"
+      },
+      {
+        "Organization": "Oral Roberts",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "North Belt Christian Academy",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Fort Bend Baptist Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Oral Roberts",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023",
+        "Record": "164-130",
+        "WinPct": 0.558,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Summit League",
+        "Result": "2x Summit League Tournament (2021, 2023), Reg Season (2023), CoY (2023) (as ORU HC)",
+        "School": "Oral Roberts"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Paul_Mills",
+      "http://www.baylorbears.com/sports/m-baskbl/mtt/paul_mills_95177.html",
+      "http://www.coachesdatabase.com/paul-mills-oral-roberts-head-coach/",
+      "http://www.riceowls.com:80/sports/mbball/bio.asp?PLAYER_ID=592",
+      "https://goshockers.com/news/2023/3/22/mens-basketball-mills-selected-to-lead-shocker-hoops-program.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
