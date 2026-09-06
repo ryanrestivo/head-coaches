@@ -5017,5 +5017,106 @@
       "https://web.archive.org/web/20170714142332/http://www.astateredwolves.com/ViewArticle.dbml?DB_OEM_ID=7200&amp;ATCLID=211528904"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Austin Peay",
+    "Conference": "OVC",
+    "Coach Name": "Matt Figger",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Wabash Valley",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "Vincennes",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1999"
+      },
+      {
+        "Organization": "Odessa",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2002"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2007"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2012"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Austin Peay",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "UT Rio Grande Valley",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2024"
+      },
+      {
+        "Organization": "UMass",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Austin Peay",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "76-51",
+        "WinPct": 0.598
+      },
+      {
+        "Organization": "UT Rio Grande Valley",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2024"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "OVC",
+        "Result": "Coach of the Year (2018)",
+        "School": "Austin Peay"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Matt_Figger",
+      "http://letsgopeay.com/news/2017/4/6/figger-introduced-as-apsu-head-mens-basketball-coach.aspx?path=mbball",
+      "http://www.gamecocksonline.com/sports/m-baskbl/mtt/matt_figger_798321.html",
+      "https://goutrgv.com/sports/mens-basketball/roster/coaches/matt-figger/2667",
+      "https://letsgopeay.com/coaches.aspx?rc=583&amp;path=mbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
