@@ -4184,5 +4184,76 @@
       "https://www.basketball-reference.com/players/h/hensost01.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Valparaiso",
+    "Conference": "Horz",
+    "Coach Name": "Matt Lottich",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Special Assistant",
+        "Start": "2023",
+        "End": "2024"
+      },
+      {
+        "Organization": "Brown",
+        "Role": "Associate HC",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Assistant",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2023",
+        "Record": "108-117",
+        "WinPct": 0.48
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Stanford",
+        "Undergraduate Year": 2004,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "Horizon League",
+        "Result": "Regular Season Championship",
+        "School": "Valparaiso"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Matt_Lottich",
+      "http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25545894/valparaiso-to-name-assistant-matt-lottich-as-cursaders-new-coach",
+      "http://www.fiba.com/pages/eng/fc/gamecent/p/pid/6026425/playerview.html",
+      "http://www.valpoathletics.com/athletics/staff/6755/matt-lottich/#.Vwa4CvkrKUk",
+      "https://brownbears.com/sports/mens-basketball/roster/coaches/matt-lottich/7650"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
