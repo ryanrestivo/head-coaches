@@ -6151,5 +6151,101 @@
       "https://www.espn.com/mens-college-basketball/story/_/id/35874027/no-13-furman-deals-no-4-virginia-another-early-ncaa-tourney-exit"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Butler",
+    "Conference": "Horz",
+    "Coach Name": "LaVall Jordan",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Butler",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "DePaul",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Milwaukee",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022",
+        "Record": "94-98",
+        "WinPct": 0.49
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Butler",
+        "Undergraduate Year": 2001,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "NCAA",
+        "Result": "National Championship (as Michigan assistant)",
+        "School": "Michigan"
+      },
+      {
+        "Season": "2013-14",
+        "Tournament": "NCAA",
+        "Result": "Elite 8 (as Michigan assistant)",
+        "School": "Michigan"
+      },
+      {
+        "Season": "2011-12",
+        "Tournament": "Big Ten",
+        "Result": "Big Ten Reg Season Champs (2012, 2014) (as Michigan assistant)",
+        "School": "Michigan"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/LaVall_Jordan",
+      "http://butlersports.com/news/2017/6/12/mens-basketball-butlermbb-tabs-lavall-jordan-as-head-coach.aspx",
+      "http://collegebasketball.ap.org/article/milwaukee-hires-michigan-assistant-lavall-jordan-coach",
+      "http://mkepanthers.com/coaches.aspx?rc=180&amp;path=mbball",
+      "http://www.bizjournals.com/milwaukee/news/2016/04/07/uwm-hires-michigan-assistant-lavall-jordan-to.html"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "94-98 (.490) is Jordan's COMBINED head-coaching career at Milwaukee (2016-17) + Butler (2017-22); per-stint split not given by source."
   }
 ]
