@@ -7210,5 +7210,128 @@
       "http://www.gocards.com/sports/m-baskbl/mtt/keatts_kevin00.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "New Mexico",
+    "Conference": "MWC",
+    "Coach Name": "Paul Weir",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Don Bosco HS",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "Northwestern State",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2016"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Eastern New Mexico",
+        "Role": "Athletic Director",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Abilene Christian University",
+        "Role": "Assoc VC Athletics",
+        "Start": "2023",
+        "End": "2026"
+      },
+      {
+        "Organization": "St. Michael's High School",
+        "Role": "President",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Don Bosco HS",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "New Mexico State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "86-69",
+        "WinPct": 0.555,
+        "Note": "college career"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Iowa",
+        "Undergraduate Year": 2005,
+        "Undergraduate Degree": "Master's (health & human performance)"
+      },
+      {
+        "Undergraduate College": "Iowa",
+        "Undergraduate Year": 2010,
+        "Undergraduate Degree": "Master's (sports psychology)"
+      },
+      {
+        "Undergraduate College": "New Mexico State",
+        "Undergraduate Year": 2012,
+        "Undergraduate Degree": "Master's (business administration)"
+      },
+      {
+        "Undergraduate College": "New Mexico State",
+        "Undergraduate Year": 2019,
+        "Undergraduate Degree": "PhD (educational leadership)"
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "WAC",
+        "Result": "WAC Tournament Champion (as NM State HC, 2017)",
+        "School": "New Mexico State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Paul_Weir_(basketball)",
+      "http://golobos.com/coaches.aspx?rc=533&amp;path=mbball",
+      "http://www.nmstatesports.com/coaches.aspx?rc=313&amp;path=mbball",
+      "https://golobos.com/staff/dr-paul-weir",
+      "https://s3.amazonaws.com/sidearm.sites/hawkeyesports.com/documents/2016/6/29/mediaguide0607.pdf"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
