@@ -7540,5 +7540,131 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article is a bare stub (no coaching-career table). Oklahoma asst 2013-17 \u2192 North Texas HC 2017-20 \u2192 Clemson asst 2020-25 \u2192 Georgia Tech HC 2025- present is well-documented; record/specifics not extracted."
+  },
+  {
+    "School": "Ohio St.",
+    "Conference": "Big10",
+    "Coach Name": "Chris Holtmann",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Geneva",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Taylor",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2008"
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "DePaul",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "DePaul",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null,
+        "Record": "281-207",
+        "WinPct": 0.576,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "Big South",
+        "Result": "Big South CoY (2013) (as GW HC)",
+        "School": "Gardner-Webb"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "Big East",
+        "Result": "Big East CoY (2017) + John McLendon National CoY (2017) (as Butler HC)",
+        "School": "Butler"
+      },
+      {
+        "Season": "2017-18",
+        "Tournament": "Big 10",
+        "Result": "Big Ten CoY (2018) + Jim Phelan Award (2018) (as OSU HC) - 11-11 season but big 10 coach of year (as OSU HC)",
+        "School": "Ohio State"
+      },
+      {
+        "Season": "2025-26",
+        "Tournament": "Big 10 / NCAA",
+        "Result": "Skip Prosser Award (2026)",
+        "School": "DePaul"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Chris_Holtmann",
+      "http://blogs.indystar.com/butler/2013/07/16/miller-fills-coaching-staff-with-former-gardner-webb-head-coach-chris-holtmann/",
+      "http://butlersports.com/news/2017/3/8/mens-basketball-butlermbbs-holtmann-named-big-east-coach-of-the-year.aspx",
+      "http://butlersports.com/sports/m-baskbl/2014-15/releases/20150102u4zob7",
+      "http://butlersports.com/sports/m-baskbl/coaches/holtmann_chris"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
