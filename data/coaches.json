@@ -5872,5 +5872,82 @@
       "http://www.clevelandjewishnews.com/features/sports/local_sports/james-high-school-coach-keith-dambrot-great-for-the-community/article_7cb3150a-0930-11e4-a1dc-0019bb2963f4.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Eastern Washington",
+    "Conference": "BSky",
+    "Coach Name": "Shantay Legans",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Laguna Blanca School",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Eastern Washington",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2017"
+      },
+      {
+        "Organization": "Eastern Washington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Portland",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Eastern Washington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "147-143",
+        "WinPct": 0.507
+      },
+      {
+        "Organization": "Portland",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "California (per playing career)",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Reg Season Champ + CoY (2020)",
+        "School": "Eastern Washington"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Tournament Champ (2021)",
+        "School": "Eastern Washington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Shantay_Legans",
+      "http://calbears.ocsn.com/sports/m-baskbl/mtt/legans_shantay00.html",
+      "http://gobulldogs.collegesports.com/sports/m-baskbl/mtt/legans_shantay00.html",
+      "https://goeags.com/news/2020/3/10/mens-basketball-legans-is-coach-of-the-year-in-the-big-sky.aspx",
+      "https://goeags.com/news/2020/3/12/mens-basketball-big-sky-conference-cancels-tournament.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
