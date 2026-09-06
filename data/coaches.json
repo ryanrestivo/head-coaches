@@ -4913,5 +4913,109 @@
       "http://www.trentonian.com/articles/2010/10/26/sports/doc4cc79837dda6f515486050.txt"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Arkansas St.",
+    "Conference": "Slnd",
+    "Coach Name": "Mike Balado",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Augusta State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Augusta State",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Southridge HS (FL)",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2002"
+      },
+      {
+        "Organization": "Nova Southeastern",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Miami Dade",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Florida Atlantic",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Miami (FL)",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "High Point",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2012"
+      },
+      {
+        "Organization": "FIU",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Arkansas State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023"
+      },
+      {
+        "Organization": "Miami Dade",
+        "Role": "Athletic Director",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Augusta State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Arkansas State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023",
+        "Record": "82-100",
+        "WinPct": 0.451
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Balado",
+      "http://www.courier-journal.com/story/sports/college/louisville/2017/03/19/arkansas-state-announces-louisville-basketball-assistant-mike-balado-hiring/99381410/",
+      "https://web.archive.org/web/20170714142332/http://www.astateredwolves.com/ViewArticle.dbml?DB_OEM_ID=7200&amp;ATCLID=211528904"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
