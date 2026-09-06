@@ -6811,5 +6811,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia page has a 'Coaching career 5' section I couldn't parse cleanly. Duke 2000-2016 \u2192 Providence 2016-17 \u2192 Louisville 2017-18 is well-documented; specific record/season-year ranges may be off by one \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Massachusetts",
+    "Conference": "A10",
+    "Coach Name": "Matt McCall",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "UMass",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UMass",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Matt_McCall"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Thin Wikipedia article; no detailed coaching career table. Flagged for Ryan to verify tenure span + record."
   }
 ]
