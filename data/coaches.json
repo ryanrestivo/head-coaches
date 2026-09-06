@@ -6247,5 +6247,40 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "94-98 (.490) is Jordan's COMBINED head-coaching career at Milwaukee (2016-17) + Butler (2017-22); per-stint split not given by source."
+  },
+  {
+    "School": "Georgetown",
+    "Conference": "A10",
+    "Coach Name": "Patrick Ewing",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Georgetown",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Brooklyn Nets (NBA)",
+        "Role": "Coach/Staff \u2014 see prior player career",
+        "Start": "2006",
+        "End": "2012"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Georgetown",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Patrick_Ewing"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia article is heavily player-biased; no dedicated coaching-career table. Record/seasons not extracted \u2014 flagged for Ryan to verify."
   }
 ]
