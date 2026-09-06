@@ -6311,5 +6311,134 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article doesn't render a dedicated coaching-career table; prior roles (Grambling asst, UConn asst) not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Illinois",
+    "Conference": "Big10",
+    "Coach Name": "Brad Underwood",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Hardin-Simmons",
+        "Role": "Graduate Assistant",
+        "Start": "1986",
+        "End": "1987"
+      },
+      {
+        "Organization": "Dodge City CC",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1992"
+      },
+      {
+        "Organization": "Western Illinois",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "2003"
+      },
+      {
+        "Organization": "Daytona Beach CC",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2006"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Associate HC",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Associate HC",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Dodge City CC",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1992",
+        "Record": "132-85",
+        "WinPct": 0.608,
+        "Note": "NJCAA division"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "302-136",
+        "WinPct": 0.689,
+        "Note": "combined NCAA career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-16",
+        "Tournament": "Southland",
+        "Result": "3x Southland Reg Season + Tournament Champ (2014/2015/2016), 3x CoY (2014/2015/2016) (as SFA HC)",
+        "School": "Stephen F. Austin"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "Big Ten",
+        "Result": "Big Ten Reg Season Champ (2022) + 2x Big Ten Tournament (2021, 2024) + Coaches vs. Cancer Champion Award (2023) (as Ill HC)",
+        "School": "Illinois"
+      },
+      {
+        "Season": "2025-26",
+        "Tournament": "NCAA",
+        "Result": "Final Four (2026) (as Ill HC)",
+        "School": "Illinois"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brad_Underwood",
+      "http://hsuathletics.com/sports/m-baskbl/Lettermen",
+      "http://newsok.com/article/5486593",
+      "http://newsok.com/article/5486689",
+      "http://qctimes.com/sports/college/illinois/brad-underwood-to-triple-salary-at-illinois/article_c092df7e-a821-599b-8c7c-f365af8d3f4e.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
