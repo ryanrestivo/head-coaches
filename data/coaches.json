@@ -3447,5 +3447,82 @@
       "http://sports.espn.go.com/espn/blog/index?entryID=4323444&amp;name=katz_andy"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Tennessee Martin",
+    "Conference": "OVC",
+    "Coach Name": "Anthony Stewart",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Columbus State CC",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Long Beach State",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Associate HC",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "51-73",
+        "WinPct": 0.411
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "OVC",
+        "Result": "West Division Co-Champion (2017)",
+        "School": "UT Martin"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Stewart_(basketball_coach)",
+      "http://www.ohiobobcats.com/sports/m-baskbl/mtt/stewart_anthony00.html",
+      "http://www.utmsports.com/coach.cfm?id=265&amp;sport=",
+      "http://www.utmsports.com/fullstory.cfm?id=9203&amp;sport=MEN'S+BASKETBALL",
+      "https://catalog.utm.edu/content.php?catoid=5&amp;navoid=95"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
