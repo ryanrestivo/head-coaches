@@ -6614,5 +6614,137 @@
       "http://www.coachesdatabase.com/liu-brooklyn-hires-derek-kellogg/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "LSU",
+    "Conference": "SEC",
+    "Coach Name": "Will Wade",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Clemson",
+        "Role": "Graduate Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Harvard",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2013"
+      },
+      {
+        "Organization": "Chattanooga",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022"
+      },
+      {
+        "Organization": "McNeese",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": "2026"
+      },
+      {
+        "Organization": "LSU (second stint)",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Chattanooga",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2022",
+        "Record": "266-119",
+        "WinPct": 0.691,
+        "Note": "combined NCAA career"
+      },
+      {
+        "Organization": "McNeese",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": "2026"
+      },
+      {
+        "Organization": "LSU (second stint)",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-14",
+        "Tournament": "SoCon",
+        "Result": "SoCon Coach of the Year (2014) (as Chattanooga HC)",
+        "School": "Chattanooga"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "A-10",
+        "Result": "A-10 Regular Season Champion (2016) (as VCU HC)",
+        "School": "VCU"
+      },
+      {
+        "Season": "2018-19",
+        "Tournament": "SEC",
+        "Result": "SEC Regular Season Champion (2018) (as LSU HC); 2x Southland (2024/2025), 2x SoY (as McNeese HC)",
+        "School": "LSU/McNeese"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Will_Wade",
+      "http://www.espn.com/mens-college-basketball/story/_/id/18963241/vcu-head-coach-wade-agrees-six-year-deal-become-next-coach-lsu",
+      "http://www.espn.com/mens-college-basketball/story/_/id/26192669",
+      "http://www.richmond.com/sports/college/basketball/will-wade-hired-as-new-vcu-coach-replacing-shaka-smart/article_6e8a0c25-1f5c-5f59-843a-af8180848a9c.html",
+      "http://www.wrcbtv.com/story/22235138/will-wade-named-utc-mens-basketball-coach"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
