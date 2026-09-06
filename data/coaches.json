@@ -4006,5 +4006,94 @@
       "https://kcroos.com/news/2026/1/12/mens-basketball-program-to-undergo-leadership-change-in-2026-27"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UT Rio Grande Valley",
+    "Conference": "BSky",
+    "Coach Name": "Lew Hill",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Wichita East HS",
+        "Role": "Assistant",
+        "Start": "1989",
+        "End": "1990"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1992"
+      },
+      {
+        "Organization": "SE Missouri State",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1994"
+      },
+      {
+        "Organization": "East Carolina",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1998"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2004"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Oklahoma",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "UT Rio Grande Valley",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UT Rio Grande Valley",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2021",
+        "Record": "67-77",
+        "WinPct": 0.465
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Wichita State",
+        "Undergraduate Year": 1988,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Big Sky",
+        "Result": "WAC Coach of the Year (2021); Skip Prosser Award (2021); CIT 1-1",
+        "School": "UTRGV"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Lew_Hill_(basketball)",
+      "http://pearlbasket.altervista.org/KC89.htm",
+      "https://goshockers.com/news/2021/2/8/the-roundhouse-rh-former-shocker-lew-hill-rose-to-college-head-coach.aspx",
+      "https://goutrgv.com/news/2016/3/31/utrgv-athletics-tabs-lew-hill-to-lead-mens-basketball-team.aspx",
+      "https://goutrgv.com/sports/mens-basketball/roster/coaches/lew-hill/2336"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
