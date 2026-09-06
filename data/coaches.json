@@ -3590,5 +3590,81 @@
       "http://www.heartlandsports.org/custompages/mbball/2013/confsked.htm"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UAB",
+    "Conference": "CUSA",
+    "Coach Name": "Rob Ehsan",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Maryland",
+        "Role": "GA",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": "2024"
+      },
+      {
+        "Organization": "UIC",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020",
+        "Record": "76-57",
+        "WinPct": 0.571
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "UC Davis",
+        "Undergraduate Year": 2005,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rob_Ehsan",
+      "https://gostanford.com/news/2021/4/27/mens-basketball-ehsan-joins-mens-basketball-staff.aspx",
+      "https://uabsports.com/coaches.aspx?rc=1257&amp;path=mbball",
+      "https://uicflames.com/news/2024/4/1/mens-basketball-rob-ehsan-named-uic-mens-basketball-head-coach.aspx",
+      "https://www.al.com/sports/index.ssf/2016/04/rob_ehsan_uab.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
