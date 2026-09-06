@@ -7666,5 +7666,100 @@
       "http://butlersports.com/sports/m-baskbl/coaches/holtmann_chris"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Oklahoma St.",
+    "Conference": "Slnd",
+    "Coach Name": "Mike Boynton",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Furman",
+        "Role": "Graduate Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Coastal Carolina",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Associate HC",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2013"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024",
+        "Record": "119-109",
+        "WinPct": 0.522
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2025-26",
+        "Tournament": "NCAA",
+        "Result": "NCAA Tournament appearance (2026), Big Ten Reg Season + Tournament (2025, 2026) (as Michigan asst)",
+        "School": "Michigan"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Boynton",
+      "http://www.gamecocksonline.com/sports/m-baskbl/mtt/boynton_michael01.html",
+      "http://www.okstate.com/news/2017/3/24/mens-basketball-mike-boynton-named-cowboy-basketball-head-coach.aspx?path=mbball",
+      "https://247sports.com/college/michigan/article/michigan-basketball-retaining-entire-elite-incoming-class-despite-dusty-mays-departure-288229889/",
+      "https://mgoblue.com/news/2026/7/10/boynton-jr-named-head-coach-of-mens-basketball-program"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
