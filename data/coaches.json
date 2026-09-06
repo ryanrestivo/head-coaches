@@ -5773,5 +5773,104 @@
       "http://www.twincities.com/sports/ci_23079049/shooter-now-ex-gophers-assistant-niko-medved-savors"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Duquesne",
+    "Conference": "A10",
+    "Coach Name": "Keith Dambrot",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Akron",
+        "Role": "Assistant",
+        "Start": "1982",
+        "End": "1984"
+      },
+      {
+        "Organization": "Tiffin",
+        "Role": "Head Coach",
+        "Start": "1984",
+        "End": "1986"
+      },
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1989"
+      },
+      {
+        "Organization": "Ashland",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1991"
+      },
+      {
+        "Organization": "Central Michigan",
+        "Role": "Head Coach",
+        "Start": "1991",
+        "End": "1993"
+      },
+      {
+        "Organization": "St. Vincent-St. Mary HS",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2001"
+      },
+      {
+        "Organization": "Akron",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Akron",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2017"
+      },
+      {
+        "Organization": "Duquesne",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Akron",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2017"
+      },
+      {
+        "Organization": "Duquesne",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2008-13",
+        "Tournament": "MAC",
+        "Result": "3x MAC Tournament + 4x MAC Reg Season Champs (as Akron HC), 3x MAC CoY",
+        "School": "Akron"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "A-10",
+        "Result": "A-10 Tournament Champ (2024) (as Duquesne HC)",
+        "School": "Duquesne"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Keith_Dambrot",
+      "http://gozips.com/sports/mbkb/coaches/dambrot_keith00?view=bio",
+      "http://jewishcoaches.com/index.php/2013/04/08/keith-dambrot-wins-2013-red-auerbach-award/",
+      "http://www.atlantic10.com/ViewArticle.dbml?DB_OEM_ID=31600&amp;ATCLID=211536292",
+      "http://www.clevelandjewishnews.com/features/sports/local_sports/james-high-school-coach-keith-dambrot-great-for-the-community/article_7cb3150a-0930-11e4-a1dc-0019bb2963f4.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
