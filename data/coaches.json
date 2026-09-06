@@ -4666,5 +4666,122 @@
       "http://www.usbasket.com/player.asp?Cntry=USA&amp;PlayerID=22433"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Akron",
+    "Conference": "MAC",
+    "Coach Name": "John Groce",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Taylor",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1996"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2000"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "Xavier",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2008"
+      },
+      {
+        "Organization": "Ohio",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Akron",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2026"
+      },
+      {
+        "Organization": "Charleston",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Ohio",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012",
+        "Record": "85-56",
+        "WinPct": 0.603
+      },
+      {
+        "Organization": "Illinois",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017",
+        "Record": "95-75",
+        "WinPct": 0.559
+      },
+      {
+        "Organization": "Akron",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "197-94",
+        "WinPct": 0.677
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-16",
+        "Tournament": "MAC",
+        "Result": "6\u00d7 MAC Tournament Champion (2010/2012/2022/2024/2025/2026)",
+        "School": "Akron"
+      },
+      {
+        "Season": "2019-20",
+        "Tournament": "MAC",
+        "Result": "2\u00d7 MAC Regular Season + East Division (2020, 2025)",
+        "School": "Akron"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "MAC",
+        "Result": "Hugh Durham Award (2025) + MAC CoY\u00d72 (2020, 2025)",
+        "School": "Akron"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/John_Groce",
+      "http://dailyillini.com/uncategorized/2017/03/11/groce-head-coach-illinois-basketball/",
+      "http://gozips.com/coaches.aspx?rc=396&amp;path=mbball",
+      "http://grfx.cstv.com/photos/schools/ill/sports/m-baskbl/auto_pdf/2014-15/release/release_20141128aaa.pdf",
+      "http://ohiobobcats.cstv.com/sports/m-baskbl/spec-rel/062708aab.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
