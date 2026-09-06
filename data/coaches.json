@@ -4095,5 +4095,94 @@
       "https://goutrgv.com/sports/mens-basketball/roster/coaches/lew-hill/2336"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UTSA",
+    "Conference": "CUSA",
+    "Coach Name": "Steve Henson",
+    "Year": 2016,
+    "Background": [
+      {
+        "Organization": "Illinois",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Atlanta Hawks (NBA)",
+        "Role": "Advance Scout/Assistant",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Oklahoma",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2016"
+      },
+      {
+        "Organization": "UTSA",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024"
+      },
+      {
+        "Organization": "Baylor",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "Southeastern Community College",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UTSA",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2024",
+        "Record": "110-144",
+        "WinPct": 0.433
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kansas State",
+        "Undergraduate Year": 1990,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-16",
+        "Tournament": "NCAA",
+        "Result": "Final Four (as Oklahoma assistant, 2016)",
+        "School": "Oklahoma"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Steve_Henson",
+      "https://baylorbears.com/news/2024/5/3/mens-basketball-baylor-mbb-finalizes-its-coaching-staff-for-2024-25",
+      "https://kilj.com/steve-henson-takes-head-coaching-mantle-of-sccs-mens-basketball-program/",
+      "https://soonersports.com/news/2013/5/20/208803376",
+      "https://www.basketball-reference.com/players/h/hensost01.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
