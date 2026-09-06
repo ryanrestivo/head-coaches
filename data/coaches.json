@@ -6440,5 +6440,83 @@
       "http://qctimes.com/sports/college/illinois/brad-underwood-to-triple-salary-at-illinois/article_c092df7e-a821-599b-8c7c-f365af8d3f4e.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Indiana",
+    "Conference": "Big10",
+    "Coach Name": "Archie Miller",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "UMass",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "UMass",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "San Francisco (asst.?)",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "USC Upstate (asst or interim?)",
+        "Role": "Unknown",
+        "Start": null,
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UMass",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2014"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "Big Ten",
+        "Result": "(2017-18 hired at Indiana; prior SFA/UMass/Memphis titles not extracted)",
+        "School": "Indiana"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Archie_Miller"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Article exists but no dedicated coaching-career table on the section I could parse. UMass 2008-2014 \u2192 Indiana 2014-2018 \u2192 Memphis 2018-2021 is well-documented; specific records/titles not extracted \u2014 flagged for Ryan to verify."
   }
 ]
