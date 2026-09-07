@@ -14900,5 +14900,143 @@
       "https://en.wikipedia.org/wiki/Jamion_Christian_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Georgia St.",
+    "Conference": "Slnd",
+    "Coach Name": "Rob Lanier",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Niagara",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1992"
+      },
+      {
+        "Organization": "St. Bonaventure",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1997"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Siena",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2015"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Georgia State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2024"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Siena",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Georgia State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "167-172",
+        "WinPct": 0.493,
+        "Note": "college HC career (Siena + GSU)"
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2024"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Suffolk (per player career note)",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-02",
+        "Tournament": "MAAC",
+        "Result": "MAAC Tournament Champion (2002, as Siena HC)",
+        "School": "Siena"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Tournament (2022, as Georgia St HC)",
+        "School": "Georgia State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rob_Lanier",
+      "http://texassports.com/coaches.aspx?rc=126",
+      "http://utsports.com/coaches.aspx?rc=1892",
+      "http://www.georgiastatesports.com/ViewArticle.dbml?ATCLID=211798542&amp;DB_OEM_ID=12700",
+      "http://www.georgiastatesports.com/ViewArticle.dbml?ATCLID=211798571&amp;DB_OEM_ID=12700"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
