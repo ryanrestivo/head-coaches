@@ -12293,5 +12293,95 @@
       "http://www.coachesdatabase.com/lorenzo-romar-hired-arizona-associate-head-coach/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Pittsburgh",
+    "Conference": "ACC",
+    "Coach Name": "Jeff Capel",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Old Dominion",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2006"
+      },
+      {
+        "Organization": "Oklahoma",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Duke",
+        "Role": "Assistant / Assoc HC",
+        "Start": "2011",
+        "End": "2018"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2006"
+      },
+      {
+        "Organization": "Oklahoma",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "288-232",
+        "WinPct": 0.554,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2003-04",
+        "Tournament": "CAA",
+        "Result": "CAA Tournament + Reg Season Champ (2004) (as VCU HC)",
+        "School": "VCU"
+      },
+      {
+        "Season": "2022-23",
+        "Tournament": "ACC",
+        "Result": "ACC Coach of the Year (2023) (as Pitt HC)",
+        "School": "Pittsburgh"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jeff_Capel",
+      "http://newsok.com/article/3452360",
+      "http://newsok.com/records-connect-ex-ou-basketball-assistant-oronde-taliaferro-with-financial-adviser/article/3462472",
+      "http://pittsburghpanthers.com/coaches.aspx?rc=1567&amp;path=mbball",
+      "http://www.cbssports.com/college-basketball/news/dukes-mike-krzyzewski-to-have-back-surgery-expected-to-miss-four-weeks/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
