@@ -11275,5 +11275,107 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Richard Barron' is a disambig page (books/translations/academic); no clean article for the Maine basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Marist",
+    "Conference": "MAAC",
+    "Coach Name": "John Dunne",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Wilkes",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1994"
+      },
+      {
+        "Organization": "Western Michigan",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1995"
+      },
+      {
+        "Organization": "Wilkes",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Adelphi",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "Manhattan",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Siena",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Seton Hall",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2006"
+      },
+      {
+        "Organization": "Saint Peter's",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "Marist",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Saint Peter's",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "Marist",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "268-347",
+        "WinPct": 0.436,
+        "Note": "college HC career (St. Peter's + Marist)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-24",
+        "Tournament": "MAC",
+        "Result": "CIT 4-0 (St. Peter's/Marist); MAAC Tournament (2011) (as St. Peter's HC)",
+        "School": "St. Peter's / Marist"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "CIT",
+        "Result": "CIT Champion (2017, as St. Peter's HC)",
+        "School": "St. Peter's"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/John_Dunne_(basketball)",
+      "http://maacsports.com/news/2018/4/3/marist-hires-john-dunne-as-head-mens-basketball-coach.aspx",
+      "http://www.nydailynews.com/archives/sports/2006/05/25/2006-05-25_peacocks_hire_hall_assistant.html",
+      "https://goredfoxes.com/coaches.aspx?rc=796&amp;path=mbball",
+      "https://maacsports.com/news/2018/4/3/marist-hires-john-dunne-as-head-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
