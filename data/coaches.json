@@ -12470,5 +12470,89 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "The 2018 CSV row says 'Rhode Island' \u2014 Cox's 2018 stint is at **Maryland** (hired 2018 after leaving Rhode Island at end of 2017-18); the CSV may be mis-labeled. Flagged for Ryan to verify."
+  },
+  {
+    "School": "Saint Peter's",
+    "Conference": "A10",
+    "Coach Name": "Shaheen Holloway",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Bloomfield Tech HS",
+        "Role": "Substitute Teacher / Assistant",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Iona",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Seton Hall",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2018"
+      },
+      {
+        "Organization": "Saint Peter's",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "Seton Hall",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Saint Peter's",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "64-57",
+        "WinPct": 0.529,
+        "Note": "Saint Peter's 2018-22 (10-22 + 18-12 + 14-11 + 22-12)"
+      },
+      {
+        "Organization": "Seton Hall",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Seton Hall",
+        "Undergraduate Year": 2000,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-22",
+        "Tournament": "A-10",
+        "Result": "2x A-10 2nd Place (2020, 2022) + NCAA Elite 8 (2022) (as St Peter's HC)",
+        "School": "Saint Peter's"
+      },
+      {
+        "Season": "2022-23",
+        "Tournament": "NIT",
+        "Result": "NIT appearance (2023); NIT Champion (2024) (as Seton Hall HC)",
+        "School": "Seton Hall"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Shaheen_Holloway",
+      "http://basket.co.il/player.asp?PlayerId=8464&amp;lang=en",
+      "http://bigtimetournament.net/media/RECORDS_INDIVID_BT95-06.pdf",
+      "http://news.bbc.co.uk/sport2/hi/other_sports/2147357.stm",
+      "http://www.britball.com/profiles/shaheen_holloway.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
