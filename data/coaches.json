@@ -11377,5 +11377,113 @@
       "https://maacsports.com/news/2018/4/3/marist-hires-john-dunne-as-head-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Maryland Eastern Shore",
+    "Conference": "MEAC",
+    "Coach Name": "Clifford Reed",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1992"
+      },
+      {
+        "Organization": "Mainland HS (JV)",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1995"
+      },
+      {
+        "Organization": "Atlantic HS",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1998"
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2002"
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2011"
+      },
+      {
+        "Organization": "Georgia Southern",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Savannah State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Maryland Eastern Shore",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Maryland Eastern Shore",
+        "Role": "Interim Head Coach",
+        "Start": "2018",
+        "End": "2019"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mainland HS (JV)",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1995"
+      },
+      {
+        "Organization": "Atlantic HS",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1998"
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2011"
+      },
+      {
+        "Organization": "Maryland Eastern Shore",
+        "Role": "Interim HC",
+        "Start": "2018",
+        "End": "2019",
+        "Record": "132-192",
+        "WinPct": 0.407,
+        "Note": "college career (BC + UMES)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2010-11",
+        "Tournament": "MEAC",
+        "Result": "MEAC Regular Season Champion (2011, as Bethune-Cookman HC)",
+        "School": "Bethune-Cookman"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Clifford_Reed",
+      "http://b-cuathletics.com/sports/m-baskbl/mtt/reed_headcoachcliff00.html",
+      "http://www.easternshorehawks.com/sports/m-baskbl/mtt/clifford_reed_918866.html",
+      "http://www.news-journalonline.com/article/LK/20110922/News/605072754/DN/",
+      "http://www.news-journalonline.com/news/20110629/daytona-chief-fired-b-cu-coach-refused-to-aid-in-rape-case-involving-son"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
