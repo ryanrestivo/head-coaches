@@ -16483,5 +16483,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Greg Paulus (basketball)' is a stub; no coaching-career table. Hired at Niagara 2019; prior stints and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "North Carolina A&T",
+    "Conference": "MEAC",
+    "Coach Name": "Will Jones",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "North Carolina A&T",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "North Carolina A&T",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Will_Jones_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Will Jones (basketball)' disambig/stub; no clean article for the NC A&T basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
