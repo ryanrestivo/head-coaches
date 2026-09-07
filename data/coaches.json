@@ -16454,5 +16454,34 @@
       "http://www.cbssports.com/collegebasketball/writer/doug-gottlieb/24942044/unimpressive-ucla-has-plenty-of-problems"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Niagara",
+    "Conference": "Horz",
+    "Coach Name": "Greg Paulus",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Niagara",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Niagara",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Greg_Paulus_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Greg Paulus (basketball)' is a stub; no coaching-career table. Hired at Niagara 2019; prior stints and record not extracted - flagged for Ryan to verify."
   }
 ]
