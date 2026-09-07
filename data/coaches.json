@@ -8992,5 +8992,113 @@
       "https://en.wikipedia.org/wiki/Mike_Hopkins_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Youngstown St.",
+    "Conference": "Horz",
+    "Coach Name": "Jerrod Calhoun",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Cincinnati",
+        "Role": "Student Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Walsh",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "West Virginia",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2012"
+      },
+      {
+        "Organization": "Fairmont State",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Youngstown State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Fairmont State",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Youngstown State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024",
+        "Record": "297-159",
+        "WinPct": 0.651,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "MEC",
+        "Result": "MEC Reg Season Champion (2017, as Fairmont HC)",
+        "School": "Fairmont State"
+      },
+      {
+        "Season": "2022-23",
+        "Tournament": "Horizon League",
+        "Result": "Horizon League Reg Season Champion + CoY (2023) (as YSU HC)",
+        "School": "Youngstown State"
+      },
+      {
+        "Season": "2025-26",
+        "Tournament": "MWC",
+        "Result": "MW Reg Season + Tournament Champion + CoY (2026) (as Utah State HC)",
+        "School": "Utah State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jerrod_Calhoun",
+      "http://www.fightingfalcons.com/coaches.aspx?rc=2",
+      "http://www.msnsportsnet.com/page.cfm?section=13040",
+      "https://gobearcats.com/news/2026/3/24/jerrod-calhoun-named-cincinnati-mens-basketball-head-coach",
+      "https://www.ncnewsonline.com/sports/local_sports/youngstown-state-names-calhoun-its-new-coach/article_cb30e158-ad8b-59c9-a0e5-42201a7f6f51.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
