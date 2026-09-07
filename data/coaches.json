@@ -16862,5 +16862,63 @@
       "https://issuu.com/thepost23/docs/fullpaper_032119"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Presbyterian",
+    "Conference": "Slnd",
+    "Coach Name": "Quinton Ferrell",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Presbyterian",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2012"
+      },
+      {
+        "Organization": "The Citadel",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Army",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Charleston",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2019"
+      },
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "77-140",
+        "WinPct": 0.355
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Quinton_Ferrell",
+      "http://www.gobluehose.com/ViewArticle.dbml?ATCLID=211799326&amp;DB_OEM_ID=18100",
+      "https://cofcsports.com/coaches.aspx?rc=544",
+      "https://issuu.com/armyathletics/docs/2013_14_armymbbmediaguide",
+      "https://web.archive.org/web/20190411213301/https://issuu.com/armyathletics/docs/2013_14_armymbbmediaguide"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
