@@ -15211,5 +15211,136 @@
       "https://gocolumbialions.com/staff.aspx?staff=387"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "IU Indy (IUPUI)",
+    "Conference": "Horz",
+    "Coach Name": "Byron Rimm",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Pasadena CC",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Chaffey",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Cal State San Bernardino",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "Texas College (women's)",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Jarvis Christian",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Prairie View A&M",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Prairie View A&M",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2016"
+      },
+      {
+        "Organization": "Texas A&M-Corpus Christi",
+        "Role": "Director of Operations",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "UC Riverside",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "IUPUI",
+        "Role": "Assoc HC",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "IUPUI",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "Houston Baptist / Houston Christian",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": "2023"
+      },
+      {
+        "Organization": "Dallas College Eastfield",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Texas College (women's)",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Jarvis Christian",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Prairie View A&M",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2016"
+      },
+      {
+        "Organization": "IUPUI",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021",
+        "Record": "197-278",
+        "WinPct": 0.415,
+        "Note": "college career (PVAM + IUPUI)"
+      },
+      {
+        "Organization": "Dallas College Eastfield",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Byron_Rimm_(basketball)",
+      "http://goislanders.com/news/2016/10/12/mens-basketball-wilson-adds-byron-rimm-to-staff.aspx",
+      "http://naia.org/basketball/wdi/championship/2002/qualplan.html",
+      "http://web1.ncaa.org/app_data/statsPDFArchive/MBB2/A/Men's%20Basketball_Men's_Division%20II_1997_100_California%20State%20University,%20Los%20Angeles.pdf",
+      "http://www.chron.com/sports/college/article/Byron-Rimm-resigns-as-Prairie-View-A-M-basketball-6787759.php"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
