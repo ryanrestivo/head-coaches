@@ -10908,5 +10908,110 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Ashley Howard' is a disambig page; no clean article for the La Salle basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Little Rock",
+    "Conference": "Slnd",
+    "Coach Name": "Darrell Walker",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Chicago Bulls (NBA)",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2002"
+      },
+      {
+        "Organization": "Toronto Raptors (NBA)",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2004"
+      },
+      {
+        "Organization": "Washington Wizards (NBA)",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "New Orleans Hornets (NBA)",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Detroit Pistons (NBA)",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "New York Knicks (NBA)",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Clark Atlanta",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Clark Atlanta",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2026"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Arkansas",
+        "Undergraduate Year": 1983,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "SIAC",
+        "Result": "SIAC Tournament Champion (2017, as Clark Atlanta HC)",
+        "School": "Clark Atlanta"
+      },
+      {
+        "Season": "2019-20",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Reg Season Champion + CoY (2020) (as Little Rock HC)",
+        "School": "Little Rock"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "OVC",
+        "Result": "OVC Reg Season Champion + CoY (2024) (as Little Rock HC)",
+        "School": "Little Rock"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Darrell_Walker",
+      "http://clarkatlantasports.com/coaches.aspx?rc=347&amp;path=mbball",
+      "http://lrtrojans.com/news/2018/3/27/darrell-walker-named-head-mens-basketball-coach.aspx",
+      "http://sportsillustrated.cnn.com/basketball/nba/news/2000/01/29/heard_fired_ap/",
+      "https://web.archive.org/web/20180326165801/http://clarkatlantasports.com/coaches.aspx?rc=347&amp;path=mbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
