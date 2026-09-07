@@ -8819,5 +8819,101 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "No clean Wikipedia article for the college basketball coach Kyle Perry at USC Upstate. Flagged for Ryan to verify (tenure, record, prior roles)."
+  },
+  {
+    "School": "VCU",
+    "Conference": "A10",
+    "Coach Name": "Mike Rhoades",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Randolph-Macon",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Randolph-Macon",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2009"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Associate HC",
+        "Start": "2009",
+        "End": "2014"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "VCU (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023"
+      },
+      {
+        "Organization": "Penn State",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Randolph-Macon",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2009"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023",
+        "Record": "417-241",
+        "WinPct": 0.634,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Penn State",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-05",
+        "Tournament": "ODAC",
+        "Result": "4x ODAC Reg Season (2002-2005) + Tournament (2003) (as R-M HC)",
+        "School": "Randolph-Macon"
+      },
+      {
+        "Season": "2018-19",
+        "Tournament": "A10",
+        "Result": "2x A10 Reg Season (2019, 2023) + Tournament (2023) + A10 CoY (2019) (as VCU HC)",
+        "School": "VCU"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Rhoades",
+      "http://americansportsnet.com/conference-usa/rice-owls/tragedy-transformed-rice-mens-basketball-coach-mike-rhoades",
+      "http://vcuathletics.com/sports/mbkb/2016-17/releases/20170321xvl2bl",
+      "http://www.vcuathletics.com/information/directory/bios/rhoades-mike-hc-bio?view=bio",
+      "https://247sports.com/college/penn-state/Article/Penn-State-hires-Mike-Rhoades-as-new-basketball-coach-207522417/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
