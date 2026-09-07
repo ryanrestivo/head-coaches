@@ -18534,5 +18534,64 @@
       "http://hoopedia.nba.com/index.php?title=Chipola_College"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Utah Valley",
+    "Conference": "BSky",
+    "Coach Name": "Mark Madsen",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Los Angeles D-Fenders (NBDL)",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2013"
+      },
+      {
+        "Organization": "Los Angeles Lakers (NBA)",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2019"
+      },
+      {
+        "Organization": "Utah Valley",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Los Angeles D-Fenders (NBDL)",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2013"
+      },
+      {
+        "Organization": "Utah Valley",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Madsen_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Utah Valley HC 2019-23 (per TOC). College career record not cleanly extracted (player/NBA-biased article) - flagged."
   }
 ]
