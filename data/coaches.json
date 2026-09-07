@@ -15942,5 +15942,71 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "2019 hire at Merrimack (2nd stint). Prior HC at Robert Morris (2012-16). 2019- record/seasons not cleanly extracted - flagged."
+  },
+  {
+    "School": "Michigan",
+    "Conference": "Big10",
+    "Coach Name": "Juwan Howard",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Miami (FL) (player)",
+        "Role": "Player 1991-1994",
+        "Start": "1991",
+        "End": "1994"
+      },
+      {
+        "Organization": "Michigan (player)",
+        "Role": "Player 1994-1995",
+        "Start": "1994",
+        "End": "1995"
+      },
+      {
+        "Organization": "Miami Heat (NBA, asst)",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2019"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      },
+      {
+        "Organization": "Brooklyn Nets (NBA)",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Miami (FL) / Michigan",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": "B.A."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-24",
+        "Tournament": "Big 10 / NCAA",
+        "Result": "(Michigan HC 2019-24; NCAA tournament appearances)",
+        "School": "Michigan"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Juwan_Howard_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Per-stink Michigan (2019-24) record not cleanly extracted from the player-biased article. Tenure is well-documented."
   }
 ]
