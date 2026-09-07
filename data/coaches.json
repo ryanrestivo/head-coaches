@@ -18420,5 +18420,119 @@
       "https://clemsontigers.com/brownell-adds-donlon-dixon-to-coaching-staff/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UNLV",
+    "Conference": "MWC",
+    "Coach Name": "T.J. Otzelberger",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Burlington Catholic Central HS",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Chipola College",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Associate HC",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Burlington Catholic Central HS",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021",
+        "Record": "223-115",
+        "WinPct": 0.66,
+        "Note": "college career (SDSU + UNLV + Iowa State)"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-19",
+        "Tournament": "Summit League",
+        "Result": "2x Summit League Tournament + 2x Reg Season (2017/2018 tourney, 2018/2019 season) + CoY (2018) (as SDSU HC)",
+        "School": "South Dakota State"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "Big 12",
+        "Result": "Big 12 Tournament (2024), Big 12 (2023) (as Iowa State HC)",
+        "School": "Iowa State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/TJ_Otzelberger",
+      "http://big12sports.com/documents/2024/3/10/2023_24_All_Big_12_MBB_Teams.pdf",
+      "http://big12sports.com/news/2024/3/16/mens-basketball-no-7-iowa-state-wins-phillips-66-big-12-mbb-championship-final-69-41-over-no-1-houston.aspx",
+      "http://big12sports.com/news/2025/3/10/phillips-66-all-big-12-mens-basketball-awards-announced.aspx",
+      "http://hoopedia.nba.com/index.php?title=Chipola_College"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
