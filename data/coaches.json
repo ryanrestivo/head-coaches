@@ -11623,5 +11623,56 @@
       "https://web.archive.org/web/20050215000513/http://goviks.com/sports/mbball/coach/bio.asp?COACH_ID=82"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Memphis",
+    "Conference": "AAC",
+    "Coach Name": "Penny Hardaway",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Memphis (player)",
+        "Role": "Player 1991-1996",
+        "Start": "1991",
+        "End": "1996"
+      },
+      {
+        "Organization": "San Antonio Spurs (NBA, asst)",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2025"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Memphis",
+        "Undergraduate Year": 1996,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Penny_Hardaway",
+      "http://m.commercialappeal.com/news/2008/aug/21/penny-hardaway-give-1-million-university-memphis",
+      "http://usatodayhss.com/2016/video-jayden-hardaway-pennys-son-can-light-it-up",
+      "http://www.campbellclinic.com/?p=600",
+      "http://www.cnn.com/2012/03/16/us/penny-hardaway-memphis-school/index.html"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Page is player-biased. Memphis HC 2018-25 is well-documented (per TOC 'Memphis (2018-present)'); prior San Antonio assistant role not cleanly extracted."
   }
 ]
