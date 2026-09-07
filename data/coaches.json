@@ -15598,5 +15598,107 @@
       "https://cofcsports.com/coaches.aspx?rc=267"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Lipscomb",
+    "Conference": "ASun",
+    "Coach Name": "Lennie Acuff",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Belhaven",
+        "Role": "Head Coach",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "Berry",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1997"
+      },
+      {
+        "Organization": "Alabama-Huntsville",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2019"
+      },
+      {
+        "Organization": "Lipscomb",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Belhaven",
+        "Role": "Head Coach",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "Berry",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1997"
+      },
+      {
+        "Organization": "Alabama-Huntsville",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2019",
+        "Record": "582-319",
+        "WinPct": 0.646,
+        "Note": "NCAA career"
+      },
+      {
+        "Organization": "Lipscomb",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Shorter College",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1998-19",
+        "Tournament": "Gulf South",
+        "Result": "8x Gulf South Reg Season + 3x Tournament + 8x Gulf South CoY (as Alabama-Huntsville HC)",
+        "School": "Alabama-Huntsville"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "ASun",
+        "Result": "ASun Reg Season + Tournament + CoY (2025) (as Lipscomb HC)",
+        "School": "Lipscomb"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Lennie_Acuff",
+      "http://www.lipscombsports.com/mbasketball/news/2018-19/16014/lennie-acuff-tabbed-to-lead-lipscomb-mens-basketball/",
+      "https://blazers.belhaven.edu/sports/2015/6/29/MBK_0629152331.aspx?id=260",
+      "https://d2o2figo6ddd0g.cloudfront.net/n/3/7fu9yq31807s1p/MBB_coaches.pdf",
+      "https://uahchargers.com/coaches.aspx?rc=353"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
