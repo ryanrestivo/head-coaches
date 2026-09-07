@@ -12729,5 +12729,113 @@
       "https://en.wikipedia.org/wiki/Jamion_Christian_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "South Alabama",
+    "Conference": "Slnd",
+    "Coach Name": "Richie Riley",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Georgetown (KY)",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Hawaii Pacific",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Pikeville",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Coastal Carolina",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2011"
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Clemson",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "Nicholls State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Nicholls State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "187-134",
+        "WinPct": 0.583,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Eastern Kentucky",
+        "Undergraduate Year": 2005,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "Southland",
+        "Result": "Southland Reg Season Champion + SoY (2018) (as Nicholls HC)",
+        "School": "Nicholls State"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Reg Season + CoY (2025) (as S. Ala HC)",
+        "School": "South Alabama"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Richie_Riley",
+      "http://www.clemsontigers.com/ViewArticle.dbml?DB_OEM_ID=28500&amp;ATCLID=209648201",
+      "http://www.geauxcolonels.com/coaches.aspx?rc=491&amp;path=mbball",
+      "http://www.uabsports.com/sports/m-baskbl/mtt/riley_richie00.html",
+      "https://www.coachesdatabase.com/richie-riley/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
