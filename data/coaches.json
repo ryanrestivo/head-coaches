@@ -13251,5 +13251,91 @@
       "https://web.archive.org/web/20171126061420/https://www.milligan.edu/publications/athletics/records/basketball-men/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "USC Upstate",
+    "Conference": "Slnd",
+    "Coach Name": "Dave Dickerson",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1992"
+      },
+      {
+        "Organization": "Radford",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1996"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2005"
+      },
+      {
+        "Organization": "Tulane",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Associate HC",
+        "Start": "2010",
+        "End": "2017"
+      },
+      {
+        "Organization": "USC Upstate",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tulane",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010"
+      },
+      {
+        "Organization": "USC Upstate",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "133-201",
+        "WinPct": 0.398,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "TBC",
+        "Result": "TBC appearance (2022), CBI 0-1 (as USC Upstate HC)",
+        "School": "USC Upstate"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dave_Dickerson_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
