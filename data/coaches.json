@@ -12837,5 +12837,34 @@
       "https://www.coachesdatabase.com/richie-riley/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "South Dakota",
+    "Conference": "MVC",
+    "Coach Name": "Todd Lee",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "South Dakota",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "South Dakota",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Todd_Lee_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Todd Lee (basketball)' page is a stub; coaching-career table did not render. Hired at South Dakota 2018; prior stints and record not extracted - flagged for Ryan to verify."
   }
 ]
