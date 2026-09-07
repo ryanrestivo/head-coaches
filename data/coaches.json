@@ -9864,5 +9864,34 @@
       "https://apnews.com/ee4f122271374fa7b5e42bf893e80dc4"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Detroit Mercy",
+    "Conference": "Horz",
+    "Coach Name": "Mike Davis",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Detroit Mercy",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Detroit Mercy",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Davis_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia article (and disambiguation) doesn't distinguish which Mike Davis was Detroit Mercy's 2018-23 head coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
