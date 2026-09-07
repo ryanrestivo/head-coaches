@@ -11859,5 +11859,107 @@
       "https://news.google.com/newspapers?id=2ZhfAAAAIBAJ&amp;sjid=bTEMAAAAIBAJ&amp;pg=2833%2C113447"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Missouri St.",
+    "Conference": "MVC",
+    "Coach Name": "Dana Ford",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Winthrop",
+        "Role": "Graduate Assistant",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Graduate Assistant",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "Chipola",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2009"
+      },
+      {
+        "Organization": "Tennessee State",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2011"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "163-146",
+        "WinPct": 0.528,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Illinois State",
+        "Undergraduate Year": 2006,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-16",
+        "Tournament": "OVC",
+        "Result": "OVC Coach of the Year (2016) + Ben Jobe Award (2016) (as Tennessee St HC)",
+        "School": "Tennessee State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dana_Ford",
+      "http://basketball.realgm.com/player/Dana-Ford/Summary/7318",
+      "http://shockerhoops.net/coaches/dana-ford/",
+      "http://www.boxtorow.com/blog/2016/04/boxtorow-mens-division-i-all-america-team/",
+      "http://www.draftexpress.com/profile/Dana-Ford-28257/stats/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
