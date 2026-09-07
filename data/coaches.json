@@ -16187,5 +16187,107 @@
       "https://msubobcats.com/news/2019/4/4/danny-sprinkle-selected-to-lead-montana-state-mens-basketball-program.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Morgan St.",
+    "Conference": "MEAC",
+    "Coach Name": "Kevin Broadus",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Bowie State",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "UDC",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1997"
+      },
+      {
+        "Organization": "American",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Georgetown",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Binghamton",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Georgetown",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Morgan State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Binghamton",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Morgan State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "133-134",
+        "WinPct": 0.498,
+        "Note": "college HC career (Binghamton + Morgan State)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2008-09",
+        "Tournament": "America East",
+        "Result": "America East Reg Season + Tournament (2009) + CoY (2009) (as Binghamton HC)",
+        "School": "Binghamton"
+      },
+      {
+        "Season": "2025-26",
+        "Tournament": "MEAC",
+        "Result": "MEAC Coach of the Year (2026) (as Morgan State HC)",
+        "School": "Morgan State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kevin_Broadus_(basketball)",
+      "http://www.espn.com/mens-college-basketball/news/story?id=4526851",
+      "http://www.guhoyas.com/news/2011/6/22/Kevin_Broadus_Joins_Men_s_Basketball_Staff_at_Georgetown.aspx",
+      "http://www.umterps.com/ViewArticle.dbml?DB_OEM_ID=29700&amp;ATCLID=211567415",
+      "https://gwsports.com/roster.aspx?path=mbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
