@@ -17134,5 +17134,76 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "College head coaching records (La Salle/USMMA/Villanova/Navy/St. Joseph's) not cleanly extracted (article is mostly D-III/NBA). St. Joseph's 2019-25 is well-documented via infobox."
+  },
+  {
+    "School": "San Francisco",
+    "Conference": "WCC",
+    "Coach Name": "Todd Golden",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Columbia",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Auburn",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Associate HC",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "San Francisco",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "160-77",
+        "WinPct": 0.675
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2024-25",
+        "Tournament": "SEC / NCAA",
+        "Result": "NCAA National Champion (2025) + Final 4 (2025) + SEC Tournament + Reg Season (2025/2026) + SEC CoY (2026) (as Florida HC)",
+        "School": "Florida"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Todd_Golden_(basketball)",
+      "http://smcgaels.com/news/2008/8/8/Todd_Golden_Signs_Professional_Contract_to_Play_With_Maccabi_Haifa_Heat.aspx",
+      "http://smcgaels.cstv.com/sports/m-baskbl/mtt/golden_todd00.html",
+      "https://247sports.com/college/auburn/Article/Auburns-Todd-Golden-wont-quit-and-wont-lose-37710524/",
+      "https://247sports.com/college/auburn/Article/Bruce-Pearl-adds-Todd-Golden-to-Auburn-staff-186293/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
