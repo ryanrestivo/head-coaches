@@ -11961,5 +11961,167 @@
       "http://www.draftexpress.com/profile/Dana-Ford-28257/stats/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Mount St. Mary's",
+    "Conference": "A10",
+    "Coach Name": "Dan Engelstad",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Mount St. Mary's",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Holy Cross",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Southern Vermont College",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Mount St. Mary's",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Syracuse",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Southern Vermont College",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Mount St. Mary's",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "176-143",
+        "WinPct": 0.552,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "St. Mary's College of Maryland",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2014-18",
+        "Tournament": "NECC",
+        "Result": "4x NECC Reg Season (2015-2018) + 2x NECC Tournament (2016, 2018) (as Southern Vermont HC)",
+        "School": "Southern Vermont College"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "NEC",
+        "Result": "NEC Tournament Champion (2021) (as MSMU HC)",
+        "School": "Mount St. Mary's"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dan_Engelstad",
+      "http://mountathletics.com/information/directory/bios/engelstad_dan?view=bio",
+      "http://www.manchesterjournal.com/stories/svcs-engelstad-leading-armored-athlete-in-tbt,513673",
+      "http://www.mountathletics.com/sports/mbkb/2017-18/releases/20180509io2on2",
+      "http://www.svcathletics.com/information/staff_directory/bios/assistants/burt_asst_mbb_coach?view=bio"
+    ],
+    "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Nicholls St.",
+    "Conference": "Slnd",
+    "Coach Name": "Austin Claunch",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "George Mason",
+        "Role": "Director of Player Development",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Clemson",
+        "Role": "Graduate Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Nicholls State",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Nicholls",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": "2024"
+      },
+      {
+        "Organization": "UTSA",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Nicholls",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023",
+        "Record": "107-105",
+        "WinPct": 0.505,
+        "Note": "college HC career"
+      },
+      {
+        "Organization": "UTSA",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-17",
+        "Tournament": "Southland",
+        "Result": "2x Southland Reg Season (2021, 2022) + SoY (2021) (as Nicholls HC)",
+        "School": "Nicholls"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Austin_Claunch",
+      "http://www.clemsontigers.com/ViewArticle.dbml?DB_OEM_ID=28500&amp;ATCLID=209225927",
+      "http://www.emoryathletics.com/sports/mbkb/2011-12/Bios/Claunch?view=bio",
+      "https://goutsa.com/news/2024/03/17/utsa-names-austin-claunch-head-mens-basketball-coach",
+      "https://web.archive.org/web/20170713195823/http://www.clemsontigers.com/ViewArticle.dbml?DB_OEM_ID=28500&amp;ATCLID=209225927"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
