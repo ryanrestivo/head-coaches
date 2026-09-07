@@ -18058,5 +18058,77 @@
       "http://www.espn.com/mens-college-basketball/story/_/id/26429544/virginia-tech-williams-taking-texas-job"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Troy",
+    "Conference": "Slnd",
+    "Coach Name": "Scott Cross",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "UT Arlington",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2006"
+      },
+      {
+        "Organization": "UT Arlington",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "TCU",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Troy",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UT Arlington",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "Troy",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2025-26",
+        "Tournament": "NIT",
+        "Result": "2-2 NIT (as Troy HC)",
+        "School": "Troy"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Scott_Cross_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Combined UT Arlington + Troy record not cleanly extracted; 2019 Troy tenure well-documented."
   }
 ]
