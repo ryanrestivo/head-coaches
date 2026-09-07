@@ -13069,5 +13069,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Johnny Jones' is a disambig page; no clean article for the TX Southern basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "UC Riverside",
+    "Conference": "BSky",
+    "Coach Name": "David Patrick",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "UC Riverside",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UC Riverside",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/David_Patrick"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "No clean Wikipedia article for the UC Riverside basketball coach. Hired 2018; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
