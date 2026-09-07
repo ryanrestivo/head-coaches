@@ -11674,5 +11674,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Page is player-biased. Memphis HC 2018-25 is well-documented (per TOC 'Memphis (2018-present)'); prior San Antonio assistant role not cleanly extracted."
+  },
+  {
+    "School": "Middle Tennessee",
+    "Conference": "CUSA",
+    "Coach Name": "Nicholas McDevitt",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Middle Tennessee",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Middle Tennessee",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Nicholas_McDevitt"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia article is a stub; no coaching-career table. Hired at Middle Tennessee 2018; prior stints and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
