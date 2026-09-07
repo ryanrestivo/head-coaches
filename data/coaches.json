@@ -15122,5 +15122,94 @@
       "https://en.wikipedia.org/wiki/Brett_Nelson_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Howard",
+    "Conference": "MEAC",
+    "Coach Name": "Kenny Blakeney",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "James Madison",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "La Salle",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Delaware",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "Seton Hall",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Delaware",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Harvard",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Columbia",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Howard",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Howard",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "97-107",
+        "WinPct": 0.475
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-26",
+        "Tournament": "MEAC",
+        "Result": "3x MEAC Tournament (2023, 2024, 2026) + 2x MEAC Reg Season (2023, 2026) + MEAC CoY (2023) (as Howard HC)",
+        "School": "Howard"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kenny_Blakeney_(basketball)",
+      "http://www.dukeupdate.com/Alumni/kenny_blakeney.htm",
+      "http://www1.udel.edu/PR/UDaily/01-02/blakeney070202.html",
+      "https://gocolumbialions.com/news/2018/9/7/mens-basketball-columbia-adds-kenny-blakeney-to-coaching-staff.aspx",
+      "https://gocolumbialions.com/staff.aspx?staff=387"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
