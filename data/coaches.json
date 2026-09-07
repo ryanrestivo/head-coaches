@@ -8547,5 +8547,118 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia TOC confirms stints (MSU, Dayton, GT, MSU, USF) but the coaching career table didn't parse. Records per-stint not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Southern",
+    "Conference": "SWAC",
+    "Coach Name": "Morris Scott",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Florida A&M",
+        "Role": "Graduate Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Chipley HS",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Northwest Florida State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Middleton HS",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Grambling State",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Southern",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Southern",
+        "Role": "Interim Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Northwestern State",
+        "Role": "Assistant",
+        "Start": "2019",
+        "End": "2020"
+      },
+      {
+        "Organization": "Louisiana-Monroe",
+        "Role": "Assistant",
+        "Start": "2020",
+        "End": "2024"
+      },
+      {
+        "Organization": "Chattahoochee Valley CC",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Chipley HS",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Middleton HS",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Southern",
+        "Role": "Interim Head Coach",
+        "Start": "2017",
+        "End": "2018",
+        "Record": "15-18",
+        "WinPct": 0.455,
+        "Note": "college career (interim tenure at Southern)"
+      },
+      {
+        "Organization": "Chattahoochee Valley CC",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Morris_Scott_(basketball)",
+      "https://cvpirates.com/sports/mbkb/coaches/Morris_Scott",
+      "https://gojagsports.com/sports/mens-basketball/roster/coaches/morris-scott/334",
+      "https://gojagsports.com/sports/mens-basketball/roster/coaches/morris-scott/336",
+      "https://nsudemons.com/sports/mens-basketball/roster/coaches/morris-scott/1812"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
