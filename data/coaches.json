@@ -17325,5 +17325,93 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "CSV says 2019 South Dakota St. but Wikipedia infobox shows Drake 2019-25. Possible CSV error or Henderson was at SDSU for one year not listed in infobox. Flagged for Ryan to verify."
+  },
+  {
+    "School": "Southeastern Louisiana",
+    "Conference": "Slnd",
+    "Coach Name": "David Kiefer",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Cincinnati",
+        "Role": "Student Manager",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Student Manager",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "St. Mary's Ryken HS",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Arlington Country Day School",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Jones County JC",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Northwest Florida State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Assistant/Assoc HC",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "95-123",
+        "WinPct": 0.436
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": null,
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "Southland",
+        "Result": "Southland Coach of the Year (2022)",
+        "School": "Southeastern Louisiana"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/David_Kiefer_(basketball)",
+      "https://lionsports.net/coaches.aspx?rc=1903&amp;path=mbball",
+      "https://lionsports.net/news/2019/7/2/southeastern-names-david-kiefer-head-mens-basketball-coach.aspx?path=mbball"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Undergraduate college not clearly listed (student manager at Cincinnati/Kansas State 2005-08)."
   }
 ]
