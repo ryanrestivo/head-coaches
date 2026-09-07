@@ -18130,5 +18130,89 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Combined UT Arlington + Troy record not cleanly extracted; 2019 Troy tenure well-documented."
+  },
+  {
+    "School": "Tulane",
+    "Conference": "AAC",
+    "Coach Name": "Ron Hunter",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Milwaukee",
+        "Role": "Assistant",
+        "Start": "1987",
+        "End": "1993"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "IUPUI",
+        "Role": "Head Coach",
+        "Start": "1994",
+        "End": "2011"
+      },
+      {
+        "Organization": "Georgia State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2019"
+      },
+      {
+        "Organization": "Tulane",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "IUPUI",
+        "Role": "Head Coach",
+        "Start": "1994",
+        "End": "2011"
+      },
+      {
+        "Organization": "Georgia State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2019"
+      },
+      {
+        "Organization": "Tulane",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "552-418",
+        "WinPct": 0.569,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2002-06",
+        "Tournament": "Summit League",
+        "Result": "Summit League Tournament (2003) + Reg Season (2006) + 2x CoY (2003, 2006) (as IUPUI HC)",
+        "School": "IUPUI"
+      },
+      {
+        "Season": "2013-19",
+        "Tournament": "Sun Belt",
+        "Result": "3x Sun Belt Tournament (2015, 2018, 2019) + 3x Reg Season (2014, 2015, 2019) + CoY (2014) (as Georgia St HC)",
+        "School": "Georgia State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ron_Hunter",
+      "https://georgiastatesports.com/news/2012/1/4/205356193.aspx",
+      "https://georgiastatesports.com/news/2017/11/20/211686556.aspx",
+      "https://georgiastatesports.com/sports/2017/10/28/211675545.aspx",
+      "https://iupuijags.com/documents/2014/12/3/2014_15_MBB_Record_Book.pdf"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
