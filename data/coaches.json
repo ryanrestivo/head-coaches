@@ -17818,5 +17818,113 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Aaron McKie (basketball)' stub; no coaching-career table. Hired at Temple 2019; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Tennessee Tech",
+    "Conference": "OVC",
+    "Coach Name": "John Pelphrey",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Oklahoma State",
+        "Role": "Assistant",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1996"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2002"
+      },
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2007"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2015"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Tennessee Tech",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "South Alabama",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2007"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Tennessee Tech",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026",
+        "Record": "228-264",
+        "WinPct": 0.463,
+        "Note": "college career (South Ala + Arkansas + Tenn Tech)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kentucky",
+        "Undergraduate Year": 1987,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2005-07",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Tournament (2006) + Reg Season (2007) + CoY (2006) (as South Alabama HC)",
+        "School": "South Alabama"
+      },
+      {
+        "Season": "2009-10",
+        "Tournament": "SEC",
+        "Result": "(as Arkansas HC; 2x NCAA tournament appearances)",
+        "School": "Arkansas"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/John_Pelphrey_(basketball)",
+      "http://sportsillustrated.cnn.com/basketball/ncaa/men/scoreboards/divia/today/",
+      "http://ukbasketball.kentucky.com/pelphrey-launches-charity-foundation/",
+      "http://www.allheadlinenews.com/articles/7006991242",
+      "http://www.bigbluehistory.net/bb/Statistics/Players/Pelphrey_John.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
