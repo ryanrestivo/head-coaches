@@ -8732,5 +8732,63 @@
       "http://tucson.com/sports/arizonawildcats/basketball/pascoe/arizona-basketball-lorenzo-romar-to-make-as-sean-miller-s/article_7e6a2a78-244e-11e7-853f-93a49f81e2ff.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UNC Wilmington",
+    "Conference": "CAA",
+    "Coach Name": "C.B. McGrath",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Kansas",
+        "Role": "Admin Assistant (player)",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "North Carolina",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2017"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2020"
+      },
+      {
+        "Organization": "Cincinnati",
+        "Role": "Special Assistant",
+        "Start": "2021",
+        "End": "2022"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2020",
+        "Record": "26-58",
+        "WinPct": 0.31
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kansas (per playing career)",
+        "Undergraduate Year": 2001,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/C.B._McGrath",
+      "https://en.wikibooks.org/wiki/Special:Search/CB_McGrath",
+      "https://en.wikiquote.org/wiki/Special:Search/CB_McGrath",
+      "https://en.wikisource.org/wiki/Special:Search/CB_McGrath",
+      "https://en.wikiversity.org/wiki/Special:Search/CB_McGrath"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
