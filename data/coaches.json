@@ -9100,5 +9100,34 @@
       "https://www.ncnewsonline.com/sports/local_sports/youngstown-state-names-calhoun-its-new-coach/article_cb30e158-ad8b-59c9-a0e5-42201a7f6f51.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Alabama A&M",
+    "Conference": "SIAC",
+    "Coach Name": "Dylan Howart",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Alabama A&M",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Alabama A&M",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dylan_Howard"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Thin Wikipedia article; no coaching-career table rendered. Hired at Alabama A&M 2018; prior roles and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
