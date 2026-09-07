@@ -13970,5 +13970,95 @@
       "https://appstatesports.com/sports/mens-basketball/roster/coaches/dustin-kerns/1217"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Arkansas",
+    "Conference": "SEC",
+    "Coach Name": "Eric Musselman",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Golden State Warriors (NBA, HC)",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2004"
+      },
+      {
+        "Organization": "Sacramento Kings (NBA, HC)",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Assistant/Assoc HC",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Assoc HC",
+        "Start": "2014",
+        "End": "2015"
+      },
+      {
+        "Organization": "Nevada",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      },
+      {
+        "Organization": "USC International",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Nevada",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024",
+        "Record": "256-125",
+        "WinPct": 0.672,
+        "Note": "NCAA career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-19",
+        "Tournament": "MWC",
+        "Result": "(Nevada HC; MWC appearances)",
+        "School": "Nevada"
+      },
+      {
+        "Season": "2017-19",
+        "Tournament": "NCAA",
+        "Result": "2x NCAA appearances (as Arkansas HC)",
+        "School": "Arkansas"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Eric_Musselman_(basketball)",
+      "http://arizonasports.com/74/1619681/ASU-AD-expects-assistant-Musselman-to-draw-interest-from-other-schools",
+      "http://collegebasketballtalk.nbcsports.com/2013/05/06/eric-musselman-promoted-to-associate-head-coach-at-arizona-state/",
+      "http://emuss.blogspot.com/",
+      "http://emuss.blogspot.com/2008/07/finding-right-schemes-for-your-team.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
