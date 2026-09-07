@@ -10879,5 +10879,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article lists his coaching stints but the combined HC record/years not cleanly extracted. Incarnate Word 2018-23 tenure is well-documented."
+  },
+  {
+    "School": "La Salle",
+    "Conference": "MAAC",
+    "Coach Name": "Ashley Howard",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "La Salle",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "La Salle",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ashley_Howard"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Ashley Howard' is a disambig page; no clean article for the La Salle basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
