@@ -17021,5 +17021,118 @@
       "https://web.archive.org/web/20190411214624/https://www.siuecougars.com/sports/m-baskbl/2018-19/releases/20190312o7ljb4"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Saint Joseph's",
+    "Conference": "A10",
+    "Coach Name": "Billy Lange",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Philadelphia Rams (NBDL)",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "La Salle",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Merchant Marine Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Villanova",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Navy",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Philadelphia 76ers (NBA)",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Philadelphia 76ers (NBA)",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Saint Joseph's",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      },
+      {
+        "Organization": "New York Knicks (NBA)",
+        "Role": "Assistant",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Philadelphia Rams (NBDL)",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "La Salle",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Merchant Marine Academy",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Villanova",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Navy",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Saint Joseph's",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Rowan",
+        "Undergraduate Year": 1994,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Billy_Lange"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "College head coaching records (La Salle/USMMA/Villanova/Navy/St. Joseph's) not cleanly extracted (article is mostly D-III/NBA). St. Joseph's 2019-25 is well-documented via infobox."
   }
 ]
