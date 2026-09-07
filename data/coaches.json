@@ -9508,5 +9508,99 @@
       "http://www.oneontaathletics.com/hof.aspx?hof=79"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Chicago St.",
+    "Conference": "MEAC",
+    "Coach Name": "Lance Irvin",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Idaho",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1992"
+      },
+      {
+        "Organization": "DePaul",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1997"
+      },
+      {
+        "Organization": "Loyola-Chicago",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2001"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "SMU",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Morgan Park HS",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Chicago State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Chicago State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "7-63",
+        "WinPct": 0.1
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Lance_Irvin",
+      "http://cyclones.com/news/2001/8/30/850023.aspx?path=mbball",
+      "http://news.medill.northwestern.edu/chicago/meet-the-irvins-the-south-sides-basketball-dynasty/",
+      "http://www.chicagotribune.com/sports/college/ct-spt-chicago-state-hires-basketball-coaches-20180807-story.html",
+      "http://www.cstv.com/sports/m-baskbl/stories/071006aai.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
