@@ -12625,5 +12625,109 @@
       "http://www.usdtoreros.com/sports/m-baskbl/mtt/sam_scholl_964591.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Siena",
+    "Conference": "A10",
+    "Coach Name": "Jamion Christian",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Emory and Henry",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "Bucknell",
+        "Role": "Operations",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "William & Mary",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Mount St. Mary's",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Siena",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Pallacanestro Trieste (Italian LBA)",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "Bryant",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mount St. Mary's",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Siena",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "George Washington",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "156-183",
+        "WinPct": 0.46,
+        "Note": "college HC career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-17",
+        "Tournament": "NEC",
+        "Result": "2x NEC Tournament (2014, 2017) + NEC Reg Season (2017) + CoY (2017) + Ben Jobe Award (2017) (as MSMU HC)",
+        "School": "Mount St. Mary's"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "LNP",
+        "Result": "LNP Serie A2 Champion (2024, at Pallacanestro Trieste)",
+        "School": "Trieste"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jamion_Christian_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
