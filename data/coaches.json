@@ -8213,5 +8213,70 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia infobox lists his career; Rice HC 2017-21 is from CSV + infobox context. College career record/tenure-end not clearly stated \u2014 flagged."
+  },
+  {
+    "School": "San Diego St.",
+    "Conference": "MWC",
+    "Coach Name": "Brian Dutcher",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Illinois",
+        "Role": "Graduate Assistant",
+        "Start": "1983",
+        "End": "1985"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1988"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Associate HC",
+        "Start": "1989",
+        "End": "1998"
+      },
+      {
+        "Organization": "San Diego State",
+        "Role": "Associate HC",
+        "Start": "1999",
+        "End": "2017"
+      },
+      {
+        "Organization": "San Diego State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "San Diego State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "220-79",
+        "WinPct": 0.736
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "NCAA",
+        "Result": "Final Four (2023) + 3x MW Tournament + 3x MW Reg Season (2018/2021/2023) + 2x MW CoY (2020, 2021)",
+        "School": "San Diego State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Dutcher",
+      "http://collegebasketball.nbcsports.com/2017/04/10/report-san-diego-state-head-coach-steve-fisher-retires-replaced-by-assistant-brian-dutcher/",
+      "http://www.sandiegouniontribune.com/sports/aztecs/sdut-details-fishers-new-deal-2011aug29-htmlstory.html",
+      "http://www.upi.com/Sports_News/College-Basketball/2017/04/10/San-Diego-States-Steve-Fisher-retires-replaced-by-Brian-Dutcher/4611491862106/",
+      "https://themw.com/news/2020/3/3/mountain-west-announces-2019-20-mens-basketball-all-conference-team.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
