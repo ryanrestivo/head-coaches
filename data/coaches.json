@@ -13040,5 +13040,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia confirms Tennessee State head coach 2018- (7-year program turnaround) but combined NCAA DI record and prior NJCAA years not cleanly extracted."
+  },
+  {
+    "School": "Texas Southern",
+    "Conference": "SWAC",
+    "Coach Name": "Johnny Jones",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Texas Southern",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Texas Southern",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Johnny_Jones"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Johnny Jones' is a disambig page; no clean article for the TX Southern basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
