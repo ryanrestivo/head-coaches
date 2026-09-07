@@ -18792,5 +18792,76 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "2019 hire at Washington State (well-documented). Prior USF + later Stanford tenures not cleanly extracted (year ranges missing) - flagged."
+  },
+  {
+    "School": "William & Mary",
+    "Conference": "CAA",
+    "Coach Name": "Dane Fischer",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Williams",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Rider",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2008"
+      },
+      {
+        "Organization": "Bucknell",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2015"
+      },
+      {
+        "Organization": "George Mason",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "William & Mary",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "William & Mary",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024",
+        "Record": "56-91",
+        "WinPct": 0.381
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Ithaca",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "CAA",
+        "Result": "CAA Coach of the Year (2020) (as W&M HC)",
+        "School": "William & Mary"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dane_Fischer_(basketball)",
+      "https://bucknellbison.com/news/2008/6/10/209035105.aspx",
+      "https://gobroncs.com/coaches.aspx?rc=110",
+      "https://gobroncs.com/sports/mens-basketball/roster/coaches/dane-fischer/110",
+      "https://gomason.com/coaches.aspx?rc=590&amp;path=mbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
