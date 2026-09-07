@@ -18306,5 +18306,119 @@
       "https://en.wikipedia.org/wiki/Mick_Cronin_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UMKC",
+    "Conference": "Horz",
+    "Coach Name": "Billy Donlon",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "American",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "St. Peters",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2001"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2006"
+      },
+      {
+        "Organization": "Wright State",
+        "Role": "Associate HC",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "Wright State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Northwestern",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Kansas City (UMKC)",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Clemson",
+        "Role": "Associate HC",
+        "Start": "2022",
+        "End": "2026"
+      },
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wright State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Kansas City (UMKC)",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "155-133",
+        "WinPct": 0.538,
+        "Note": "college career (Wright St + UMKC)"
+      },
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "UNC Wilmington",
+        "Undergraduate Year": 1999,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "Horizon League",
+        "Result": "Horizon League Coach of the Year (2013) (as Wright State HC)",
+        "School": "Wright State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Billy_Donlon_(basketball)",
+      "http://www.espn.com/mens-college-basketball/news/story?id=5086269",
+      "http://www.espn.com/mens-college-basketball/story/_/id/14988081/wright-state-raiders-fire-coach-billy-donlon",
+      "http://www.mgoblue.com/sports/m-baskbl/spec-rel/050416aaa.html",
+      "https://clemsontigers.com/brownell-adds-donlon-dixon-to-coaching-staff/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
