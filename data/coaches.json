@@ -10374,5 +10374,81 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia TOC confirms stints (Eastern Michigan, North Carolina, Florida Atlantic, Michigan, U.S. Natl Team, Dallas Mavericks) but the detailed coaching-table didn't parse on first pass. Records per-stint not extracted \u2014 flagged."
+  },
+  {
+    "School": "Florida Gulf Coast",
+    "Conference": "ASun",
+    "Coach Name": "Michael Fly",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Georgetown (KY)",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Charlotte Bobcats (NBA)",
+        "Role": "Video Coordinator",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Florida State",
+        "Role": "Video Coordinator",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2018"
+      },
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "Jacksonville",
+        "Role": "Assoc HC",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Dir. of Scouting & Analytics",
+        "Start": "2022",
+        "End": "2023"
+      },
+      {
+        "Organization": "Florida State",
+        "Role": "Assistant",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "56-60",
+        "WinPct": 0.483
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Michael_Fly",
+      "http://fgcuathletics.com/coaches.aspx?rc=481&amp;path=mbball",
+      "http://fgcuathletics.com/news/2018/4/5/mens-basketball-timetofly-michael-fly-named-fgcu-mbb-head-coach.aspx",
+      "https://abc-7.com/news/sports/2022/03/05/fgcu-mens-basketball-coach-michael-fly-released-school-announced/",
+      "https://www.naplesnews.com/story/sports/college/fgcu/2018/04/05/fgcu-name-longtime-assistant-michael-fly-new-mens-basketball-head-coach/488617002/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
