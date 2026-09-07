@@ -18593,5 +18593,70 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Utah Valley HC 2019-23 (per TOC). College career record not cleanly extracted (player/NBA-biased article) - flagged."
+  },
+  {
+    "School": "Vanderbilt",
+    "Conference": "SEC",
+    "Coach Name": "Jerry Stackhouse",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Toronto Raptors (NBA)",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2015"
+      },
+      {
+        "Organization": "Raptors 905 (NBDL)",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Memphis Grizzlies (NBA)",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      },
+      {
+        "Organization": "Golden State Warriors (NBA)",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Raptors 905 (NBDL)",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "North Carolina (per player career)",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jerry_Stackhouse"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Vanderbilt HC 2019-24 (per infobox). Prior NBA/NBDL roles listed."
   }
 ]
