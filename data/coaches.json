@@ -14397,5 +14397,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'John Smith (basketball, born 1968)' is a stub; no clean coaching-career table. Hired at Cal Poly 2019; prior stints and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "California",
+    "Conference": "Pac12",
+    "Coach Name": "Mark Fox",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "California",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Fox"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Mark Fox' is a disambig/stub; no clean article for the California basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
