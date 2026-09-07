@@ -10648,5 +10648,161 @@
       "http://iuhoosiers.cstv.com/sports/m-baskbl/mtt/crean_tom00.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "High Point",
+    "Conference": "Slnd",
+    "Coach Name": "Tubby Smith",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Great Mills HS",
+        "Role": "Head Coach",
+        "Start": "1973",
+        "End": "1977"
+      },
+      {
+        "Organization": "Hoke County HS",
+        "Role": "Head Coach",
+        "Start": "1977",
+        "End": "1979"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "1979",
+        "End": "1986"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Assistant",
+        "Start": "1989",
+        "End": "1991"
+      },
+      {
+        "Organization": "Tulsa",
+        "Role": "Head Coach",
+        "Start": "1991",
+        "End": "1995"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1997"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2007"
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "High Point",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tulsa",
+        "Role": "Head Coach",
+        "Start": "1991",
+        "End": "1995"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1997"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2007"
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Memphis",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "High Point",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "642-369",
+        "WinPct": 0.635,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "1997-98",
+        "Tournament": "NCAA/SEC",
+        "Result": "NCAA National Champion (1998) + Final Four (1998) (as Kentucky HC)",
+        "School": "Kentucky"
+      },
+      {
+        "Season": "1997-05",
+        "Tournament": "SEC",
+        "Result": "5x SEC Reg Season + 5x SEC Tournament (as Kentucky HC), 3x SEC CoY (1998/2003/2005)",
+        "School": "Kentucky"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "Big 12",
+        "Result": "Big 12 CoY (2016) + John R. Wooden Legends of Coaching Award (2016) (as Texas Tech HC)",
+        "School": "Texas Tech"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tubby_Smith",
+      "http://bracket.blogs.nytimes.com/2007/03/17/bluegrass-controversy",
+      "http://loyolagreyhounds.cstv.com/sports/m-baskbl/mtt/smith_gg00.html",
+      "http://olemisssports.com/ViewArticle.dbml?DB_OEM_ID=2600&amp;ATCLID=542614",
+      "http://sportsday.dallasnews.com/college-sports/collegesports/2016/03/13/10-things-know-texas-tech-coach-tubby-smith-including-got-name-humiliating-wipeout"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
