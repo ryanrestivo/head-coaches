@@ -16670,5 +16670,101 @@
       "https://www.azcentral.com/story/sports/high-school/2018/04/05/shane-burcar-leaving-mesa-become-assistant-basketball-coach-nau/491675002/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Northern Kentucky",
+    "Conference": "Horz",
+    "Coach Name": "Darrin Horn",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1997"
+      },
+      {
+        "Organization": "Morehead State",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2008"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Northern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2008"
+      },
+      {
+        "Organization": "South Carolina",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Northern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "305-201",
+        "WinPct": 0.603,
+        "Note": "college career (WKU/SC/UNK)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2005-08",
+        "Tournament": "Sun Belt",
+        "Result": "2x Sun Belt Reg Season (2006, 2008) + Tournament (2008) (as WKU HC)",
+        "School": "Western Kentucky"
+      },
+      {
+        "Season": "2019-23",
+        "Tournament": "Horizon League",
+        "Result": "2x Horizon League Tournament (2020, 2023) (as UNK HC)",
+        "School": "Northern Kentucky"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Darrin_Horn",
+      "http://espn.go.com/mens-college-basketball/tournament/history/_/team1/7903",
+      "http://www.allcoachnetwork.com/horn/bio.html",
+      "http://www.gamecocksonline.com/sports/m-baskbl/mtt/horn_darrin00.html",
+      "http://www.gamecocksonline.com/sports/m-baskbl/spec-rel/082609aab.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
