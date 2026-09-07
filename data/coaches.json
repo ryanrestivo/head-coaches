@@ -15520,5 +15520,83 @@
       "http://www.cascadeconference.org"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Kennesaw St.",
+    "Conference": "ASun",
+    "Coach Name": "Amir Abdur-Rahim",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Murray State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Charleston",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Kennesaw State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Kennesaw State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023",
+        "Record": "70-82",
+        "WinPct": 0.461,
+        "Note": "college HC career"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2024"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "ASun",
+        "Result": "ASun Reg Season + Tournament Champion, Hugh Durham (2023), CoY (2023) (as Kennesaw HC); AAC Reg Season + 2x CoY (2024, 2025) (as USF HC)",
+        "School": "Kennesaw / USF"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Amir_Abdur-Rahim",
+      "http://12thman.com/coaches.aspx?path=mbball&amp;rc=428",
+      "http://georgiadogs.com/staff.aspx?staff=2545",
+      "http://goracers.com/coaches.aspx?rc=319",
+      "https://cofcsports.com/coaches.aspx?rc=267"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
