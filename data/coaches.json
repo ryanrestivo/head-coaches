@@ -9602,5 +9602,89 @@
       "http://www.cstv.com/sports/m-baskbl/stories/071006aai.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Colorado St.",
+    "Conference": "MWC",
+    "Coach Name": "Niko Medved",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Furman",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Colorado State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2025"
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Furman",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Colorado State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2025",
+        "Record": "237-191",
+        "WinPct": 0.554,
+        "Note": "college HC career"
+      },
+      {
+        "Organization": "Minnesota",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "SoCon",
+        "Result": "SoCon Reg Season Champ + CoY (2017) (as Furman HC)",
+        "School": "Furman"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "MWC",
+        "Result": "MWC Tournament Champ (2025) + Skip Prosser Award (2024) (as CSU HC)",
+        "School": "Colorado State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Niko_Medved",
+      "http://godrakebulldogs.com/news/2017/3/26/niko-medved-named-drake-university-head-mens-basketball-coach.aspx",
+      "http://www.furmanpaladins.com/sports/m-baskbl/2012-13/releases/20130412dhl7bc",
+      "http://www.furmanpaladins.com/sports/m-baskbl/2016-17/releases/20170126eamulr",
+      "http://www.twincities.com/sports/ci_23079049/shooter-now-ex-gophers-assistant-niko-medved-savors"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
