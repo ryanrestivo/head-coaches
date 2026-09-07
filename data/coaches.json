@@ -16920,5 +16920,106 @@
       "https://web.archive.org/web/20190411213301/https://issuu.com/armyathletics/docs/2013_14_armymbbmediaguide"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "SIU Edwardsville",
+    "Conference": "OVC",
+    "Coach Name": "Brian Barone",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Central Florida CC",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Garden City CC",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "CBO / VC",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "DBO",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Green Bay",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2014"
+      },
+      {
+        "Organization": "Green Bay",
+        "Role": "Associate HC",
+        "Start": "2014",
+        "End": "2015"
+      },
+      {
+        "Organization": "Butler CC",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "SIU Edwardsville",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "SIU Edwardsville",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Butler CC",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "SIU Edwardsville",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "105-116",
+        "WinPct": 0.475
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2024-25",
+        "Tournament": "OVC",
+        "Result": "OVC Tournament Winner (2025) (as SIUE HC)",
+        "School": "SIU Edwardsville"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Barone_(basketball)",
+      "https://advantagenews.com/sports/college-basketball-brian-barone-named-siue-interim-head-coac/",
+      "https://hoopdirt.com/siue-extends-barone-through-2023-24-season/",
+      "https://iuhoosiers.com/sports/mens-basketball/roster/coaches/brian-barone/1590",
+      "https://web.archive.org/web/20190411214624/https://www.siuecougars.com/sports/m-baskbl/2018-19/releases/20190312o7ljb4"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
