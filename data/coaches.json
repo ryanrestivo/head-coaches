@@ -14368,5 +14368,34 @@
       "https://buffalonews.com/2019/04/06/ub-announces-jim-whitesell-as-new-basketball-coach/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Cal Poly",
+    "Conference": "BSky",
+    "Coach Name": "John Smith",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Cal Poly",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Cal Poly",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/John_Smith_(basketball,_born_1968)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'John Smith (basketball, born 1968)' is a stub; no clean coaching-career table. Hired at Cal Poly 2019; prior stints and record not extracted - flagged for Ryan to verify."
   }
 ]
