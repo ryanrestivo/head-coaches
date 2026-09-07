@@ -9225,5 +9225,97 @@
       "http://www.news12.com/story/34819538/fordham-fires-basketball-coach-in-7th-season"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Cal Baptist",
+    "Conference": "WCC",
+    "Coach Name": "Rick Croy",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "UC Riverside",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Concordia Irvine",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "UC Riverside",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Citrus College",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010"
+      },
+      {
+        "Organization": "St. Mary's",
+        "Role": "Associate HC",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "California Baptist",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2026"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Associate HC",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Citrus College",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010",
+        "Record": "130-35",
+        "WinPct": 0.788,
+        "Note": "junior college career"
+      },
+      {
+        "Organization": "California Baptist",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2026",
+        "Record": "275-137",
+        "WinPct": 0.667
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "San Francisco State",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "WCC",
+        "Result": "NCAA D2 + CBI appearances (as Cal Baptist HC)",
+        "School": "Cal Baptist"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rick_Croy",
+      "http://www.smcgaels.com/sports/m-baskbl/spec-rel/080610aaa.html",
+      "https://arizonasports.com/ncaa/arizona-state-basketball/rick-croy-randy-bennett/3616167/",
+      "https://calbaptist.edu/news/cbu_to_move_to_western_athletic_conference",
+      "https://calbaptist.edu/news/rick-croy-named-cbu-mens-basketball-head-coach"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
