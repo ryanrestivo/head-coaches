@@ -12554,5 +12554,76 @@
       "http://www.britball.com/profiles/shaheen_holloway.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "San Diego",
+    "Conference": "WCC",
+    "Coach Name": "Sam Scholl",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "San Diego",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2007"
+      },
+      {
+        "Organization": "Santa Clara",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2015"
+      },
+      {
+        "Organization": "San Diego",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2018"
+      },
+      {
+        "Organization": "San Diego",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "San Diego State",
+        "Role": "Advisor",
+        "Start": "2022",
+        "End": "2023"
+      },
+      {
+        "Organization": "Montana State",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "San Diego",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "50-66",
+        "WinPct": 0.431
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "CIT",
+        "Result": "CIT 2-1; NIT 0-1 (as San Diego HC)",
+        "School": "San Diego"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Sam_Scholl",
+      "http://www.sandiegouniontribune.com/sports/sd-sp-usd-basketball-coach-lamont-smith-resigns-20180307-story.html",
+      "http://www.sandiegouniontribune.com/sports/sd-sp-usd-toreros-basketball-coach-sam-scholl-20180402-story.html",
+      "http://www.santaclarabroncos.com/sports/m-baskbl/coaches/scholl_sam00.html?view=bio",
+      "http://www.usdtoreros.com/sports/m-baskbl/mtt/sam_scholl_964591.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
