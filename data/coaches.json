@@ -14426,5 +14426,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Mark Fox' is a disambig/stub; no clean article for the California basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Cincinnati",
+    "Conference": "A10",
+    "Coach Name": "John Brannen",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/John_Brannen_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'John Brannen (basketball)' is a stub; coaching-career table did not render. Prior roles (Cincinnati 2019-) and record not extracted - flagged for Ryan to verify."
   }
 ]
