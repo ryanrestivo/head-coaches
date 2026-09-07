@@ -9686,5 +9686,101 @@
       "http://www.twincities.com/sports/ci_23079049/shooter-now-ex-gophers-assistant-niko-medved-savors"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Connecticut",
+    "Conference": "BigE",
+    "Coach Name": "Dan Hurley",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "St. Anthony HS",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "St. Benedict's Prep",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2010"
+      },
+      {
+        "Organization": "Wagner",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Rhode Island",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Connecticut",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wagner",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Rhode Island",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Connecticut",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "350-180",
+        "WinPct": 0.66,
+        "Note": "college HC career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-24",
+        "Tournament": "NCAA",
+        "Result": "2x NCAA National Champion (2023, 2024) + 3x Final Four (2023/2024/2026) (as UConn HC)",
+        "School": "Connecticut"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "Big East",
+        "Result": "Big East Tournament + Reg Season Champ (2024) + Naismith/Sp.News National CoY (2024) + Big East CoY (2024) (as UConn HC)",
+        "School": "Connecticut"
+      },
+      {
+        "Season": "2016-18",
+        "Tournament": "A-10",
+        "Result": "A-10 Tournament (2017) + Reg Season (2018) + A-10 CoY (2018) (as Rhode Island HC)",
+        "School": "Rhode Island"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dan_Hurley",
+      "http://www.espn.com/mens-college-basketball/story/_/id/22862828/dan-hurley-leaves-rhode-island-become-uconn-men-basketball-coach",
+      "https://ecelebritymirror.com/entertainment/dan-hurley-wife-andrea-hurley/",
+      "https://nypost.com/2018/11/05/dan-hurley-talks-like-the-perfect-coach-for-difficult-uconn-job/",
+      "https://nypost.com/2021/03/01/andrea-hurley-gives-look-into-world-of-ncaa-basketball-wags/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
