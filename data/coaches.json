@@ -11080,5 +11080,113 @@
       "http://www.hscathletics.com/sports/mbkb/2017-18/releases/20180316k79tgw"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Louisville",
+    "Conference": "A10",
+    "Coach Name": "Chris Mack",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Xavier",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2004"
+      },
+      {
+        "Organization": "Wake Forest",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2004"
+      },
+      {
+        "Organization": "Xavier",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2009"
+      },
+      {
+        "Organization": "Xavier (Head)",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2018"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "College of Charleston",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Xavier",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2018"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "College of Charleston",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null,
+        "Record": "323-153",
+        "WinPct": 0.679,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2009-11",
+        "Tournament": "A-10",
+        "Result": "2x A-10 Reg Season + 2x A-10 CoY (2010/2011) + Skip Prosser (2011) + Henry Iba (2016) (as Xavier HC)",
+        "School": "Xavier"
+      },
+      {
+        "Season": "2017-18",
+        "Tournament": "Big East",
+        "Result": "Big East Coach of the Year (2018) (as Xavier HC)",
+        "School": "Xavier"
+      },
+      {
+        "Season": "2018-22",
+        "Tournament": "A-10",
+        "Result": "A-10 Regular Season (2022) (as Louisville HC)",
+        "School": "Louisville"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Chris_Mack_(basketball)",
+      "http://grfx.cstv.com/photos/schools/wake/sports/m-baskbl/auto_pdf/03-04-media-guide-pgs81-96.pdf",
+      "http://www.daytondailynews.com/dayton-sports/university-of-dayton-flyers/christi-mack-knows-both-sides-of-ud-xavier-rivalry-92101.html",
+      "http://www.goxavier.com/sports/m-baskbl/mtt/mack_chris00.html",
+      "http://www.goxavier.com/sports/m-baskbl/spec-rel/041409aaa.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
