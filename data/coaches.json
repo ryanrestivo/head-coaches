@@ -9965,5 +9965,119 @@
       "https://gocreighton.com/mobile/staff.aspx?staff=53"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "East Carolina",
+    "Conference": "ACC",
+    "Coach Name": "Joe Dooley",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "South Carolina",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1991"
+      },
+      {
+        "Organization": "East Carolina",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1995"
+      },
+      {
+        "Organization": "East Carolina",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1999"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2013"
+      },
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "East Carolina (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "Kansas",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "East Carolina",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1999"
+      },
+      {
+        "Organization": "Florida Gulf Coast",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "East Carolina",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "215-177",
+        "WinPct": 0.548,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "George Washington",
+        "Undergraduate Year": 1988,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-18",
+        "Tournament": "A-Sun",
+        "Result": "3x A-Sun Reg Season + 2x A-Sun Tournament (2014/2017/2018 season, 2016/2017 tourney) + 2x A-Sun CoY (2017, 2018) (as FGCU HC)",
+        "School": "Florida Gulf Coast"
+      },
+      {
+        "Season": "2007-08",
+        "Tournament": "NCAA",
+        "Result": "2008 NCAA National Championship (as Kansas assistant)",
+        "School": "Kansas"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Joe_Dooley_(basketball)",
+      "http://ecupirates.com/news/2018/4/4/joe-dooley-named-ecu-head-mens-basketball-coach.aspx",
+      "http://fgcuathletics.com/staff.aspx?staff=299",
+      "http://kuathletics.com/coaches.aspx?rc=367&amp;path=mbball",
+      "http://www.kuathletics.com/coaches.aspx?rc=367&amp;path=Joe"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
