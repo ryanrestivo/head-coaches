@@ -13630,5 +13630,109 @@
       "http://www.gobison.com:80/mens/basketball/coaches/index.cgi?id=4"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Western Carolina",
+    "Conference": "Slnd",
+    "Coach Name": "Mark Prosser",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Marist",
+        "Role": "Student Assistant",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Bucknell",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2008"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Brevard",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Winthrop",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2018"
+      },
+      {
+        "Organization": "Western Carolina",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Winthrop",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Brevard",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Western Carolina",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "143-139",
+        "WinPct": 0.507,
+        "Note": "college career (Brevard + WCU + Winthrop)"
+      },
+      {
+        "Organization": "Winthrop",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Marist",
+        "Undergraduate Year": 2002,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "Big South",
+        "Result": "Skip Prosser Award (2020) (as WCU HC)",
+        "School": "Western Carolina"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "Big South",
+        "Result": "Big South South Division (2022) + Big South CoY (2026) (as Winthrop HC)",
+        "School": "Winthrop"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Prosser_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
