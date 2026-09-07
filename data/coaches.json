@@ -10804,5 +10804,80 @@
       "http://sportsday.dallasnews.com/college-sports/collegesports/2016/03/13/10-things-know-texas-tech-coach-tubby-smith-including-got-name-humiliating-wipeout"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Incarnate Word",
+    "Conference": "Slnd",
+    "Coach Name": "Carson Cunningham",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Andrean HS",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Carroll",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Incarnate Word",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Army",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2024"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Andrean HS",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Carroll",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Incarnate Word",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Army",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2024"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Carson_Cunningham",
+      "http://406mtsports.com/college/frontier-conference/carroll-college/carroll-college-coach-pens-book-to-honor-athletes-who-died/article_e7cb0260-9a94-56bd-a025-adb3f265685f.html",
+      "http://carrollathletics.com/coaches.aspx?rc=35",
+      "http://frontierconference.com/news/2018/3/6/basketball-carroll-men-capture-second-straight-frontier-conference-tournament-crown.aspx?path=mbball",
+      "http://www.diversionbooks.com/authors/carson-cunningham/"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia article lists his coaching stints but the combined HC record/years not cleanly extracted. Incarnate Word 2018-23 tenure is well-documented."
   }
 ]
