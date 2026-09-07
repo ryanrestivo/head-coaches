@@ -18658,5 +18658,79 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Vanderbilt HC 2019-24 (per infobox). Prior NBA/NBDL roles listed."
+  },
+  {
+    "School": "Virginia Tech",
+    "Conference": "ACC",
+    "Coach Name": "Mike Young",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Emory & Henry",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1988"
+      },
+      {
+        "Organization": "Radford",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1989"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "1989",
+        "End": "2002"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2019"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wofford",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2019"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "422-342",
+        "WinPct": 0.552,
+        "Note": "college career (Wofford + Virginia Tech)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2009-19",
+        "Tournament": "SoCon",
+        "Result": "4x SoCon Reg Season + 5x SoCon Tournament + Hugh Durham (2010) + Sporting News National CoY (2019) + 4x SoCon CoY (as Wofford HC)",
+        "School": "Wofford"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "ACC",
+        "Result": "ACC Coach of the Year (2021) + ACC Tournament (2022) (as Virginia Tech HC)",
+        "School": "Virginia Tech"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Young_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
