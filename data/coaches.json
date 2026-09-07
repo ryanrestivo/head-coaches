@@ -10162,5 +10162,34 @@
       "http://hargravesports.com/schedule.aspx?schedule=243&amp;path=pgbball"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Evansville",
+    "Conference": "Horz",
+    "Coach Name": "Walter McCarty",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Evansville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Evansville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Walter_McCarty_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia page is a player/football-focused disambig; no college coaching-career table rendered. Prior stints (Evansville 2018-, NBA asst) and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
