@@ -9782,5 +9782,87 @@
       "https://nypost.com/2021/03/01/andrea-hurley-gives-look-into-world-of-ncaa-basketball-wags/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Delaware St.",
+    "Conference": "MEAC",
+    "Coach Name": "Eric Skeeters",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "St. Frances Academy",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1996"
+      },
+      {
+        "Organization": "Coppin State",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Youngstown State",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2003"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Towson",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2009"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2013"
+      },
+      {
+        "Organization": "George Mason",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "UMBC",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Delaware State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Delaware State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "15-67",
+        "WinPct": 0.183
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Eric_Skeeters",
+      "http://umbcretrievers.com/sports/mbkb/coaches/Eric_Skeeters?view=bio",
+      "http://www.dsuhornets.com/ViewArticle.dbml?DB_LANG=C&amp;ATCLID=211736075&amp;DB_OEM_ID=12900&amp;_ga=2.243618757.1790194753.1532556094-496910749.1522958014",
+      "https://andscape.com/features/umbc-assistant-eric-skeeters-is-thread-to-two-of-the-biggest-upsets-in-ncaa-history/",
+      "https://apnews.com/ee4f122271374fa7b5e42bf893e80dc4"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
