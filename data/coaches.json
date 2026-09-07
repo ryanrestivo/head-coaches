@@ -13734,5 +13734,97 @@
       "https://en.wikipedia.org/wiki/Mark_Prosser_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Xavier",
+    "Conference": "A10",
+    "Coach Name": "Travis Steele",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Butler (studentasst)",
+        "Role": "Student Assistant",
+        "Start": "1998",
+        "End": "2001"
+      },
+      {
+        "Organization": "Ben Davis HS",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2004"
+      },
+      {
+        "Organization": "Ohio State",
+        "Role": "Graduate Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Wabash Valley",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "Xavier",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2015"
+      },
+      {
+        "Organization": "Xavier",
+        "Role": "Associate HC",
+        "Start": "2015",
+        "End": "2018"
+      },
+      {
+        "Organization": "Xavier",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Xavier",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "155-98",
+        "WinPct": 0.613,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2025-26",
+        "Tournament": "MAC",
+        "Result": "MAC Regular Season + CoY (2026) (as Miami OH HC)",
+        "School": "Miami (OH)"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Travis_Steele_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
