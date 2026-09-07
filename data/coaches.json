@@ -10450,5 +10450,101 @@
       "https://www.naplesnews.com/story/sports/college/fgcu/2018/04/05/fgcu-name-longtime-assistant-michael-fly-new-mens-basketball-head-coach/488617002/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Fresno St.",
+    "Conference": "MWC",
+    "Coach Name": "Justin Hutson",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Cal State Bakersfield",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2000"
+      },
+      {
+        "Organization": "Bakersfield HS",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Cal Poly",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "San Diego State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "San Diego State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Fresno State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "San Diego",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2024"
+      },
+      {
+        "Organization": "San Diego State (women's)",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Bakersfield HS",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Fresno State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "92-94",
+        "WinPct": 0.495,
+        "Note": "college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "TBC",
+        "Result": "TBC Champion (2022) (as Fresno HC)",
+        "School": "Fresno State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Justin_Hutson",
+      "http://grfx.cstv.com/photos/schools/unlv/sports/m-baskbl/auto_pdf/2012-13/misc_non_event/JustinHutson1213.pdf",
+      "http://www.gobulldogs.com/coaches.aspx?rc=883&amp;path=mbball",
+      "http://www.gobulldogs.com/news/2018/4/5/justin-hutson-named-fresno-state-head-mens-basketball-coach.aspx",
+      "http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-sdsu-basketball-justin-hutson-fresno-state-20180405-story.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
