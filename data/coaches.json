@@ -17926,5 +17926,137 @@
       "http://www.bigbluehistory.net/bb/Statistics/Players/Pelphrey_John.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Texas A&M",
+    "Conference": "SEC",
+    "Coach Name": "Buzz Williams",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Texas-Arlington",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1998"
+      },
+      {
+        "Organization": "Texas A&M-Kingsville",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Northwestern State",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Colorado State",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2004"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "New Orleans",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2014"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2019"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "New Orleans",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2014"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2019"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025",
+        "Record": "385-249",
+        "WinPct": 0.607,
+        "Note": "college career"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "Big East",
+        "Result": "Big East Regular Season Champion (2013, as Marquette HC)",
+        "School": "Marquette"
+      },
+      {
+        "Season": "2019-25",
+        "Tournament": "SEC",
+        "Result": "2x SEC Coach of the Year (2020, 2023) (as Texas A&M HC)",
+        "School": "Texas A&M"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Buzz_Williams",
+      "http://amarillo.com/stories/2000/06/11/wed_norman.shtml",
+      "http://chicago.suntimes.com/basketball/7/71/148052/new-set-of-challenges-for-marquettes-steve-wojciechowski",
+      "http://virginiatech.sportswar.com/article/2017/01/30/tech-talk-live-notes-buzz-williams-parity-acc/",
+      "http://www.espn.com/mens-college-basketball/story/_/id/26429544/virginia-tech-williams-taking-texas-job"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
