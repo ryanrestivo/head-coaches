@@ -12200,5 +12200,98 @@
       "http://www.roarlions.com/news/2018/4/2/tony-pujol-named-una-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Pepperdine",
+    "Conference": "WCC",
+    "Coach Name": "Lorenzo Romar",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1994"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach (2nd stint)",
+        "Start": "2002",
+        "End": "2017"
+      },
+      {
+        "Organization": "Arizona",
+        "Role": "Associate HC",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Pepperdine",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "1994"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2017"
+      },
+      {
+        "Organization": "Pepperdine",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Washington",
+        "Undergraduate Year": 1980,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2004-10",
+        "Tournament": "Pac-10/12",
+        "Result": "CBI champion (2021); C-USA Tournament (2000), 2x Pac-10/12 Reg Season (2009, 2012) + 3x Pac-10 Tournament (2005, 2010, ...) (as Washington HC)",
+        "School": "Washington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Lorenzo_Romar",
+      "http://arizonawildcats.com/coaches.aspx?rc=713&amp;path=mbball",
+      "http://tucson.com/sports/arizonawildcats/basketball/seen-and-heard-at-hec-ed-pavilion-lorenzo-romar-s/collection_82a3706e-0971-11e8-b0bc-5f82b8bae037.html",
+      "http://tucson.com/three-ways-lorenzo-romar-could-help-sean-miller-arizona-wildcats/article_8e40d68c-1c9b-11e7-8375-eb3a5870beec.html",
+      "http://www.coachesdatabase.com/lorenzo-romar-hired-arizona-associate-head-coach/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
