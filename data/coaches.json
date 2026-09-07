@@ -17442,5 +17442,107 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Bryan Mullins (basketball)' stub; no coaching-career table. Hired at Southern Illinois 2019; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Southern Miss",
+    "Conference": "Slnd",
+    "Coach Name": "Jay Ladner",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "St. Stanislaus HS (MS)",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "2011"
+      },
+      {
+        "Organization": "Oak Grove HS (MS)",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Jones County JC",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2019"
+      },
+      {
+        "Organization": "Southern Miss",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "St. Stanislaus HS (MS)",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "2011",
+        "Record": "511-189",
+        "WinPct": 0.73,
+        "Note": "high school"
+      },
+      {
+        "Organization": "Jones County JC",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2014",
+        "Record": "45-13",
+        "WinPct": 0.776,
+        "Note": "junior college"
+      },
+      {
+        "Organization": "Southeastern Louisiana",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2019"
+      },
+      {
+        "Organization": "Southern Miss",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "170-215",
+        "WinPct": 0.442,
+        "Note": "college career (SELA + Southern Miss)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Southern Miss",
+        "Undergraduate Year": 1987,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "Southland",
+        "Result": "Southland Regular Season Champion (2018) (as Southeastern Louisiana HC)",
+        "School": "Southeastern Louisiana"
+      },
+      {
+        "Season": "2022-23",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Reg Season + CoY (2023) (as Southern Miss HC)",
+        "School": "Southern Miss"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jay_Ladner_(basketball)",
+      "https://lionsports.net/coaches.aspx?path=mbball&amp;rc=446",
+      "https://lionsports.net/coaches.aspx?rc=737&amp;path=mbball",
+      "https://southernmiss.com/coaches.aspx?rc=456",
+      "https://southernmiss.com/news/2019/4/18/jay-ladner-named-southern-miss-head-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
