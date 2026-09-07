@@ -10079,5 +10079,88 @@
       "http://www.kuathletics.com/coaches.aspx?rc=367&amp;path=Joe"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Eastern Kentucky",
+    "Conference": "OVC",
+    "Coach Name": "A.W. Hamilton",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Marshall",
+        "Role": "Graduate Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2011"
+      },
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Eastern Kentucky",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "370-145",
+        "WinPct": 0.718
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Wake Forest / Marshall",
+        "Undergraduate Year": 2005,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "OVC",
+        "Result": "OVC Coach of the Year (2020) + NABC District 18 CoY (2020) (as EKU HC)",
+        "School": "Eastern Kentucky"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "Atlantic Sun",
+        "Result": "Atlantic Sun Regular Season (2024) + CoY (2024) + NABC District 3 CoY (2024)",
+        "School": "Eastern Kentucky"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/A._W._Hamilton",
+      "http://grfx.cstv.com/photos/schools/mars/sports/m-baskbl/auto_pdf/2017-18/misc_non_event/Fact_Book.pdf",
+      "http://hargravesports.com/schedule.aspx?schedule=209&amp;path=pgbball",
+      "http://hargravesports.com/schedule.aspx?schedule=223&amp;path=pgbball",
+      "http://hargravesports.com/schedule.aspx?schedule=243&amp;path=pgbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
