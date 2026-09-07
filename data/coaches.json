@@ -14060,5 +14060,92 @@
       "http://emuss.blogspot.com/2008/07/finding-right-schemes-for-your-team.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "BYU",
+    "Conference": "WCC",
+    "Coach Name": "Mark Pope",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Memphis",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1993"
+      },
+      {
+        "Organization": "Wake Forest",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2011"
+      },
+      {
+        "Organization": "BYU",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2015"
+      },
+      {
+        "Organization": "Utah Valley",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "BYU",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Utah Valley",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "BYU",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2024"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Memphis",
+        "Undergraduate Year": 1991,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1993-94",
+        "Tournament": "NCAA",
+        "Result": "1994 NCAA Final 4 (as Memphis assistant, Hurley's team)",
+        "School": "Memphis"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Pope",
+      "http://blogs.ajc.com/uga-sports-blog/2010/04/17/ugas-pope-headed-to-wake-forest-as-assistant-coach-and-other-notes/?cxntfid=blogs_uga_sports_blog",
+      "http://www.deseretnews.com/article/700136488/BYU-basketball-Dave-Rose-hires-Mark-Pope-to-replace-Dave-Rice.html",
+      "https://byucougars.com/staff/m-basketball/80934/Mark-Pope",
+      "https://kslsports.com/477336/tiktok-mark-pope-byu-basketball-pushin-p-gunna/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
