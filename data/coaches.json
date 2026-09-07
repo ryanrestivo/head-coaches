@@ -11246,5 +11246,34 @@
       "http://www.ramblinwreck.com/sports/m-baskbl/mtt/tavaras_hardy_1014411.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Maine",
+    "Conference": "A10",
+    "Coach Name": "Richard Barron",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Maine",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Maine",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Richard_Barron"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Richard Barron' is a disambig page (books/translations/academic); no clean article for the Maine basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
   }
 ]
