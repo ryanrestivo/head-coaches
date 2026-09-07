@@ -9129,5 +9129,101 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Thin Wikipedia article; no coaching-career table rendered. Hired at Alabama A&M 2018; prior roles and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Bryant",
+    "Conference": "NEC",
+    "Coach Name": "Jared Grasso",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Hofstra",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Hartford",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Quinnipiac",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Fordham",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Fordham",
+        "Role": "Interim Head Coach",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Iona",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Iona",
+        "Role": "Associate HC",
+        "Start": "2011",
+        "End": "2018"
+      },
+      {
+        "Organization": "Bryant",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Knox School (NY)",
+        "Role": "Head Coach / Athletic Director",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Fordham",
+        "Role": "Interim Head Coach",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Bryant",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023",
+        "Record": "79-67",
+        "WinPct": 0.541,
+        "Note": "college HC career (Bryant tenure)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "NEC",
+        "Result": "NEC Regular Season + Tournament Champ (2022) + NEY CoY (2022) (as Bryant HC)",
+        "School": "Bryant"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jared_Grasso",
+      "http://fordhamsports.com/news/2006/9/5/090506aaa_806.aspx?path=tickets",
+      "http://www.bryantbulldogs.com/sports/mbkb/2017-18/releases/20180402dtqron",
+      "http://www.fordhamsports.com/coaches.aspx?rc=311",
+      "http://www.news12.com/story/34819538/fordham-fires-basketball-coach-in-7th-season"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
