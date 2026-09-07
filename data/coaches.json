@@ -8915,5 +8915,82 @@
       "https://247sports.com/college/penn-state/Article/Penn-State-hires-Mike-Rhoades-as-new-basketball-coach-207522417/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Washington",
+    "Conference": "Pac12",
+    "Coach Name": "Mike Hopkins",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Syracuse",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "2015"
+      },
+      {
+        "Organization": "Syracuse",
+        "Role": "Interim Head Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Syracuse",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      },
+      {
+        "Organization": "Phoenix Suns (NBA)",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "New Orleans Pelicans (NBA)",
+        "Role": "Assistant / Player Dev",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Syracuse",
+        "Role": "Interim Head Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Washington",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2024"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Syracuse",
+        "Undergraduate Year": 1993,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "NCAA",
+        "Result": "National Runner-Up (as Syracuse asst, Jim Boeheim's team)",
+        "School": "Syracuse"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Hopkins_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
