@@ -8466,5 +8466,86 @@
       "http://www.goseattleu.com/ViewArticle.dbml?DB_OEM_ID=18200&amp;ATCLID=211537574"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "South Florida",
+    "Conference": "AAC",
+    "Coach Name": "Brian Gregory",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Michigan State",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Dayton",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2013"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Michigan State (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Michigan State",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Dayton",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2013"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Michigan State (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Gregory_(basketball)",
+      "http://blogs.ajc.com/georgia-tech-sports/2011/03/28/gregory-takes-tech-job/?cxntfid=blogs_georgia_tech_sports",
+      "http://www.daytondailynews.com/dayton-sports/university-of-dayton-flyers/uds-gregory-bids-farewell-in-emotional-team-meeting-1119831.html",
+      "http://www.daytonflyers.com/mens/basketball/news/index.html?article_id=3546",
+      "http://www.msuspartans.com/sports/m-baskbl/mtt/brian_gregory_15555.html"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia TOC confirms stints (MSU, Dayton, GT, MSU, USF) but the coaching career table didn't parse. Records per-stint not extracted \u2014 flagged for Ryan to verify."
   }
 ]
