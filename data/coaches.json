@@ -12964,5 +12964,81 @@
       "https://en.wikipedia.org/wiki/Sean_Woods_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Tennessee St.",
+    "Conference": "OVC",
+    "Coach Name": "Brian Collins",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Tennessee State",
+        "Role": "GA / Director of Basketball Ops",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Cumberland (NAIA)",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2010"
+      },
+      {
+        "Organization": "Columbia State (NJCAA)",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Columbia State (NJCAA)",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "NCJAA",
+        "Result": "2x NCJAA national tournament appearances (as Columbia State HC)",
+        "School": "Columbia State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Collins_(basketball)",
+      "http://goredbirds.com/news/2017/8/6/collins-named-assistant-mens-basketball-coach.aspx?path=mbball",
+      "http://njcaa.org/sports/mbkb/2012-13/div1/teams/columbiastatecommunitycollege?sort=ptspg&amp;tmpl=teaminfo-network-monospace-template",
+      "http://njcaa.org/sports/mbkb/2013-14/div1/teams/columbiastatecommunitycollege?sort=ptspg&amp;tmpl=teaminfo-network-monospace-template",
+      "http://njcaa.org/sports/mbkb/2014-15/div1/teams/columbiastatecommunitycollege?sort=ptspg&amp;tmpl=teaminfo-network-monospace-template"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia confirms Tennessee State head coach 2018- (7-year program turnaround) but combined NCAA DI record and prior NJCAA years not cleanly extracted."
   }
 ]
