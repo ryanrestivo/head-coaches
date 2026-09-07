@@ -7976,5 +7976,89 @@
       "https://web.archive.org/web/20170416044909/http://sodaho_ftp.sidearmsports.com/custompages/Men's%20Basketball/mediaguides/20142015mbbmediaguide.pdf"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Presbyterian",
+    "Conference": "Slnd",
+    "Coach Name": "Dustin Kerns",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Tennessee Tech",
+        "Role": "DBO",
+        "Start": "2002",
+        "End": "2003"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Graduate Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Santa Clara",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assoc HC",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Appalachian State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Appalachian State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "164-128",
+        "WinPct": 0.562,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Tournament (2021) + Reg Season (2024) + CoY (2024) (as App St HC)",
+        "School": "Appalachian State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dustin_Kerns",
+      "http://athletics.wofford.edu/coaches.aspx?path=mbball&amp;rc=367",
+      "http://www.gobluehose.com/ViewArticle.dbml?ATCLID=211604691&amp;DB_OEM_ID=18100",
+      "https://appstatesports.com/news/2019/3/28/app-state-hires-dustin-kerns-as-mens-basketball-head-coach.aspx",
+      "https://appstatesports.com/sports/mens-basketball/roster/coaches/dustin-kerns/1217"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
