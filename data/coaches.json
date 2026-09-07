@@ -15424,5 +15424,101 @@
       "https://govandals.com/staff-directory/zac-claus/63"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Idaho St.",
+    "Conference": "RWC",
+    "Coach Name": "Ryan Looney",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "UW-LaCrosse",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "North Idaho",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "MSU-Moorhead",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2004"
+      },
+      {
+        "Organization": "Eastern Oregon",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2009"
+      },
+      {
+        "Organization": "Seattle Pacific",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "Point Loma",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Idaho State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Eastern Oregon",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2009"
+      },
+      {
+        "Organization": "Seattle Pacific",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2016"
+      },
+      {
+        "Organization": "Point Loma",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Idaho State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "411-264",
+        "WinPct": 0.609,
+        "Note": "NCAA DII career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2013-14",
+        "Tournament": "GNAC",
+        "Result": "GNAC Reg Season + Tournament Champion + CoY (2014) (as Seattle Pacific HC)",
+        "School": "Seattle Pacific"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ryan_Looney",
+      "http://blog.oregonlive.com/cascadeconference/2009/05/eastern_oregons_ryan_looney_na.html",
+      "http://seattletimes.com/html/collegesports/2009266235_webspu27.html",
+      "http://usatoday30.usatoday.com/sports/college/mensbasketball/2011-11-02-3075312822_x.htm",
+      "http://www.cascadeconference.org"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
