@@ -11485,5 +11485,143 @@
       "http://www.news-journalonline.com/news/20110629/daytona-chief-fired-b-cu-coach-refused-to-aid-in-rape-case-involving-son"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "McNeese St.",
+    "Conference": "Slnd",
+    "Coach Name": "Heath Schroyer",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Fresno CC",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "BYU",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2002"
+      },
+      {
+        "Organization": "Portland State",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Fresno State",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "UNLV",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2014"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Assistant HC",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "BYU",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "McNeese",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "McNeese",
+        "Role": "Athletic Director",
+        "Start": "2021",
+        "End": "2025"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Sr. Deputy AD",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Portland State",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "McNeese",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "149-182",
+        "WinPct": 0.451,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-02",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Regular Season Champion (2002) (as Portland State HC)",
+        "School": "Portland State"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "OVC",
+        "Result": "OVC West Division Champion (2016) (as UT Martin HC)",
+        "School": "UT Martin"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Heath_Schroyer",
+      "http://byucougars.com/staff/m-basketball/heath-schroyer",
+      "http://mcneesesports.com/news/2018/3/15/mens-basketball-heath-schroyer-name-new-cowboys-basketball-coach.aspx",
+      "http://www.unlvrebels.com/sports/m-baskbl/mtt/schroyer_heath00.html",
+      "https://web.archive.org/web/20050215000513/http://goviks.com/sports/mbball/coach/bio.asp?COACH_ID=82"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
