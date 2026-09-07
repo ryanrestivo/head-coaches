@@ -8118,5 +8118,100 @@
       "https://www.espn.com/mens-college-basketball/story/_/id/15067309"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Rice",
+    "Conference": "AmC",
+    "Coach Name": "Scott Pera",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Elizabethtown College",
+        "Role": "Assistant",
+        "Start": "1992",
+        "End": "1993"
+      },
+      {
+        "Organization": "Palmyra HS (PA)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1995"
+      },
+      {
+        "Organization": "Annville-Cleona HS (PA)",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2000"
+      },
+      {
+        "Organization": "Artesia HS (CA)",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2006"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2012"
+      },
+      {
+        "Organization": "Penn",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Tulane (asst?)",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Palmyra HS (PA)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1995"
+      },
+      {
+        "Organization": "Annville-Cleona HS (PA)",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2000"
+      },
+      {
+        "Organization": "Artesia HS (CA)",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2006"
+      },
+      {
+        "Organization": "Rice",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Scott_Pera_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia infobox lists his career; Rice HC 2017-21 is from CSV + infobox context. College career record/tenure-end not clearly stated \u2014 flagged."
   }
 ]
