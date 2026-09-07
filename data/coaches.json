@@ -10546,5 +10546,107 @@
       "http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-sdsu-basketball-justin-hutson-fresno-state-20180405-story.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Georgia",
+    "Conference": "SEC",
+    "Coach Name": "Tom Crean",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Alma",
+        "Role": "Assistant",
+        "Start": "1987",
+        "End": "1989"
+      },
+      {
+        "Organization": "Michigan State",
+        "Role": "Graduate Assistant",
+        "Start": "1989",
+        "End": "1990"
+      },
+      {
+        "Organization": "Western Kentucky",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1994"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1995"
+      },
+      {
+        "Organization": "Michigan State",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "1999"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2008"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2017"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Marquette",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2008"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2017"
+      },
+      {
+        "Organization": "Georgia",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022",
+        "Record": "403-306",
+        "WinPct": 0.568,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2002-03",
+        "Tournament": "NCAA/C-USA",
+        "Result": "Final Four (2003) + 2x C-USA Reg Season + Clair Bee + 2x C-USA CoY (2002, 2003) (as Marquette HC)",
+        "School": "Marquette"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "Big Ten",
+        "Result": "2x Big Ten Reg Season (2013, 2016) + Big Ten CoY (2016) (as Indiana HC)",
+        "School": "Indiana"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tom_Crean_(basketball)",
+      "http://aol.sportingnews.com/ncaa-basketball/story/2012-03-05/tyler-zeller-north-carolina-draymond-green-michigan-state-jae-crowder-marquette-",
+      "http://btn.com/2012/03/02/big-ten-race-is-sprint-to-the-finish/",
+      "http://indiana.scout.com/2/752034.html",
+      "http://iuhoosiers.cstv.com/sports/m-baskbl/mtt/crean_tom00.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
