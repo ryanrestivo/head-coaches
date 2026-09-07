@@ -11703,5 +11703,161 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article is a stub; no coaching-career table. Hired at Middle Tennessee 2018; prior stints and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Mississippi",
+    "Conference": "SEC",
+    "Coach Name": "Kermit Davis",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Mississippi State",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1984"
+      },
+      {
+        "Organization": "Southwest Mississippi CC",
+        "Role": "Head Coach",
+        "Start": "1984",
+        "End": "1986"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Assistant",
+        "Start": "1986",
+        "End": "1988"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "Chipola JC",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1993"
+      },
+      {
+        "Organization": "Chipola JC",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1996"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "LSU",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2002"
+      },
+      {
+        "Organization": "Middle Tennessee",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2018"
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Southwest Mississippi CC",
+        "Role": "Head Coach",
+        "Start": "1984",
+        "End": "1986"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "Chipola JC",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1994"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Middle Tennessee",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2018"
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023",
+        "Record": "477-317",
+        "WinPct": 0.601,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "1988-90",
+        "Tournament": "Big Sky",
+        "Result": "2x Big Sky Reg Season + 2x Big Sky Tournament (as Idaho HC), Big Sky CoY (1989)",
+        "School": "Idaho"
+      },
+      {
+        "Season": "2011-13",
+        "Tournament": "Sun Belt",
+        "Result": "2x Sun Belt Reg Season + East Division (as MTSU HC) + C-USA CoY (2017) + 3x C-USA Reg Season (as MTSU HC)",
+        "School": "Middle Tennessee"
+      },
+      {
+        "Season": "2018-19",
+        "Tournament": "SEC",
+        "Result": "SEC Coach of the Year (2019) (as Ole Miss HC)",
+        "School": "Ole Miss"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kermit_Davis",
+      "http://collegebasketball.ap.org/article/middle-tennessee-st-upsets-no-2-seed-michigan-state-90-81",
+      "http://www.espn.com/mens-college-basketball/story/_/id/22774472/ole-miss-rebels-officially-name-kermit-davis-coach",
+      "http://www.goblueraiders.com/coaches.aspx?rc=130&amp;path=mbball",
+      "https://news.google.com/newspapers?id=2ZhfAAAAIBAJ&amp;sjid=bTEMAAAAIBAJ&amp;pg=2833%2C113447"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
