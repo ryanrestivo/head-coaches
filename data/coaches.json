@@ -18863,5 +18863,82 @@
       "https://gomason.com/coaches.aspx?rc=590&amp;path=mbball"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Wofford",
+    "Conference": "SoCon",
+    "Coach Name": "Jay McAuley",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Furman",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Wofford",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Lassiter HS (GA)",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wofford",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "58-41",
+        "WinPct": 0.586
+      },
+      {
+        "Organization": "Lassiter HS (GA)",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-22",
+        "Tournament": "SoCon",
+        "Result": "Skip Prosser Man of the Year (2022) (as Wofford HC)",
+        "School": "Wofford"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jay_McAuley_(basketball)",
+      "http://woffordterriers.com/news/2019/4/14/wofford-names-jay-mcauley-mens-basketball-head-coach.aspx",
+      "http://woffordterriers.com/staff.aspx?staff=278",
+      "http://www.espn.com/mens-college-basketball/story/_/id/26523852",
+      "http://www.furmanpaladins.com/sports/m-baskbl/mtt/MBKB_Assistant_2?view=bio"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
