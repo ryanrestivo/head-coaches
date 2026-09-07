@@ -13826,5 +13826,89 @@
       "https://en.wikipedia.org/wiki/Travis_Steele_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Alabama",
+    "Conference": "SEC",
+    "Coach Name": "Nate Oats",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Maranatha Baptist",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "2000"
+      },
+      {
+        "Organization": "Wisconsin-Whitewater",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2002"
+      },
+      {
+        "Organization": "Romulus HS (MI)",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2013"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "266-116",
+        "WinPct": 0.696,
+        "Note": "college career (Buffalo + Alabama)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-19",
+        "Tournament": "MAC",
+        "Result": "3x MAC Tournament + 2x MAC Reg Season + 2x MAC East Div (as Buffalo HC), 2x MAC CoY (2018, 2019)",
+        "School": "Buffalo"
+      },
+      {
+        "Season": "2020-24",
+        "Tournament": "SEC / NCAA",
+        "Result": "2x SEC Tournament + 2x SEC Reg Season (2021, 2023) + Final 4 (2024) + SEC CoY (2021) (as Alabama HC)",
+        "School": "Alabama"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Nate_Oats_(basketball)",
+      "http://ubbulls.com/sports/mbkb/2014-15/releases/20150409blnaj3",
+      "http://ubbulls.com/sports/mbkb/2015-16/releases/20160518me5frl",
+      "http://www.buffalonews.com/20130619/ub_hoops_hires_oats_as_assistant.html",
+      "http://www.detroitnews.com/story/sports/college/2015/04/16/ex-romulus-coach-oats-realizes-lifelong-dream-with-buffalo-job/25892763/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
