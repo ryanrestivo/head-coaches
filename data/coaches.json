@@ -17413,5 +17413,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Undergraduate college not clearly listed (student manager at Cincinnati/Kansas State 2005-08)."
+  },
+  {
+    "School": "Southern Illinois",
+    "Conference": "Slnd",
+    "Coach Name": "Bryan Mullins",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bryan_Mullins_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Bryan Mullins (basketball)' stub; no coaching-career table. Hired at Southern Illinois 2019; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
