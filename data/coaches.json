@@ -14249,5 +14249,124 @@
       "https://web.archive.org/web/20150906083428/http://www.lipscombsports.com/mbasketball/news/2012-13/8234/a-sun-veteran-alexander-tabbed-to-lead-mens-hoops-program/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Buffalo",
+    "Conference": "MAC",
+    "Coach Name": "Jim Whitesell",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "North Dakota",
+        "Role": "Assistant",
+        "Start": "1982",
+        "End": "1983"
+      },
+      {
+        "Organization": "Ellsworth CC",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1984"
+      },
+      {
+        "Organization": "Wabash Valley",
+        "Role": "Assistant",
+        "Start": "1984",
+        "End": "1985"
+      },
+      {
+        "Organization": "Mankato State",
+        "Role": "Assistant",
+        "Start": "1985",
+        "End": "1987"
+      },
+      {
+        "Organization": "Elmhurst",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1992"
+      },
+      {
+        "Organization": "Lewis",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "2004"
+      },
+      {
+        "Organization": "Loyola-Chicago",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Saint Louis",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "St. John's",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Associate HC",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "Albany",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Elmhurst",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1992"
+      },
+      {
+        "Organization": "Lewis",
+        "Role": "Head Coach",
+        "Start": "1992",
+        "End": "2004"
+      },
+      {
+        "Organization": "Loyola-Chicago",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2011"
+      },
+      {
+        "Organization": "Buffalo",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023",
+        "Record": "445-357",
+        "WinPct": 0.555,
+        "Note": "D1 college career (Elmhurst/Lewis/Loyola-Chi/Buffalo)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jim_Whitesell_(basketball)",
+      "http://wcfcourier.com/iowa-falls-family-finds-ties-to-show-business/article_06a06047-7fa4-5d26-a520-e0adfdb7b0c5.html",
+      "http://www.cbssports.com/collegebasketball/eye-on-college-basketball/23027641/st-johns-hires-st-louis-associate-head-coach-jim-whitesell",
+      "http://www.ubbulls.com/sports/mbkb/2014-15/releases/201504165a9prb",
+      "https://buffalonews.com/2019/04/06/ub-announces-jim-whitesell-as-new-basketball-coach/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
