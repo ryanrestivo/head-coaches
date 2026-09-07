@@ -8060,5 +8060,63 @@
       "https://appstatesports.com/sports/mens-basketball/roster/coaches/dustin-kerns/1217"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Quinnipiac",
+    "Conference": "A10",
+    "Coach Name": "Baker Dunleavy",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Villanova",
+        "Role": "Dir of Operations",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Villanova",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Quinnipiac",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023"
+      },
+      {
+        "Organization": "Villanova",
+        "Role": "GM Basketball Ops",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Quinnipiac",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2023",
+        "Record": "86-93",
+        "WinPct": 0.48
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Villanova",
+        "Undergraduate Year": 2005,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Baker_Dunleavy",
+      "https://gobobcats.com/news/2017/3/28/baker-dunleavy-named-quinnipiac-mens-basketball-head-coach.aspx",
+      "https://villanova.com/sports/mens-basketball/roster/coaches/baker-dunleavy/121",
+      "https://www.coachesdatabase.com/baker-dunleavy-steps-down-quinnipiac/",
+      "https://www.espn.com/mens-college-basketball/story/_/id/15067309"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
