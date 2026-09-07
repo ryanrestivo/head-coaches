@@ -14602,5 +14602,149 @@
       "https://elonphoenix.com/news/2019/4/5/elon-names-mike-schrage-its-18th-head-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Evansville",
+    "Conference": "MVC",
+    "Coach Name": "Todd Lickliter",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Park Tudor School",
+        "Role": "Head Coach (HS)",
+        "Start": "1979",
+        "End": "1987"
+      },
+      {
+        "Organization": "Danville Community HS",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1988"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1989"
+      },
+      {
+        "Organization": "Danville Community HS",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1992"
+      },
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Assistant",
+        "Start": "1997",
+        "End": "1999"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2007"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Miami (OH)",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2012"
+      },
+      {
+        "Organization": "Marian (IN)",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2015"
+      },
+      {
+        "Organization": "Evansville",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Evansville",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2022"
+      },
+      {
+        "Organization": "Boston Celtics (NBA)",
+        "Role": "Scout",
+        "Start": "2015",
+        "End": "2018"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Park Tudor School",
+        "Role": "Head Coach",
+        "Start": "1979",
+        "End": "1987"
+      },
+      {
+        "Organization": "Danville Community HS",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1992"
+      },
+      {
+        "Organization": "Butler",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2007"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Marian (IN)",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2015"
+      },
+      {
+        "Organization": "Evansville",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2022",
+        "Record": "233-208",
+        "WinPct": 0.528,
+        "Note": "college career (Butler/Iowa/Evansville)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-07",
+        "Tournament": "Horizon League",
+        "Result": "3x Horizon League Reg Season (2002, 2003, 2007), NABC CoY (2007) + 2x HL CoY (2006, 2007) (as Butler HC)",
+        "School": "Butler"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Todd_Lickliter_(basketball)",
+      "http://archive.indystar.com/article/20070404/SPORTS0605/704040485",
+      "http://msn.foxsports.com/collegebasketball/story/Marian-to-hire-former-Butler-coach-Todd-Lickliter-060512",
+      "http://www.crossroadsleague.com/sport/12/4.php",
+      "http://www.dakstats.com/WebSync/Pages/Team/TeamPage.aspx?association=10&amp;sg=MBB&amp;sea=NAIMBB_2013&amp;division=NAIMBB2&amp;team=552"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
