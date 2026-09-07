@@ -17789,5 +17789,34 @@
       "http://www.daily-jeff.com/local%20sports/2016/06/06/geno-ford-joins-stony-brook-coaching-staff"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Temple",
+    "Conference": "AAC",
+    "Coach Name": "Aaron McKie",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Temple",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Temple",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Aaron_McKie_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Aaron McKie (basketball)' stub; no coaching-career table. Hired at Temple 2019; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
