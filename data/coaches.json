@@ -9413,5 +9413,100 @@
       "http://www.gomatadors.com/coaches.aspx?rc=443&amp;path=mbball"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Charlotte",
+    "Conference": "CAA",
+    "Coach Name": "Ron Sanchez",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "SUNY Oneonta",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "SUNY Delhi",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Washington State",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2009"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2018"
+      },
+      {
+        "Organization": "Charlotte",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Associate HC",
+        "Start": "2023",
+        "End": "2024"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Interim HC",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "Baylor",
+        "Role": "Associate HC",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Charlotte",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023",
+        "Record": "87-95",
+        "WinPct": 0.478
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Interim HC",
+        "Start": "2024",
+        "End": "2025"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "CBI",
+        "Result": "CBI Champion (2023) \u2014 4-0 CBI run (as Charlotte HC)",
+        "School": "Charlotte"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Ron_Sanchez_(basketball)",
+      "http://grfx.cstv.com/photos/schools/va/sports/m-baskbl/auto_pdf/2012-13/misc_non_event/2012-13mbbfactbook.pdf",
+      "http://wsucougars.com/sports/2013/4/18/208185435.aspx",
+      "http://www.charlotteobserver.com/sports/college/article205850739.html",
+      "http://www.oneontaathletics.com/hof.aspx?hof=79"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
