@@ -17573,5 +17573,101 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Mike Anderson (basketball)' stub/disambig; no clean article for the St. John's basketball coach. Hired 2019; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Stetson",
+    "Conference": "ASun",
+    "Coach Name": "Donnie Jones",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Pikeville",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1996"
+      },
+      {
+        "Organization": "Florida",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2007"
+      },
+      {
+        "Organization": "Marshall",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "UCF",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Dayton",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Marshall",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "UCF",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2016"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "253-252",
+        "WinPct": 0.501,
+        "Note": "college career (Marshall + UCF + Stetson)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2023-24",
+        "Tournament": "ASun",
+        "Result": "ASUN Tournament (2024) + first-in-school-history NCAA tournament appearance (2023-24) (as Stetson HC)",
+        "School": "Stetson"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Donnie_Jones_(basketball)",
+      "http://componentstudios.com/callrecorder/call/RE5652c30db58a272106302f8b77ab4596",
+      "http://crescentcitysports.com/former-lsu-catholic-high-punter-donnie-jones-announces-retirement/",
+      "http://profootballtalk.nbcsports.com/2012/03/29/source-texans-do-on-year-deal-with-donnie-jones/",
+      "http://profootballtalk.nbcsports.com/2012/05/22/hartmann-explains-his-three-game-suspension/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
