@@ -10280,5 +10280,99 @@
       "https://gocolgateraiders.com/coaches.aspx?rc=108"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Florida Atlantic",
+    "Conference": "A10",
+    "Coach Name": "Dusty May",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2012"
+      },
+      {
+        "Organization": "North Carolina",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "North Carolina",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Florida Atlantic",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      },
+      {
+        "Organization": "Dallas Mavericks (NBA)",
+        "Role": "Assistant",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Eastern Michigan",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2012"
+      },
+      {
+        "Organization": "North Carolina",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2014"
+      },
+      {
+        "Organization": "Florida Atlantic",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2026"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Indiana",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2023-24",
+        "Tournament": "A-10",
+        "Result": "A-10 Tournament appearance + Big Ten Reg Season (2026) (as FAU/Mich HC)",
+        "School": "FAU/Michigan"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dusty_May",
+      "http://floridagators.com/coaches.aspx?rc=724&amp;path=basketball-men",
+      "http://www.emueagles.com/coaches.aspx?path=&amp;rc=17",
+      "http://www.espn.com/mens-college-basketball/story/_/id/22872114/fau-hires-dusty-new-men-basketball-coach",
+      "http://www.fausports.com/sports/m-baskbl/spec-rel/032218aab.html"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia TOC confirms stints (Eastern Michigan, North Carolina, Florida Atlantic, Michigan, U.S. Natl Team, Dallas Mavericks) but the detailed coaching-table didn't parse on first pass. Records per-stint not extracted \u2014 flagged."
   }
 ]
