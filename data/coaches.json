@@ -15038,5 +15038,89 @@
       "http://www.georgiastatesports.com/ViewArticle.dbml?ATCLID=211798571&amp;DB_OEM_ID=12700"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Holy Cross",
+    "Conference": "Patriot",
+    "Coach Name": "Brett Nelson",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Marshall",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Arkansas",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2011"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Ball State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2014"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Associate HC",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Holy Cross",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "UMass",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": "2024"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Holy Cross",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023",
+        "Record": "27-84",
+        "WinPct": 0.243
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brett_Nelson_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
