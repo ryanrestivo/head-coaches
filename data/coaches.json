@@ -13404,5 +13404,145 @@
       "https://en.wikipedia.org/wiki/Chris_Ogden_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UTEP",
+    "Conference": "Slnd",
+    "Coach Name": "Rodney Terry",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "St. Edward's",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "Bowie HS (TX)",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1993"
+      },
+      {
+        "Organization": "Somerville HS (TX)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1995"
+      },
+      {
+        "Organization": "Angleton HS (TX)",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Baylor",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1998"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2002"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2011"
+      },
+      {
+        "Organization": "Fresno State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2018"
+      },
+      {
+        "Organization": "UTEP",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": "2022"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Interim HC",
+        "Start": "2022",
+        "End": "2023"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Assistant",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Somerville HS (TX)",
+        "Role": "Head Coach",
+        "Start": "1993",
+        "End": "1995"
+      },
+      {
+        "Organization": "Angleton HS (TX)",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1996"
+      },
+      {
+        "Organization": "Fresno State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2018"
+      },
+      {
+        "Organization": "UTEP",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "225-193",
+        "WinPct": 0.538,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": "2025"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2015-16",
+        "Tournament": "MWC",
+        "Result": "MWC Tournament Champion (2016) (as Fresno HC)",
+        "School": "Fresno State"
+      },
+      {
+        "Season": "2022-23",
+        "Tournament": "Big 12",
+        "Result": "Big 12 Tournament Champion (2023) + Sporting News National CoY (2023) (as Texas HC)",
+        "School": "Texas"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rodney_Terry_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
