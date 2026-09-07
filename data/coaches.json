@@ -9317,5 +9317,101 @@
       "https://calbaptist.edu/news/rick-croy-named-cbu-mens-basketball-head-coach"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Cal St. Northridge",
+    "Conference": "WCC",
+    "Coach Name": "Mark Gottfried",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "UCLA",
+        "Role": "Assistant",
+        "Start": "1987",
+        "End": "1995"
+      },
+      {
+        "Organization": "Murray State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1998"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2009"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Cal State Northridge",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Murray State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "1998"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "2009"
+      },
+      {
+        "Organization": "NC State",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Cal State Northridge",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "438-292",
+        "WinPct": 0.6,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "1995-98",
+        "Tournament": "OVC",
+        "Result": "3x OVC Reg Season + 2x OVC Tournament (as Murray St HC), OVC CoY (1998)",
+        "School": "Murray State"
+      },
+      {
+        "Season": "2001-02",
+        "Tournament": "SEC",
+        "Result": "SEC Reg Season Champion (2002) + SEC CoY (2002) (as Alabama HC)",
+        "School": "Alabama"
+      },
+      {
+        "Season": "1993-95",
+        "Tournament": "NCAA",
+        "Result": "1995 NCAA National Championship (as UCLA assistant)",
+        "School": "UCLA"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Gottfried",
+      "http://grfx.cstv.com/photos/schools/alab/sports/m-baskbl/auto_pdf/2010-11-guide.pdf",
+      "http://northcarolinastate.scout.com/2/1166587.html",
+      "http://www.basketballreference.com/draft/draftyear.htm?yr=1987&amp;lg=N",
+      "http://www.gomatadors.com/coaches.aspx?rc=443&amp;path=mbball"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
