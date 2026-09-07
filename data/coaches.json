@@ -18732,5 +18732,65 @@
       "https://en.wikipedia.org/wiki/Mike_Young_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Washington St.",
+    "Conference": "Pac12",
+    "Coach Name": "Kyle Smith",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "University of San Francisco",
+        "Role": "Head Coach",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Washington State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": null,
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "University of San Francisco",
+        "Role": "Head Coach",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Washington State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Stanford",
+        "Role": "Head Coach",
+        "Start": null,
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-22",
+        "Tournament": "NIT/CBI/CIT",
+        "Result": "NIT 4-3, CBI 4-3, CIT 6-1 (as Washington St HC)",
+        "School": "Washington State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kyle_Smith_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "2019 hire at Washington State (well-documented). Prior USF + later Stanford tenures not cleanly extracted (year ranges missing) - flagged."
   }
 ]
