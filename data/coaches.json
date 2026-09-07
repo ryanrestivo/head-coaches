@@ -16289,5 +16289,71 @@
       "https://gwsports.com/roster.aspx?path=mbball"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Nebraska",
+    "Conference": "Big10",
+    "Coach Name": "Fred Hoiberg",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2015"
+      },
+      {
+        "Organization": "Chicago Bulls (NBA)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2018"
+      },
+      {
+        "Organization": "Nebraska",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Iowa State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2015"
+      },
+      {
+        "Organization": "Chicago Bulls (NBA)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2018"
+      },
+      {
+        "Organization": "Nebraska",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Iowa State",
+        "Undergraduate Year": 1995,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2019",
+        "Tournament": "Big 10",
+        "Result": "(Nebraska HC 2019-)",
+        "School": "Nebraska"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Fred_Hoiberg_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Nebraska HC 2019- (per infobox); combined NCAA/NBA career record not cleanly extracted - flagged."
   }
 ]
