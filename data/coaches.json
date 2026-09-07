@@ -15342,5 +15342,87 @@
       "http://www.chron.com/sports/college/article/Byron-Rimm-resigns-as-Prairie-View-A-M-basketball-6787759.php"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Idaho",
+    "Conference": "BSky",
+    "Coach Name": "Zac Claus",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Nebraska Wesleyan",
+        "Role": "JV/Assistant",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Austin College",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Portland State",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2002"
+      },
+      {
+        "Organization": "Sacramento State",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2005"
+      },
+      {
+        "Organization": "Nevada",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2015"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2019"
+      },
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "Western Colorado",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Idaho",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023",
+        "Record": "28-89",
+        "WinPct": 0.239
+      },
+      {
+        "Organization": "Western Colorado",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Zac_Claus_(basketball)",
+      "http://nevadasportsnet.com/news/reporters/ex-nevada-assistant-zac-claus-gets-idahos-full-time-head-coaching-job",
+      "https://govandals.com/news/2020/2/25/zac-claus-named-head-coach-of-vandal-mens-basketball.aspx",
+      "https://govandals.com/news/2023/2/27/mens-basketball-idaho-athletics-announces-leadership-change-for-vandal-mens-basketball.aspx",
+      "https://govandals.com/staff-directory/zac-claus/63"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
