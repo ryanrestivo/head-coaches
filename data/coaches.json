@@ -17234,5 +17234,96 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "No clean Wikipedia article for the Siena basketball coach (Carmen Marciariello). Hired 2019; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "South Dakota St.",
+    "Conference": "MVC",
+    "Coach Name": "Eric Henderson",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Wayne State College",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Burlington Catholic Central HS",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Burlington Catholic Central HS",
+        "Role": "Head Coach",
+        "Start": "2009",
+        "End": "2014"
+      },
+      {
+        "Organization": "North Dakota State",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Wayne State College",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2003"
+      },
+      {
+        "Organization": "Burlington Catholic Central HS",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "North Dakota State",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "South Dakota State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2025",
+        "Record": null,
+        "Note": "2019 hire at SDSU per CSV; infobox shows Drake 2019-25 (likely SDSU 2019 was an interim/skip)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Eric_Henderson_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "CSV says 2019 South Dakota St. but Wikipedia infobox shows Drake 2019-25. Possible CSV error or Henderson was at SDSU for one year not listed in infobox. Flagged for Ryan to verify."
   }
 ]
