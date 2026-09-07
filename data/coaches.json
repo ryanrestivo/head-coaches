@@ -13910,5 +13910,65 @@
       "http://www.detroitnews.com/story/sports/college/2015/04/16/ex-romulus-coach-oats-realizes-lifelong-dream-with-buffalo-job/25892763/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Appalachian St.",
+    "Conference": "Slnd",
+    "Coach Name": "Dustin Kerns",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Wofford",
+        "Role": "Assistant + Assoc HC",
+        "Start": "2004",
+        "End": "2017"
+      },
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Appalachian State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Presbyterian",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Appalachian State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "164-128",
+        "WinPct": 0.562,
+        "Note": "college HC career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Tournament (2021) + Reg Season (2024) + CoY (2024) (as App St HC)",
+        "School": "Appalachian State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dustin_Kerns",
+      "http://athletics.wofford.edu/coaches.aspx?path=mbball&amp;rc=367",
+      "http://www.gobluehose.com/ViewArticle.dbml?ATCLID=211604691&amp;DB_OEM_ID=18100",
+      "https://appstatesports.com/news/2019/3/28/app-state-hires-dustin-kerns-as-mens-basketball-head-coach.aspx",
+      "https://appstatesports.com/sports/mens-basketball/roster/coaches/dustin-kerns/1217"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
