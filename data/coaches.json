@@ -12123,5 +12123,82 @@
       "https://web.archive.org/web/20170713195823/http://www.clemsontigers.com/ViewArticle.dbml?DB_OEM_ID=28500&amp;ATCLID=209225927"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "North Alabama",
+    "Conference": "Slnd",
+    "Coach Name": "Tony Pujol",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "La Progresiva Presbyterian",
+        "Role": "Head Coach (HS)",
+        "Start": "1992",
+        "End": "1995"
+      },
+      {
+        "Organization": "Northwest Christian Academy",
+        "Role": "Head Coach (HS)",
+        "Start": "1995",
+        "End": "2004"
+      },
+      {
+        "Organization": "Appalachian State",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2006"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2009"
+      },
+      {
+        "Organization": "Alabama",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2014"
+      },
+      {
+        "Organization": "Wyoming",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "North Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "North Alabama",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null,
+        "Record": "111-135",
+        "WinPct": 0.451
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2024-25",
+        "Tournament": "ASun",
+        "Result": "ASun Regular Season Champion (2025, as North Ala HC) (later hire at USF)",
+        "School": "North Alabama"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tony_Pujol",
+      "http://gowyo.com/coaches.aspx?rc=195&amp;path=mbball",
+      "http://rolltide.com/coaches.aspx?rc=90&amp;path=mbball",
+      "http://trib.com/sports/college/wyoming/mbb/north-alabama-hires-wyoming-men-s-basketball-assistant-tony-pujol/article_b91b56db-27c2-5d18-86a2-175f8866d428.html",
+      "http://www.roarlions.com/news/2018/4/2/tony-pujol-named-una-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
