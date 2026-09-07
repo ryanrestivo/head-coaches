@@ -11188,5 +11188,63 @@
       "http://www.goxavier.com/sports/m-baskbl/spec-rel/041409aaa.html"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Loyola MD",
+    "Conference": "A10",
+    "Coach Name": "Tavaras Hardy",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Northwestern",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Georgetown",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Georgia Tech",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "Loyola (MD)",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Assistant",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Loyola (MD)",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "66-110",
+        "WinPct": 0.375
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Tavaras_Hardy",
+      "http://nusports.com/news/2011/5/19/Tavaras_Hardy_Promoted_to_Associate_Head_Coach.aspx",
+      "http://www.guhoyas.com/sports/m-baskbl/mtt/tavaras_hardy_848329.html",
+      "http://www.loyolagreyhounds.com/sports/m-baskbl/spec-rel/032818aab.html",
+      "http://www.ramblinwreck.com/sports/m-baskbl/mtt/tavaras_hardy_1014411.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
