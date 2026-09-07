@@ -16512,5 +16512,101 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Will Jones (basketball)' disambig/stub; no clean article for the NC A&T basketball coach. Prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "North Dakota",
+    "Conference": "MVC",
+    "Coach Name": "Paul Sather",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Sidney HS",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1997"
+      },
+      {
+        "Organization": "Wayne State (NE)",
+        "Role": "Graduate Assistant",
+        "Start": "1997",
+        "End": "1998"
+      },
+      {
+        "Organization": "Northern State",
+        "Role": "Assistant",
+        "Start": "1998",
+        "End": "2004"
+      },
+      {
+        "Organization": "Colorado",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Black Hills State",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010"
+      },
+      {
+        "Organization": "Northern State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2019"
+      },
+      {
+        "Organization": "North Dakota",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Black Hills State",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2010"
+      },
+      {
+        "Organization": "Northern State",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2019"
+      },
+      {
+        "Organization": "North Dakota",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "373-283",
+        "WinPct": 0.569,
+        "Note": "NCAA DII career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2008-10",
+        "Tournament": "DAC",
+        "Result": "2x DAC Reg Season + Tournament (2009) + DAC CoY (2009) (as Black Hills State HC)",
+        "School": "Black Hills State"
+      },
+      {
+        "Season": "2017-19",
+        "Tournament": "NSIC",
+        "Result": "2x NSIC Reg Season + Tournament + North Division (2018, 2019) + 2x NSIC CoY (2018, 2019) (as Northern State HC)",
+        "School": "Northern State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Paul_Sather",
+      "https://bhsuathletics.com/documents/2022/9/22/2022-23_MBB_Record_Book.pdf",
+      "https://dsuathletics.com/sports/football/roster/sam-sather/7085",
+      "https://fightinghawks.com/news/2019/12/21/mens-basketball-north-dakota-holds-off-nebraska-75-74.aspx",
+      "https://fightinghawks.com/news/2019/5/30/sather-named-head-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
