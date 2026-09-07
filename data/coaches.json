@@ -8364,5 +8364,107 @@
       "https://cubuffs.com/sports/2010/5/11/204944377.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Seattle",
+    "Conference": "WCC",
+    "Coach Name": "Jim Hayford",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Contra Costa Christian HS",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1987"
+      },
+      {
+        "Organization": "Berea Christian HS",
+        "Role": "Head Coach",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "Azusa Pacific",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1999"
+      },
+      {
+        "Organization": "Sioux Falls",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Whitworth",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2011"
+      },
+      {
+        "Organization": "Eastern Washington",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Seattle",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Sioux Falls",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Whitworth",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2011"
+      },
+      {
+        "Organization": "Eastern Washington",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Seattle",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021",
+        "Record": "424-230",
+        "WinPct": 0.644,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2002-11",
+        "Tournament": "NWC",
+        "Result": "5x NWC Reg Season + 6x NWC Tournament (as Whitworth HC) + 5x NWC CoY",
+        "School": "Whitworth"
+      },
+      {
+        "Season": "2014-15",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Reg Season + Tournament (2015) + Co-Coach of the Year (2015) (as EWU HC)",
+        "School": "Eastern Washington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jim_Hayford",
+      "http://goeags.com/sports/m-baskbl/2010-11/releases/11mbMarch29Hayford.doc",
+      "http://missoulian.com/ravalli/sports/college/grizzlies/big-sky-men-s-basketball-eastern-washington-rallies-past-griz/article_ae250afe-c983-5f04-9e4a-235d84d26467.html",
+      "http://wacsports.com/news/2018/3/15/mens-basketball-seattle-u-drops-overtime-contest-to-central-arkansas-in-cbi.aspx",
+      "http://www.goseattleu.com/ViewArticle.dbml?DB_OEM_ID=18200&amp;ATCLID=211537574"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
