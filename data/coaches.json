@@ -8278,5 +8278,91 @@
       "https://themw.com/news/2020/3/3/mountain-west-announces-2019-20-mens-basketball-all-conference-team.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "San Jose St.",
+    "Conference": "BSky",
+    "Coach Name": "Jean Prioleau",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "Fordham",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Wichita State",
+        "Role": "Assistant",
+        "Start": "2000",
+        "End": "2005"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Iowa State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "TCU",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2010"
+      },
+      {
+        "Organization": "Colorado",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Colorado",
+        "Role": "Assoc HC",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "San Jose State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      },
+      {
+        "Organization": "Stephen F. Austin",
+        "Role": "Assistant",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "San Jose State",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2021"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Fordham",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jean_Prioleau",
+      "http://fordhamsports.com/hof.aspx?hof=290&amp;mobile=skip",
+      "http://goshockers.com/teams/m-basketball/coaches.asp",
+      "http://www.sjsuspartans.com/sports/m-baskbl/spec-rel/080417aaa.html",
+      "https://cubuffs.com/sports/2010/5/11/204944377.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
