@@ -13212,5 +13212,44 @@
       "https://gousfbulls.com/news/2016/8/16/211126793.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UNC Asheville",
+    "Conference": "Slnd",
+    "Coach Name": "Mike Morrell",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "UNC Asheville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UNC Asheville",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "Big South",
+        "Result": "Big South Regular Season + Tournament (2023) + CoY (2023)",
+        "School": "UNC Asheville"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Morrell_(basketball)",
+      "http://texassports.com/coaches.aspx?rc=1306&amp;path=mbball",
+      "http://www.clemsontigers.com/ViewArticle.dbml?DB_OEM_ID=28500&amp;ATCLID=205506858",
+      "http://www.vcuathletics.com/information/directory/bios/Morrell_Mike?view=bio",
+      "https://web.archive.org/web/20171126061420/https://www.milligan.edu/publications/athletics/records/basketball-men/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
