@@ -17544,5 +17544,34 @@
       "https://southernmiss.com/news/2019/4/18/jay-ladner-named-southern-miss-head-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "St. John's",
+    "Conference": "A10",
+    "Coach Name": "Mike Anderson",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "St. John's",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "St. John's",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Anderson_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Mike Anderson (basketball)' stub/disambig; no clean article for the St. John's basketball coach. Hired 2019; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
