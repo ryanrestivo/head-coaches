@@ -10191,5 +10191,94 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia page is a player/football-focused disambig; no college coaching-career table rendered. Prior stints (Evansville 2018-, NBA asst) and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "FIU",
+    "Conference": "CUSA",
+    "Coach Name": "Jeremy Ballard",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Colgate",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Tulsa",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2012"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2015"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "FIU",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2026"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "FIU",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2026",
+        "Record": "113-141",
+        "WinPct": 0.445
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Colgate",
+        "Undergraduate Year": 2004,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2022-23",
+        "Tournament": "CIT",
+        "Result": "CIT appearance (as FIU HC)",
+        "School": "FIU"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jeremy_Ballard",
+      "http://goredbirds.com/news/2015/4/24/MBB_0424153007.aspx",
+      "http://www.miamiherald.com/sports/college/conference-usa/florida-international-university/article209633794.html",
+      "http://www.vcuathletics.com/information/directory/bios/ballard-jeremy-new",
+      "https://gocolgateraiders.com/coaches.aspx?rc=108"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
