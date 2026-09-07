@@ -15874,5 +15874,73 @@
       "https://en.wikipedia.org/wiki/Greg_Gary_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Merrimack",
+    "Conference": "NEC",
+    "Coach Name": "Joe Gallo",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Merrimack",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2009"
+      },
+      {
+        "Organization": "Dartmouth",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Robert Morris",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Merrimack (2nd stint)",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Merrimack",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2009"
+      },
+      {
+        "Organization": "Dartmouth",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2012"
+      },
+      {
+        "Organization": "Robert Morris",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Merrimack",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null,
+        "Record": "184-124",
+        "WinPct": 0.597,
+        "Note": "Merrimack tenures (2019-, per current record)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Joe_Gallo_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "2019 hire at Merrimack (2nd stint). Prior HC at Robert Morris (2012-16). 2019- record/seasons not cleanly extracted - flagged."
   }
 ]
