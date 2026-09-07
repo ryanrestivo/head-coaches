@@ -13098,5 +13098,119 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "No clean Wikipedia article for the UC Riverside basketball coach. Hired 2018; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "UCLA",
+    "Conference": "Pac12",
+    "Coach Name": "Murry Bartow",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Indiana",
+        "Role": "Assistant",
+        "Start": "1985",
+        "End": "1987"
+      },
+      {
+        "Organization": "William & Mary",
+        "Role": "Assistant",
+        "Start": "1987",
+        "End": "1989"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant",
+        "Start": "1989",
+        "End": "1996"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2002"
+      },
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2015"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2017"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Interim HC",
+        "Start": "2017",
+        "End": "2017"
+      },
+      {
+        "Organization": "UCLA",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2018"
+      },
+      {
+        "Organization": "UCLA",
+        "Role": "Interim HC",
+        "Start": "2018",
+        "End": "2019"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "1996",
+        "End": "2002"
+      },
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2015"
+      },
+      {
+        "Organization": "South Florida",
+        "Role": "Interim HC",
+        "Start": "2017",
+        "End": "2017"
+      },
+      {
+        "Organization": "UCLA",
+        "Role": "Interim HC",
+        "Start": "2018",
+        "End": "2019",
+        "Record": "338-274",
+        "WinPct": 0.551,
+        "Note": "college career (combined)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2003-04",
+        "Tournament": "SoCon",
+        "Result": "SoCon Tournament + Reg Season Champion (2004) + CoY (2004) (as ETSU HC)",
+        "School": "East Tennessee State"
+      },
+      {
+        "Season": "2008-10",
+        "Tournament": "ASun",
+        "Result": "2x Atlantic Sun Tournament (2009, 2010) + Reg Season (2007) + CoY (2007) (as ETSU HC)",
+        "School": "East Tennessee State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Murry_Bartow",
+      "http://www.espn.com/mens-college-basketball/story/_/id/12470420/etsu-buccaneers-fire-murry-bartow-coach",
+      "http://www.espn.com/mens-college-basketball/story/_/id/25651854/ucla-bruins-fire-coach-steve-alford-woeful-start-season",
+      "http://www.latimes.com/sports/ucla/la-sp-ucla-basketball-grace-20180414-story.html",
+      "https://gousfbulls.com/news/2016/8/16/211126793.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
