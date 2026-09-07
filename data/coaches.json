@@ -16608,5 +16608,67 @@
       "https://fightinghawks.com/news/2019/5/30/sather-named-head-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Northern Arizona",
+    "Conference": "BSky",
+    "Coach Name": "Shane Burcar",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Mesa HS",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "Northern Arizona",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2019"
+      },
+      {
+        "Organization": "Northern Arizona",
+        "Role": "Interim HC",
+        "Start": "2019",
+        "End": "2020"
+      },
+      {
+        "Organization": "Northern Arizona",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mesa HS",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018",
+        "Record": "277-110",
+        "WinPct": 0.716,
+        "Note": "high school"
+      },
+      {
+        "Organization": "Northern Arizona",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "85-133",
+        "WinPct": 0.39,
+        "Note": "college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Shane_Burcar",
+      "https://azdailysun.com/sports/local/nau-removes-interim-tag-names-shane-burcar-head-men-s/article_9c8d66ee-1d9f-5d71-8ec7-ebb9e0948c8c.html",
+      "https://nauathletics.com/news/2020/3/27/burcar-formally-introduced-as-nau-mens-basketball-head-coach.aspx",
+      "https://nauathletics.com/sports/mens-basketball/roster/coaches/shane-burcar/388",
+      "https://www.azcentral.com/story/sports/high-school/2018/04/05/shane-burcar-leaving-mesa-become-assistant-basketball-coach-nau/491675002/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
