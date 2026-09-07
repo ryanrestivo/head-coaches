@@ -12383,5 +12383,92 @@
       "http://www.cbssports.com/college-basketball/news/dukes-mike-krzyzewski-to-have-back-surgery-expected-to-miss-four-weeks/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Rhode Island",
+    "Conference": "A10",
+    "Coach Name": "David Cox",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Archbishop Carroll HS",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "1999"
+      },
+      {
+        "Organization": "Pittsburgh",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Georgetown",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2010"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2014"
+      },
+      {
+        "Organization": "Rhode Island",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      },
+      {
+        "Organization": "Villanova",
+        "Role": "Assistant",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Rutgers",
+        "Role": "Head Coach",
+        "Start": "2010",
+        "End": "2014"
+      },
+      {
+        "Organization": "Rhode Island",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Maryland",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2022"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "William & Mary",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/David_Cox_(basketball)",
+      "http://grfx.cstv.com/photos/schools/pitt/sports/m-baskbl/auto_pdf/DavidCoxBio.pdf",
+      "http://scarletknights.com/news/2010/5/18/David_Cox_Named_Associate_Head_Men_s_Basketball_Coach.aspx?path=mbball",
+      "http://www.gorhody.com/sports/m-baskbl/2017-18/releases/20180404ld5s09",
+      "http://www.gorhody.com/sports/m-baskbl/coaches/cox_david?view=bio"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "The 2018 CSV row says 'Rhode Island' \u2014 Cox's 2018 stint is at **Maryland** (hired 2018 after leaving Rhode Island at end of 2017-18); the CSV may be mis-labeled. Flagged for Ryan to verify."
   }
 ]
