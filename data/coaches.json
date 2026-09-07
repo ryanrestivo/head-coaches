@@ -14147,5 +14147,107 @@
       "https://kslsports.com/477336/tiktok-mark-pope-byu-basketball-pushin-p-gunna/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Belmont",
+    "Conference": "A-Sun",
+    "Coach Name": "Casey Alexander",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Belmont",
+        "Role": "Assistant",
+        "Start": "1995",
+        "End": "2011"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Lipscomb",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2019"
+      },
+      {
+        "Organization": "Belmont",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Stetson",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Lipscomb",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2019"
+      },
+      {
+        "Organization": "Belmont",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2026",
+        "Record": "303-180",
+        "WinPct": 0.627,
+        "Note": "combined college career"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Head Coach",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Belmont",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2017-18",
+        "Tournament": "A-Sun",
+        "Result": "A-Sun Tournament (2018) + Skip Prosser (2018) (as Lipscomb HC)",
+        "School": "Lipscomb"
+      },
+      {
+        "Season": "2018-19",
+        "Tournament": "A-Sun",
+        "Result": "A-Sun Reg Season + CoY (2019) (as Lipscomb HC)",
+        "School": "Lipscomb"
+      },
+      {
+        "Season": "2019-26",
+        "Tournament": "OVC / MVC",
+        "Result": "2x OVC Reg Season + Tournament (as Belmont HC); MVC Reg Season + CoY (2026, as K-State HC)",
+        "School": "Belmont / Kansas State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Casey_Alexander_(basketball)",
+      "http://www.lipscombsports.com/mbasketball/news/2012-13/8234/a-sun-veteran-alexander-tabbed-to-lead-mens-hoops-program/",
+      "http://www.skipprosser.com/award_history.php",
+      "https://scholar.google.com/scholar?q=%22Casey+Alexander%22",
+      "https://web.archive.org/web/20150906083428/http://www.lipscombsports.com/mbasketball/news/2012-13/8234/a-sun-veteran-alexander-tabbed-to-lead-mens-hoops-program/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
