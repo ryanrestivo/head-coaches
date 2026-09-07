@@ -8790,5 +8790,34 @@
       "https://en.wikiversity.org/wiki/Special:Search/CB_McGrath"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "USC Upstate",
+    "Conference": "Slnd",
+    "Coach Name": "Kyle Perry",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "USC Upstate",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "USC Upstate",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Kyle_Perry_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "No clean Wikipedia article for the college basketball coach Kyle Perry at USC Upstate. Flagged for Ryan to verify (tenure, record, prior roles)."
   }
 ]
