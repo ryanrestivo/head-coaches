@@ -13337,5 +13337,72 @@
       "https://en.wikipedia.org/wiki/Dave_Dickerson_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UT Arlington",
+    "Conference": "Slnd",
+    "Coach Name": "Chris Ogden",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2015"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2018"
+      },
+      {
+        "Organization": "UT Arlington",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Texas (GM/Assistant)",
+        "Role": "General Manager / Assistant",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UT Arlington",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021",
+        "Record": "44-47",
+        "WinPct": 0.484
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Texas",
+        "Undergraduate Year": 2003,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2018-19",
+        "Tournament": "Sun Belt",
+        "Result": "Sun Belt Coach of the Year (2019) (as UT Arlington HC)",
+        "School": "UT Arlington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Chris_Ogden_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
