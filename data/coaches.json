@@ -16355,5 +16355,104 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Nebraska HC 2019- (per infobox); combined NCAA/NBA career record not cleanly extracted - flagged."
+  },
+  {
+    "School": "Nevada",
+    "Conference": "MWC",
+    "Coach Name": "Steve Alford",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Manchester University (DIII)",
+        "Role": "Head Coach",
+        "Start": null,
+        "End": "1995"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2001"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "UCLA",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Nevada",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Missouri State",
+        "Role": "Head Coach",
+        "Start": "1995",
+        "End": "2001"
+      },
+      {
+        "Organization": "Iowa",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "UCLA",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2018"
+      },
+      {
+        "Organization": "Nevada",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Indiana",
+        "Undergraduate Year": 1987,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1998-99",
+        "Tournament": "NCAA",
+        "Result": "1999 NCAA tournament appearance (14-seed vs Harvard) (as Iowa HC)",
+        "School": "Iowa"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Steve_Alford",
+      "http://fs.ncaa.org/Docs/stats/m_basketball_RB/2012/DI.pdf",
+      "http://sportsillustrated.asia/vault/article/magazine/MAG1065861/1/index.htm",
+      "http://sportsillustrated.cnn.com/danpatrick/blog/102881/index.html",
+      "http://www.cbssports.com/collegebasketball/writer/doug-gottlieb/24942044/unimpressive-ucla-has-plenty-of-problems"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
