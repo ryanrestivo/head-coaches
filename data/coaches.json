@@ -8660,5 +8660,77 @@
       "https://nsudemons.com/sports/mens-basketball/roster/coaches/morris-scott/1812"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "UC Santa Barbara",
+    "Conference": "BigW",
+    "Coach Name": "Joe Pasternack",
+    "Year": 2017,
+    "Background": [
+      {
+        "Organization": "California",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2007"
+      },
+      {
+        "Organization": "New Orleans",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "Arizona",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Arizona",
+        "Role": "Assoc HC",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "UC Santa Barbara",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "New Orleans",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2011"
+      },
+      {
+        "Organization": "UC Santa Barbara",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": null,
+        "Record": "241-155",
+        "WinPct": 0.609,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Big West",
+        "Result": "2x Big West Reg Season + Tournament (2021, 2023) + CoY (2021)",
+        "School": "UC Santa Barbara"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Joe_Pasternack",
+      "http://azstarnet.com/sports/basketball/college/article_9458e132-8240-11e0-a65f-001cc4c002e0.html",
+      "http://azstarnet.com/sports/blogs/pascoe/wildcats-elevate-pasternack-to-associate-head-coach/article_95350fb8-e2ab-11e2-a2dd-0019bb2963f4.html",
+      "http://neworleansicecream.com/wp-content/uploads/2012/11/40under40.pdf",
+      "http://tucson.com/sports/arizonawildcats/basketball/pascoe/arizona-basketball-lorenzo-romar-to-make-as-sean-miller-s/article_7e6a2a78-244e-11e7-853f-93a49f81e2ff.html"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
