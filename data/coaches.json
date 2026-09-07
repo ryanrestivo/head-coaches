@@ -9893,5 +9893,77 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia article (and disambiguation) doesn't distinguish which Mike Davis was Detroit Mercy's 2018-23 head coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+  },
+  {
+    "School": "Drake",
+    "Conference": "Horz",
+    "Coach Name": "Darian DeVries",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Creighton",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2018"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024"
+      },
+      {
+        "Organization": "West Virginia",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Drake",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2024",
+        "Record": "187-82",
+        "WinPct": 0.695,
+        "Note": "college HC career (Drake tenure)"
+      },
+      {
+        "Organization": "West Virginia",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": "2025"
+      },
+      {
+        "Organization": "Indiana",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2018-24",
+        "Tournament": "MVC/HORZ",
+        "Result": "2x MVC Tournament (2023, 2024) + MVC Reg Season (2019) + Hugh Durham Award (2019) + 2x MVC CoY (2019, 2021) (as Drake HC)",
+        "School": "Drake"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Darian_DeVries",
+      "http://godrakebulldogs.com/coaches.aspx?rc=784&amp;path=mbball",
+      "http://godrakebulldogs.com/news/2018/3/29/darian-devries-named-drake-mens-basketball-head-coach.aspx",
+      "http://mvc-sports.com/news/2019/3/6/mens-basketball-drakes-devries-is-mvc-coach-of-the-year.aspx",
+      "https://gocreighton.com/mobile/staff.aspx?staff=53"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
