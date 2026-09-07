@@ -12866,5 +12866,103 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Todd Lee (basketball)' page is a stub; coaching-career table did not render. Hired at South Dakota 2018; prior stints and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Southern",
+    "Conference": "SWAC",
+    "Coach Name": "Sean Woods",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "High Point",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Texas A&M-Corpus Christi",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "TCU",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "Mississippi Valley State",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Morehead State",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Stetson",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "Southern",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023"
+      },
+      {
+        "Organization": "Scott County HS (KY)",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mississippi Valley State",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2012"
+      },
+      {
+        "Organization": "Morehead State",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2016"
+      },
+      {
+        "Organization": "Southern",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2023",
+        "Record": "191-232",
+        "WinPct": 0.452,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Kentucky",
+        "Undergraduate Year": 1992,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "SWAC",
+        "Result": "SWAC Reg Season + Tournament Champion (2012), CoY (2012) + Ben Jobe Award (2012) (as MV State HC)",
+        "School": "Mississippi Valley State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Sean_Woods_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
