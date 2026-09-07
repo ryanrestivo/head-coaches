@@ -14455,5 +14455,94 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'John Brannen (basketball)' is a stub; coaching-career table did not render. Prior roles (Cincinnati 2019-) and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Cleveland St.",
+    "Conference": "Horz",
+    "Coach Name": "Dennis Gates",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Marquette",
+        "Role": "Graduate Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Florida State",
+        "Role": "Graduate Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "California",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2007"
+      },
+      {
+        "Organization": "Northern Illinois",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2009"
+      },
+      {
+        "Organization": "Nevada",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2011"
+      },
+      {
+        "Organization": "Florida State",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2019"
+      },
+      {
+        "Organization": "Cleveland State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022"
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Cleveland State",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2022",
+        "Record": "125-99",
+        "WinPct": 0.558
+      },
+      {
+        "Organization": "Missouri",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-22",
+        "Tournament": "Horizon League",
+        "Result": "Horizon League Tournament (2021) + 2x Reg Season (2021, 2022) + 2x CoY (2020, 2021) (as Cleveland State HC)",
+        "School": "Cleveland State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dennis_Gates_(basketball)",
+      "https://abc17news.com/news/2025/03/20/mizzou-falls-victim-to-an-upset-season-comes-to-an-close-in-first-round-of-ncaa-tournament/",
+      "https://blackbride.com/inspiration/modern-upscale-san-francisco-wedding/",
+      "https://ftw.usatoday.com/2017/01/grayson-allen-duke-shove-florida-state-coach-loose-ball-video",
+      "https://gophersports.com/sports/mens-basketball/roster/coaches/armon-gates/3782"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
