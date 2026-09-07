@@ -13544,5 +13544,91 @@
       "https://en.wikipedia.org/wiki/Rodney_Terry_(basketball)"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Utah St.",
+    "Conference": "MWC",
+    "Coach Name": "Craig Smith",
+    "Year": 2018,
+    "Background": [
+      {
+        "Organization": "Mayville State",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Colorado State",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2014"
+      },
+      {
+        "Organization": "Nebraska",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2014"
+      },
+      {
+        "Organization": "South Dakota",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Utah",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mayville State",
+        "Role": "Head Coach",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "South Dakota",
+        "Role": "Head Coach",
+        "Start": "2014",
+        "End": "2018"
+      },
+      {
+        "Organization": "Utah State",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2021"
+      },
+      {
+        "Organization": "Utah",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": "2025"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Mayville State (per playing/coaching start)",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Craig_Smith_(basketball,_born_1972)",
+      "http://csurams.com/news/2007/4/10/CSU_Adds_Three_to_Men_s_Basketball_Staff.aspx?path=mbball",
+      "http://dac10.org:80/mbb.htm",
+      "http://www.csurams.com/sports/m-baskbl/mtt/smith_craig00.html",
+      "http://www.gobison.com:80/mens/basketball/coaches/index.cgi?id=4"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
