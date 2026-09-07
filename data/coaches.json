@@ -14746,5 +14746,73 @@
       "http://www.dakstats.com/WebSync/Pages/Team/TeamPage.aspx?association=10&amp;sg=MBB&amp;sea=NAIMBB_2013&amp;division=NAIMBB2&amp;team=552"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Fairfield",
+    "Conference": "MAAC",
+    "Coach Name": "Jay Young",
+    "Year": 2019,
+    "Background": [
+      {
+        "Organization": "Fitchburg State",
+        "Role": "Assistant",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Salem State",
+        "Role": "Assistant",
+        "Start": "1988",
+        "End": "1990"
+      },
+      {
+        "Organization": "Stony Brook",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2019"
+      },
+      {
+        "Organization": "Fairfield",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023"
+      },
+      {
+        "Organization": "Rutgers",
+        "Role": "Assistant",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Fairfield",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2023",
+        "Record": "128-139",
+        "WinPct": 0.479,
+        "Note": "college HC career (D-I + D-II)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Marist",
+        "Undergraduate Year": 1986,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jay_Young_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Combined D-I + D-II career record 128-139; prior D-II head coaching stints not cleanly extracted. 2019 role at Fairfield is well-documented (2019-2023)."
   }
 ]
