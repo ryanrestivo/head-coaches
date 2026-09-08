@@ -19801,5 +19801,114 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Final Four list (1987, 1993, 1996, 1997, 2005, 2012, 2013) spans BU/Kentucky/Louisville; NCAA records by stint not cleanly extracted in article table."
+  },
+  {
+    "School": "James Madison",
+    "Conference": "CAA/Slnd",
+    "Coach Name": "Mark Byington",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Charleston",
+        "Role": "Assistant",
+        "Start": "2002",
+        "End": "2004"
+      },
+      {
+        "Organization": "Virginia",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2005"
+      },
+      {
+        "Organization": "Charleston",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2012"
+      },
+      {
+        "Organization": "Charleston",
+        "Role": "Interim Head Coach",
+        "Start": "2012",
+        "End": "2012"
+      },
+      {
+        "Organization": "Virginia Tech",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Georgia Southern",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2020"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Georgia Southern",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2020"
+      },
+      {
+        "Organization": "James Madison",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2024",
+        "End": null,
+        "Record": "267-160",
+        "WinPct": 0.625,
+        "Note": "college career (Georgia Southern + JMU + Vanderbilt)"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "CAA",
+        "Result": "CAA Regular Season Champion + CAA Coach of the Year (2021) (as JMU HC)",
+        "School": "James Madison"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "NCAA Div I",
+        "Result": "2-3 NCAA Division I overall tournament results (career total, per article) (spans GA Southern/JMU/Vanderbilt)",
+        "School": "Multiple"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "SoCon",
+        "Result": "Skip Prosser Man of the Year Award (2025) (as Vanderbilt HC)",
+        "School": "Vanderbilt"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mark_Byington",
+      "http://gseagles.com/sports/mens/basketball/headlines/13035-georgia-southern-names-mark-byington-men-s-basketball-coach",
+      "http://jmusports.com/news/2020/3/20/mark-byington-named-mens-basketball-head-coach.aspx",
+      "http://jmusports.com/staff-directory/mark-byington/2737",
+      "https://gseagles.com/sports/mens-basketball/roster/coaches/mark-byington/826"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "JMU 2020-24 and Vanderbilt 2024-present confirmed. Article lists 'CAA regular season (2021)' and 'Sun Belt tournament (2024)' among career honors - the Sun Belt 2024 attribution to a specific stint could not be cleanly verified - flagged."
   }
 ]
