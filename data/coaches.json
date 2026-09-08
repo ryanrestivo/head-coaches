@@ -19235,5 +19235,81 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Anthony Boone' stub; no coaching-career table. Hired at Central Arkansas 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "East Tennessee St.",
+    "Conference": "Slnd",
+    "Coach Name": "Jason Shay",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Mercyhurst College",
+        "Role": "Assistant",
+        "Start": "1999",
+        "End": "2001"
+      },
+      {
+        "Organization": "Milwaukee",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Tennessee",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2011"
+      },
+      {
+        "Organization": "Northwest Florida State",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "North Dakota",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2020"
+      },
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2021"
+      },
+      {
+        "Organization": "Wake Forest",
+        "Role": "Assistant",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "East Tennessee State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2021",
+        "Record": "13-12",
+        "WinPct": 0.52
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jason_Shay_(basketball)",
+      "http://www.etsubucs.com/mbasketball/coaches/",
+      "https://web.archive.org/web/20150702111427/http://www.etsubucs.com/mbasketball/coaches/",
+      "https://web.archive.org/web/20200508201724/https://www.thehawkeye.com/news/20200507/jason-shay-takes-reins-at-east-tennessee-state",
+      "https://www.cbssports.com/college-basketball/news/college-basketball-coaching-changes-tracker-east-tennessee-state-stays-in-house-for-steve-forbes-replacement/"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
