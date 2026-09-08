@@ -19311,5 +19311,94 @@
       "https://www.cbssports.com/college-basketball/news/college-basketball-coaching-changes-tracker-east-tennessee-state-stays-in-house-for-steve-forbes-replacement/"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Georgia Southern",
+    "Conference": "Slnd",
+    "Coach Name": "Brian Burg",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Lake Erie College",
+        "Role": "Graduate Assistant",
+        "Start": "2003",
+        "End": "2005"
+      },
+      {
+        "Organization": "Garden City CC",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Western Texas College",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2007"
+      },
+      {
+        "Organization": "Campbell",
+        "Role": "Assistant",
+        "Start": "2009",
+        "End": "2013"
+      },
+      {
+        "Organization": "North Carolina Central",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Little Rock",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Texas Tech",
+        "Role": "Assistant / Chief of Staff",
+        "Start": "2018",
+        "End": "2020"
+      },
+      {
+        "Organization": "Georgia Southern",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2023"
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Analyst / Assistant / GM",
+        "Start": "2023",
+        "End": "2026"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Georgia Southern",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2023",
+        "Record": "42-44",
+        "WinPct": 0.488
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Katy HS, TX (per article) - college not listed",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brian_Burg_(basketball)",
+      "https://texastech.com/sports/mens-basketball/roster/coaches/brian-burg/2377",
+      "https://twitter.com/brianburg1?lang=en",
+      "https://www.espn.com/mens-college-basketball/story/_/id/28968449/georgia-southern-hires-texas-tech-assistant-brian-burg",
+      "https://www.kcbd.com/2020/03/29/ttu-assistant-basketball-coach-brian-burg-heading-georgia-southern/"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Undergraduate college not listed in article (HS: Katy HS, TX)."
   }
 ]
