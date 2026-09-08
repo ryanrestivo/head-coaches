@@ -19466,5 +19466,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "2020 GCU hire confirmed; combined HC record (Valpo/Vanderbilt/GCU) not cleanly extracted - flagged. Player: 1998 NBA draft (16th overall, Houston)."
+  },
+  {
+    "School": "Green Bay",
+    "Conference": "Horz",
+    "Coach Name": "Will Ryan",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Green Bay",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Green Bay",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Will_Ryan"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Will Ryan' page exists but no coaching-career table for the Green Bay basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
