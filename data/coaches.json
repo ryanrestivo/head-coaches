@@ -19524,5 +19524,119 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Mike Farrelly' stub (may disambig to the film producer). No clean article for the Hofstra basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Illinois Chicago",
+    "Conference": "Horz",
+    "Coach Name": "Luke Yaklich",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "LaSalle-Peru HS",
+        "Role": "Head Coach (girls)",
+        "Start": "1999",
+        "End": "2000"
+      },
+      {
+        "Organization": "Sterling HS",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2003"
+      },
+      {
+        "Organization": "LaSalle-Peru HS",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Joliet West HS",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013"
+      },
+      {
+        "Organization": "Illinois State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2017"
+      },
+      {
+        "Organization": "Michigan",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Texas",
+        "Role": "Assistant",
+        "Start": "2019",
+        "End": "2020"
+      },
+      {
+        "Organization": "UIC",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Sterling HS",
+        "Role": "Head Coach",
+        "Start": "2000",
+        "End": "2003"
+      },
+      {
+        "Organization": "LaSalle-Peru HS",
+        "Role": "Head Coach",
+        "Start": "2003",
+        "End": "2007"
+      },
+      {
+        "Organization": "Joliet West HS",
+        "Role": "Head Coach",
+        "Start": "2007",
+        "End": "2013",
+        "Record": "214-173",
+        "WinPct": null,
+        "Note": "combined high school career"
+      },
+      {
+        "Organization": "UIC",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2024",
+        "Record": "47-70",
+        "WinPct": 0.401,
+        "Note": "college career"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Illinois State",
+        "Undergraduate Year": 1998,
+        "Undergraduate Degree": "B.S."
+      },
+      {
+        "Undergraduate College": "Olivet Nazarene",
+        "Undergraduate Year": 2004,
+        "Undergraduate Degree": "M.Ed."
+      },
+      {
+        "Undergraduate College": "Olivet Nazarene",
+        "Undergraduate Year": 2009,
+        "Undergraduate Degree": "M.Ed. (Administration)"
+      }
+    ],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Luke_Yaklich",
+      "https://247sports.com/college/michigan/Article/Sources-Michigan-to-hire-Illinois-States-Luke-Yaklich-as-assistant-coach-105605495/",
+      "https://apnews.com/article/uic-coach-luke-yaklich-fired-d9a12f3df8b53d79dd7b1a2809690ab4",
+      "https://goredbirds.com/sports/mens-basketball/roster/coaches/luke-yaklich/85",
+      "https://mgoblog.com/content/report-michigan-hire-luke-yaklich-assistant"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
