@@ -19056,5 +19056,77 @@
       "http://usatoday30.usatoday.com/sports/basketball/games/2005-11-13-pacers-bucks_x.htm"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Alcorn St.",
+    "Conference": "SWAC",
+    "Coach Name": "Landon Bussie",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Xavier (LA)",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Prairie View A&M",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2020"
+      },
+      {
+        "Organization": "Alcorn State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025"
+      },
+      {
+        "Organization": "Chicago State",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Alcorn State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025"
+      },
+      {
+        "Organization": "Chicago State",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null,
+        "Record": "73-108",
+        "WinPct": 0.403,
+        "Note": "college career (Alcorn + Chicago St)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Xavier (Louisiana)",
+        "Undergraduate Year": 2010,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-23",
+        "Tournament": "SWAC",
+        "Result": "2x SWAC Reg Season (2022, 2023) + 2x SWAC CoY (2022, 2023) + 2x NIT (as Alcorn St HC)",
+        "School": "Alcorn State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Landon_Bussie_(basketball)",
+      "https://alcornsports.com/staff-directory/landon-bussie/223",
+      "https://crescentcitysports.com/xula-graduate-landon-bussie-hired-as-alcorn-state-mens-basketball-head-coach",
+      "https://hbcusports.com/2020/04/23/alcorn-state-names-landon-bussie-new-head-mens-basketball-coach",
+      "https://pvpanthers.com/sports/mens-basketball/roster/coaches/landon-bussie/800"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
