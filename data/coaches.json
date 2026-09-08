@@ -20414,5 +20414,34 @@
       "https://www.kstatesports.com/sports/mens-basketball/roster/coaches/brad-korn/1428"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Tarleton St.",
+    "Conference": "Slnd",
+    "Coach Name": "Billy Gillespie",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Tarleton State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Tarleton State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Billy_Gillespie"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Billy Gillespie' article (12KB) has no coaching-career table (article may cover another Billy Gillespie). Hired at Tarleton 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
