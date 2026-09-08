@@ -20088,5 +20088,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Played at Northern State (two-time all-state HS: Pomona HS, Arvada CO)."
+  },
+  {
+    "School": "Northern Illinois",
+    "Conference": "MAC",
+    "Coach Name": "Lamar Chapman",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Northern Illinois",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Northern Illinois",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Lamar_Chapman"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Lamar Chapman' page (7.4KB) has no coaching-career table; no clean article for the NIU basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
