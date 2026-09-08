@@ -18940,5 +18940,34 @@
       "http://www.furmanpaladins.com/sports/m-baskbl/mtt/MBKB_Assistant_2?view=bio"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Air Force",
+    "Conference": "MV",
+    "Coach Name": "Joe Scott",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Air Force",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Air Force",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Joe_Scott_(basketball)"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "No clean Wikipedia article for the Air Force basketball coach (Joe Scott). Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
