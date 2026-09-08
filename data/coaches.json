@@ -19128,5 +19128,83 @@
       "https://pvpanthers.com/sports/mens-basketball/roster/coaches/landon-bussie/800"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Bellarmine",
+    "Conference": "WCC",
+    "Coach Name": "Scott Davenport",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Louisville",
+        "Role": "Graduate Assistant",
+        "Start": "1984",
+        "End": "1985"
+      },
+      {
+        "Organization": "VCU",
+        "Role": "Assistant",
+        "Start": "1985",
+        "End": "1986"
+      },
+      {
+        "Organization": "Ballard HS",
+        "Role": "Head Coach",
+        "Start": "1986",
+        "End": "1996"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2005"
+      },
+      {
+        "Organization": "Bellarmine",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2025"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Bellarmine",
+        "Role": "Head Coach",
+        "Start": "2005",
+        "End": "2025",
+        "Record": "423-192",
+        "WinPct": 0.688,
+        "Note": "NCAA DII career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2010-11",
+        "Tournament": "NCAA DII / GLVC",
+        "Result": "NCAA DII tournament winner (2011) + NABC DII CoY (2011) (as Bellarmine HC)",
+        "School": "Bellarmine"
+      },
+      {
+        "Season": "2010-18",
+        "Tournament": "GLVC",
+        "Result": "6x GLVC Reg Season (2011, 2012, 2015-2018) + 4x GLVC CoY (2011, 2012, 2017, 2018) (as Bellarmine HC)",
+        "School": "Bellarmine"
+      },
+      {
+        "Season": "2021-22",
+        "Tournament": "ASUN",
+        "Result": "ASUN Tournament (2022) (as Bellarmine HC)",
+        "School": "Bellarmine"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Scott_Davenport_(basketball)",
+      "https://athletics.bellarmine.edu/news/2011/3/26/MBB_0326110919.aspx",
+      "https://athletics.bellarmine.edu/news/2022/5/12/mens-basketball-doug-davenport-named-coach-in-waiting-at-bellarmine.aspx",
+      "https://athletics.bellarmine.edu/sports/mens-basketball/coaches",
+      "https://gocards.com/news/2005/4/29/Davenport_Departs_to_Become_Bellarmine_s_Head_Coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
