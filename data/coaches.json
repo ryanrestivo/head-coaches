@@ -19638,5 +19638,168 @@
       "https://mgoblog.com/content/report-michigan-hire-luke-yaklich-assistant"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Iona",
+    "Conference": "MAAC",
+    "Coach Name": "Rick Pitino",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Hawaii",
+        "Role": "Assistant",
+        "Start": "1974",
+        "End": "1976"
+      },
+      {
+        "Organization": "Hawaii",
+        "Role": "Interim Head Coach",
+        "Start": "1976",
+        "End": "1976"
+      },
+      {
+        "Organization": "Syracuse",
+        "Role": "Assistant",
+        "Start": "1976",
+        "End": "1978"
+      },
+      {
+        "Organization": "Boston University",
+        "Role": "Head Coach",
+        "Start": "1978",
+        "End": "1983"
+      },
+      {
+        "Organization": "New York Knicks",
+        "Role": "Assistant",
+        "Start": "1983",
+        "End": "1985"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Head Coach",
+        "Start": "1985",
+        "End": "1987"
+      },
+      {
+        "Organization": "New York Knicks",
+        "Role": "Head Coach",
+        "Start": "1987",
+        "End": "1989"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1997"
+      },
+      {
+        "Organization": "Boston Celtics",
+        "Role": "Head Coach",
+        "Start": "1997",
+        "End": "2001"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2017"
+      },
+      {
+        "Organization": "Panathinaikos (Greece)",
+        "Role": "Head Coach",
+        "Start": "2018",
+        "End": "2020"
+      },
+      {
+        "Organization": "Greece (national team)",
+        "Role": "Head Coach",
+        "Start": "2019",
+        "End": "2021"
+      },
+      {
+        "Organization": "Iona",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2023"
+      },
+      {
+        "Organization": "St. John's",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Boston University",
+        "Role": "Head Coach",
+        "Start": "1978",
+        "End": "1983"
+      },
+      {
+        "Organization": "Providence",
+        "Role": "Head Coach",
+        "Start": "1985",
+        "End": "1987"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Head Coach",
+        "Start": "1989",
+        "End": "1997"
+      },
+      {
+        "Organization": "Louisville",
+        "Role": "Head Coach",
+        "Start": "2001",
+        "End": "2017"
+      },
+      {
+        "Organization": "Iona",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2023",
+        "Record": "914-318",
+        "WinPct": 0.742,
+        "Note": "college career total"
+      },
+      {
+        "Organization": "St. John's",
+        "Role": "Head Coach",
+        "Start": "2023",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "1995-96",
+        "Tournament": "NCAA/SEC",
+        "Result": "NCAA National Champion (1996) + 5x SEC Tournament (1992-1995, 1997) + 2x SEC Reg Season (1995, 1996) (as Kentucky HC)",
+        "School": "Kentucky"
+      },
+      {
+        "Season": "2002-17",
+        "Tournament": "NCAA/C-USA",
+        "Result": "NCAA National Champion (2013) + 7 Final Four (1997 via Louisville era: 2005, 2012, 2013) + 2x C-USA Tournament (2003, 2005) + C-USA Reg Season (as Louisville HC)",
+        "School": "Louisville"
+      },
+      {
+        "Season": "1986-87",
+        "Tournament": "NCAA",
+        "Result": "Final Four (1987) (as Providence HC)",
+        "School": "Providence"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Rick_Pitino",
+      "http://breederscup.com/bio.aspx?id=2017",
+      "http://cf.newsday.com/911/victimsearch.cfm?id=1251",
+      "http://gocards.com/coaches.aspx?rc=338&amp;path=mbball",
+      "http://grfx.cstv.com/photos/schools/umas/sports/m-baskbl/auto_pdf/records.pdf"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Final Four list (1987, 1993, 1996, 1997, 2005, 2012, 2013) spans BU/Kentucky/Louisville; NCAA records by stint not cleanly extracted in article table."
   }
 ]
