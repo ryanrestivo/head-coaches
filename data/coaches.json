@@ -20256,5 +20256,86 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "2020 listed in CSV = Penn State interim HC year; later became UMBC 2021+"
+  },
+  {
+    "School": "Samford",
+    "Conference": "SoCon",
+    "Coach Name": "Bucky McMillan",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Mountain Brook HS",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "Mountain Brook HS",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2020"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Mountain Brook HS",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2020",
+        "Record": "332-74",
+        "WinPct": 0.818,
+        "Note": "high school career"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025"
+      },
+      {
+        "Organization": "Texas A&M",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null,
+        "Record": "121-64",
+        "WinPct": 0.654,
+        "Note": "college career (Samford + Texas A&M)"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Birmingham-Southern",
+        "Undergraduate Year": 2006,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2021-24",
+        "Tournament": "SoCon",
+        "Result": "SoCon Tournament (2024) + 2x SoCon Reg Season (2023, 2024) + 3x SoCon CoY (2022-2024) + NHSCA CoY (2018 HS) (as Samford HC)",
+        "School": "Samford"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bucky_McMillan",
+      "http://www.ahsaa.com/Sports/Basketball/Basketball-Past-State-Champions",
+      "https://12thman.com/news/2025/4/5/mens-basketball-alberts-tabs-mcmillan-as-mens-basketball-head-coach",
+      "https://aggieswire.usatoday.com/story/sports/college/aggies/mens-basketball/2025/06/09/texas-aggies-basketball-bucky-mcmillan-jon-rothstein-ncaa-tournament-sec-standards/84121681007",
+      "https://samfordsports.com/news/2020/4/6/samford-names-bucky-mcmillan-head-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
