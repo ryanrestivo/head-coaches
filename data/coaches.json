@@ -20337,5 +20337,82 @@
       "https://samfordsports.com/news/2020/4/6/samford-names-bucky-mcmillan-head-mens-basketball-coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Southeast Missouri St.",
+    "Conference": "OVC",
+    "Coach Name": "Brad Korn",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Southern Illinois",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2012"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant",
+        "Start": "2012",
+        "End": "2013"
+      },
+      {
+        "Organization": "Missouri State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2016"
+      },
+      {
+        "Organization": "Kansas State",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Southeast Missouri State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Southeast Missouri State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "94-98",
+        "WinPct": 0.49
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Southern Illinois",
+        "Undergraduate Year": 2003,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-02",
+        "Tournament": "NCAA",
+        "Result": "Sweet 16 (2002) + 3 straight NCAA Tournament appearances (as Southern Illinois player)",
+        "School": "Southern Illinois"
+      },
+      {
+        "Season": "2022-25",
+        "Tournament": "OVC",
+        "Result": "OVC Tournament (2023) + Reg Season (2025) + CoY (2025) (as Southeast Missouri State HC)",
+        "School": "Southeast Missouri State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Brad_Korn",
+      "https://gosoutheast.com/news/2020/3/24/mens-basketball-korn-introduced-as-redhawks-next-mens-basketball-head-coach.aspx",
+      "https://missouristatebears.com/sports/mens-basketball/roster/coaches/brad-korn/92",
+      "https://siusalukis.com/sports/mens-basketball/roster/coaches/brad-korn/291",
+      "https://www.kstatesports.com/sports/mens-basketball/roster/coaches/brad-korn/1428"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
