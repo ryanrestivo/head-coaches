@@ -19495,5 +19495,34 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Will Ryan' page exists but no coaching-career table for the Green Bay basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Hofstra",
+    "Conference": "CAA/AAC",
+    "Coach Name": "Mike Farrelly",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Hofstra",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Hofstra",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Farrelly"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Mike Farrelly' stub (may disambig to the film producer). No clean article for the Hofstra basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
