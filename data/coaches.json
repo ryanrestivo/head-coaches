@@ -20117,5 +20117,144 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Lamar Chapman' page (7.4KB) has no coaching-career table; no clean article for the NIU basketball coach. Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Penn St.",
+    "Conference": "BigEast",
+    "Coach Name": "Jim Ferry",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Keene State",
+        "Role": "Assistant",
+        "Start": "1990",
+        "End": "1991"
+      },
+      {
+        "Organization": "Bentley",
+        "Role": "Assistant",
+        "Start": "1991",
+        "End": "1998"
+      },
+      {
+        "Organization": "Plymouth State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Adelphi",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Long Island",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2012"
+      },
+      {
+        "Organization": "Duquesne",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Penn State",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2020"
+      },
+      {
+        "Organization": "Penn State",
+        "Role": "Interim Head Coach",
+        "Start": "2020",
+        "End": "2021"
+      },
+      {
+        "Organization": "UMBC",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Plymouth State",
+        "Role": "Head Coach",
+        "Start": "1998",
+        "End": "1999"
+      },
+      {
+        "Organization": "Adelphi",
+        "Role": "Head Coach",
+        "Start": "1999",
+        "End": "2002"
+      },
+      {
+        "Organization": "Long Island",
+        "Role": "Head Coach",
+        "Start": "2002",
+        "End": "2012"
+      },
+      {
+        "Organization": "Duquesne",
+        "Role": "Head Coach",
+        "Start": "2012",
+        "End": "2017"
+      },
+      {
+        "Organization": "Penn State",
+        "Role": "Interim Head Coach",
+        "Start": "2020",
+        "End": "2021"
+      },
+      {
+        "Organization": "UMBC",
+        "Role": "Head Coach",
+        "Start": "2021",
+        "End": null,
+        "Record": "409-356",
+        "WinPct": 0.535,
+        "Note": "combined college career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "1998-99",
+        "Tournament": "LEC",
+        "Result": "LEC Reg Season (1999) (as Plymouth State HC)",
+        "School": "Plymouth State"
+      },
+      {
+        "Season": "1999-2002",
+        "Tournament": "ECC",
+        "Result": "3x ECC Reg Season (2000-2002) + ECC Tournament (2001) (as Adelphi HC)",
+        "School": "Adelphi"
+      },
+      {
+        "Season": "2010-12",
+        "Tournament": "NEC",
+        "Result": "2x NEC Reg Season (2011, 2012) + 2x NEC Tournament (2011, 2012) + 2x NEC CoY (2005, 2011) (as Long Island HC)",
+        "School": "Long Island"
+      },
+      {
+        "Season": "2025-26",
+        "Tournament": "America East",
+        "Result": "America East Reg Season + Tournament + CoY (2026) (as UMBC HC)",
+        "School": "UMBC"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Jim_Ferry",
+      "http://www.gopsusports.com/sports/m-baskbl/mtt/jim_ferry_1051203.html",
+      "https://brooklyn.liuathletics.com/coaches.aspx?rc=168",
+      "https://goduquesne.com/sports/mens-basketball/roster/coaches/jim-ferry/164",
+      "https://gopsusports.com/news/2021/3/15/mens-basketball-micah-shrewsberry-named-mens-basketball-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "2020 listed in CSV = Penn State interim HC year; later became UMBC 2021+"
   }
 ]
