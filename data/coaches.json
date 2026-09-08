@@ -19910,5 +19910,95 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "JMU 2020-24 and Vanderbilt 2024-present confirmed. Article lists 'CAA regular season (2021)' and 'Sun Belt tournament (2024)' among career honors - the Sun Belt 2024 attribution to a specific stint could not be cleanly verified - flagged."
+  },
+  {
+    "School": "Loyola Marymount",
+    "Conference": "WCC",
+    "Coach Name": "Stan Johnson",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Bemidji State",
+        "Role": "Assistant",
+        "Start": "2003",
+        "End": "2004"
+      },
+      {
+        "Organization": "Southwest Baptist",
+        "Role": "Assistant",
+        "Start": "2004",
+        "End": "2007"
+      },
+      {
+        "Organization": "Cal State Northridge",
+        "Role": "Assistant",
+        "Start": "2007",
+        "End": "2008"
+      },
+      {
+        "Organization": "Utah",
+        "Role": "Assistant",
+        "Start": "2008",
+        "End": "2011"
+      },
+      {
+        "Organization": "Drake",
+        "Role": "Assistant",
+        "Start": "2011",
+        "End": "2013"
+      },
+      {
+        "Organization": "Arizona State",
+        "Role": "Assistant",
+        "Start": "2013",
+        "End": "2015"
+      },
+      {
+        "Organization": "Marquette",
+        "Role": "Assistant",
+        "Start": "2015",
+        "End": "2020"
+      },
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Loyola Marymount",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "87-90",
+        "WinPct": 0.492
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Bemidji State",
+        "Undergraduate Year": null,
+        "Undergraduate Degree": null
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2000-01",
+        "Tournament": "NCAA",
+        "Result": "NCAA tournament appearance (2001) (as Southern Utah player)",
+        "School": "Southern Utah"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Stan_Johnson_(basketball)",
+      "http://www.bsubeavers.com/mbasketball/roster/2002-03/1213/stan-johnson/",
+      "https://godrakebulldogs.com/coaches.aspx?rc=258",
+      "https://gomarquette.com/sports/mens-basketball/roster/coaches/stan-johnson/354",
+      "https://lmulions.com/news/2020/3/20/lmu-names-stan-johnson-mens-basketball-head-coach.aspx"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Player played at Southern Utah (2001 NCAA tourney) then transferred to Bemidji State; education degree not clearly listed."
   }
 ]
