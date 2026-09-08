@@ -18969,5 +18969,92 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "No clean Wikipedia article for the Air Force basketball coach (Joe Scott). Hired 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Alabama St.",
+    "Conference": "SWAC",
+    "Coach Name": "Mo Williams",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Charlotte Hornets (NBA)",
+        "Role": "Player",
+        "Start": "2015",
+        "End": "2015"
+      },
+      {
+        "Organization": "Cleveland Cavaliers (NBA)",
+        "Role": "Player",
+        "Start": "2015",
+        "End": "2017"
+      },
+      {
+        "Organization": "Cal State Northridge",
+        "Role": "Assistant",
+        "Start": "2018",
+        "End": "2020"
+      },
+      {
+        "Organization": "Alabama State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2022"
+      },
+      {
+        "Organization": "Jackson State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2026"
+      },
+      {
+        "Organization": "Kentucky",
+        "Role": "Assistant",
+        "Start": "2026",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Alabama State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2022"
+      },
+      {
+        "Organization": "Jackson State",
+        "Role": "Head Coach",
+        "Start": "2022",
+        "End": "2026"
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Memphis",
+        "Undergraduate Year": 2002,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2001-02",
+        "Tournament": "SEC/NCAA",
+        "Result": "SEC Freshman of the Year (2002) + Third-team All-SEC (as Memphis player)",
+        "School": "Memphis"
+      },
+      {
+        "Season": "2015-16",
+        "Tournament": "NBA",
+        "Result": "NBA champion (2016, as Cavaliers player)",
+        "School": "Cleveland Cavaliers"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mo_Williams",
+      "http://kingjamesgospel.com/2016/12/15/mo-williams-play-after-trade/",
+      "http://sportsillustrated.cnn.com/basketball/nba/gameflash/2010/11/24/28435_recap.html",
+      "http://thesixersense.com/2017/01/06/nba-rumors-philadelphia-76ers-mo-williams-season/",
+      "http://usatoday30.usatoday.com/sports/basketball/games/2005-11-13-pacers-bucks_x.htm"
+    ],
+    "ResearchDate": "2026-09-05"
   }
 ]
