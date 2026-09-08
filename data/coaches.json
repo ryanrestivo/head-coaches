@@ -20000,5 +20000,93 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Player played at Southern Utah (2001 NCAA tourney) then transferred to Bemidji State; education degree not clearly listed."
+  },
+  {
+    "School": "Northern Colorado",
+    "Conference": "BSky",
+    "Coach Name": "Steve Smiley",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Black Hills State",
+        "Role": "Assistant",
+        "Start": "2005",
+        "End": "2006"
+      },
+      {
+        "Organization": "Northern State",
+        "Role": "Assistant",
+        "Start": "2006",
+        "End": "2008"
+      },
+      {
+        "Organization": "Sheridan College (NJCAA)",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2014"
+      },
+      {
+        "Organization": "Weber State",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2016"
+      },
+      {
+        "Organization": "Northern Colorado",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Northern Colorado",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Sheridan College (NJCAA)",
+        "Role": "Head Coach",
+        "Start": "2008",
+        "End": "2014",
+        "Record": "152-45",
+        "WinPct": 0.772,
+        "Note": "NJCAA career"
+      },
+      {
+        "Organization": "Northern Colorado",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "109-83",
+        "WinPct": 0.568,
+        "Note": "NCAA D1 career"
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2023-24",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Coach of the Year (2024) (as N. Colorado HC)",
+        "School": "Northern Colorado"
+      },
+      {
+        "Season": "2024-25",
+        "Tournament": "Big Sky",
+        "Result": "Big Sky Reg Season (2025) (as N. Colorado HC)",
+        "School": "Northern Colorado"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Steve_Smiley",
+      "https://s3.amazonaws.com/nsuwolvesathletics.com/documents/2019/6/28/MBasketball_Records_2019Update.pdf",
+      "https://uncbears.com/news/2020/3/20/steve-smiley-named-unc-mens-basketball-head-coach.aspx",
+      "https://uncbears.com/sports/mens-basketball/roster/coaches/steve-smiley/569",
+      "https://weberstatesports.com/sports/mens-basketball/roster/coaches/steve-smiley/388"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Played at Northern State (two-time all-state HS: Pomona HS, Arvada CO)."
   }
 ]
