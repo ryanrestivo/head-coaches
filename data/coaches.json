@@ -19206,5 +19206,34 @@
       "https://gocards.com/news/2005/4/29/Davenport_Departs_to_Become_Bellarmine_s_Head_Coach.aspx"
     ],
     "ResearchDate": "2026-09-05"
+  },
+  {
+    "School": "Central Arkansas",
+    "Conference": "Slnd",
+    "Coach Name": "Anthony Boone",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Central Arkansas",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Central Arkansas",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "PostseasonExperience": [],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Boone"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "Wikipedia 'Anthony Boone' stub; no coaching-career table. Hired at Central Arkansas 2020; prior roles and record not extracted - flagged for Ryan to verify."
   }
 ]
