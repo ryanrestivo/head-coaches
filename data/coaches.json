@@ -19400,5 +19400,71 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Undergraduate college not listed in article (HS: Katy HS, TX)."
+  },
+  {
+    "School": "Grand Canyon",
+    "Conference": "WAC/SunBlt",
+    "Coach Name": "Bryce Drew",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Valparaiso",
+        "Role": "Head Coach",
+        "Start": "2011",
+        "End": "2017"
+      },
+      {
+        "Organization": "Vanderbilt",
+        "Role": "Head Coach",
+        "Start": "2017",
+        "End": "2019"
+      },
+      {
+        "Organization": "Grand Canyon",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "Valparaiso",
+        "Undergraduate Year": 1998,
+        "Undergraduate Degree": "B.S."
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "1997-98",
+        "Tournament": "NCAA",
+        "Result": "(as Valparaiso player) - buzzer-beater run, 1998 NCAA tournament appearance",
+        "School": "Valparaiso"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Bryce_Drew"
+    ],
+    "ResearchDate": "2026-09-05",
+    "ReviewNote": "2020 GCU hire confirmed; combined HC record (Valpo/Vanderbilt/GCU) not cleanly extracted - flagged. Player: 1998 NBA draft (16th overall, Houston)."
   }
 ]
