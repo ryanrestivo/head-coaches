@@ -4553,7 +4553,7 @@
       {
         "Season": "2011-12",
         "Tournament": "Summit League",
-        "Result": "Regular Season + Tournament Champion (3\u00d7, 2012/2013/2016)",
+        "Result": "Regular Season + Tournament Champion (3×, 2012/2013/2016)",
         "School": "South Dakota State"
       },
       {
@@ -4759,19 +4759,19 @@
       {
         "Season": "2015-16",
         "Tournament": "MAC",
-        "Result": "6\u00d7 MAC Tournament Champion (2010/2012/2022/2024/2025/2026)",
+        "Result": "6× MAC Tournament Champion (2010/2012/2022/2024/2025/2026)",
         "School": "Akron"
       },
       {
         "Season": "2019-20",
         "Tournament": "MAC",
-        "Result": "2\u00d7 MAC Regular Season + East Division (2020, 2025)",
+        "Result": "2× MAC Regular Season + East Division (2020, 2025)",
         "School": "Akron"
       },
       {
         "Season": "2024-25",
         "Tournament": "MAC",
-        "Result": "Hugh Durham Award (2025) + MAC CoY\u00d72 (2020, 2025)",
+        "Result": "Hugh Durham Award (2025) + MAC CoY×2 (2020, 2025)",
         "School": "Akron"
       }
     ],
@@ -6262,7 +6262,7 @@
       },
       {
         "Organization": "Brooklyn Nets (NBA)",
-        "Role": "Coach/Staff \u2014 see prior player career",
+        "Role": "Coach/Staff — see prior player career",
         "Start": "2006",
         "End": "2012"
       }
@@ -6281,7 +6281,7 @@
       "https://en.wikipedia.org/wiki/Patrick_Ewing"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia article is heavily player-biased; no dedicated coaching-career table. Record/seasons not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia article is heavily player-biased; no dedicated coaching-career table. Record/seasons not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Grambling St.",
@@ -6310,7 +6310,7 @@
       "https://en.wikipedia.org/wiki/Donte_Jackson"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia article doesn't render a dedicated coaching-career table; prior roles (Grambling asst, UConn asst) not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia article doesn't render a dedicated coaching-career table; prior roles (Grambling asst, UConn asst) not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Illinois",
@@ -6517,7 +6517,7 @@
       "https://en.wikipedia.org/wiki/Archie_Miller"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Article exists but no dedicated coaching-career table on the section I could parse. UMass 2008-2014 \u2192 Indiana 2014-2018 \u2192 Memphis 2018-2021 is well-documented; specific records/titles not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Article exists but no dedicated coaching-career table on the section I could parse. UMass 2008-2014 → Indiana 2014-2018 → Memphis 2018-2021 is well-documented; specific records/titles not extracted — flagged for Ryan to verify."
   },
   {
     "School": "LIU",
@@ -6810,7 +6810,7 @@
       "https://en.wikipedia.org/wiki/David_Padgett"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia page has a 'Coaching career 5' section I couldn't parse cleanly. Duke 2000-2016 \u2192 Providence 2016-17 \u2192 Louisville 2017-18 is well-documented; specific record/season-year ranges may be off by one \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia page has a 'Coaching career 5' section I couldn't parse cleanly. Duke 2000-2016 → Providence 2016-17 → Louisville 2017-18 is well-documented; specific record/season-year ranges may be off by one — flagged for Ryan to verify."
   },
   {
     "School": "Massachusetts",
@@ -7539,7 +7539,7 @@
       "https://en.wikiversity.org/wiki/Special:Search/Grant_Mccasland"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia article is a bare stub (no coaching-career table). Oklahoma asst 2013-17 \u2192 North Texas HC 2017-20 \u2192 Clemson asst 2020-25 \u2192 Georgia Tech HC 2025- present is well-documented; record/specifics not extracted."
+    "ReviewNote": "Wikipedia article is a bare stub (no coaching-career table). Oklahoma asst 2013-17 → North Texas HC 2017-20 → Clemson asst 2020-25 → Georgia Tech HC 2025- present is well-documented; record/specifics not extracted."
   },
   {
     "School": "Ohio St.",
@@ -8212,7 +8212,7 @@
       "https://en.wikipedia.org/wiki/Scott_Pera_(basketball)"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia infobox lists his career; Rice HC 2017-21 is from CSV + infobox context. College career record/tenure-end not clearly stated \u2014 flagged."
+    "ReviewNote": "Wikipedia infobox lists his career; Rice HC 2017-21 is from CSV + infobox context. College career record/tenure-end not clearly stated — flagged."
   },
   {
     "School": "San Diego St.",
@@ -8546,7 +8546,7 @@
       "http://www.msuspartans.com/sports/m-baskbl/mtt/brian_gregory_15555.html"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia TOC confirms stints (MSU, Dayton, GT, MSU, USF) but the coaching career table didn't parse. Records per-stint not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia TOC confirms stints (MSU, Dayton, GT, MSU, USF) but the coaching career table didn't parse. Records per-stint not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Southern",
@@ -9128,7 +9128,7 @@
       "https://en.wikipedia.org/wiki/Dylan_Howard"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Thin Wikipedia article; no coaching-career table rendered. Hired at Alabama A&M 2018; prior roles and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Thin Wikipedia article; no coaching-career table rendered. Hired at Alabama A&M 2018; prior roles and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Bryant",
@@ -9496,7 +9496,7 @@
       {
         "Season": "2022-23",
         "Tournament": "CBI",
-        "Result": "CBI Champion (2023) \u2014 4-0 CBI run (as Charlotte HC)",
+        "Result": "CBI Champion (2023) — 4-0 CBI run (as Charlotte HC)",
         "School": "Charlotte"
       }
     ],
@@ -9892,7 +9892,7 @@
       "https://en.wikipedia.org/wiki/Mike_Davis_(basketball)"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia article (and disambiguation) doesn't distinguish which Mike Davis was Detroit Mercy's 2018-23 head coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia article (and disambiguation) doesn't distinguish which Mike Davis was Detroit Mercy's 2018-23 head coach. Prior roles and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Drake",
@@ -10190,7 +10190,7 @@
       "https://en.wikipedia.org/wiki/Walter_McCarty_(basketball)"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia page is a player/football-focused disambig; no college coaching-career table rendered. Prior stints (Evansville 2018-, NBA asst) and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia page is a player/football-focused disambig; no college coaching-career table rendered. Prior stints (Evansville 2018-, NBA asst) and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "FIU",
@@ -10373,7 +10373,7 @@
       "http://www.fausports.com/sports/m-baskbl/spec-rel/032218aab.html"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia TOC confirms stints (Eastern Michigan, North Carolina, Florida Atlantic, Michigan, U.S. Natl Team, Dallas Mavericks) but the detailed coaching-table didn't parse on first pass. Records per-stint not extracted \u2014 flagged."
+    "ReviewNote": "Wikipedia TOC confirms stints (Eastern Michigan, North Carolina, Florida Atlantic, Michigan, U.S. Natl Team, Dallas Mavericks) but the detailed coaching-table didn't parse on first pass. Records per-stint not extracted — flagged."
   },
   {
     "School": "Florida Gulf Coast",
@@ -10907,7 +10907,7 @@
       "https://en.wikipedia.org/wiki/Ashley_Howard"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia 'Ashley Howard' is a disambig page; no clean article for the La Salle basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia 'Ashley Howard' is a disambig page; no clean article for the La Salle basketball coach. Prior roles and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Little Rock",
@@ -11274,7 +11274,7 @@
       "https://en.wikipedia.org/wiki/Richard_Barron"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia 'Richard Barron' is a disambig page (books/translations/academic); no clean article for the Maine basketball coach. Prior roles and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia 'Richard Barron' is a disambig page (books/translations/academic); no clean article for the Maine basketball coach. Prior roles and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Marist",
@@ -11702,7 +11702,7 @@
       "https://en.wikipedia.org/wiki/Nicholas_McDevitt"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "Wikipedia article is a stub; no coaching-career table. Hired at Middle Tennessee 2018; prior stints and record not extracted \u2014 flagged for Ryan to verify."
+    "ReviewNote": "Wikipedia article is a stub; no coaching-career table. Hired at Middle Tennessee 2018; prior stints and record not extracted — flagged for Ryan to verify."
   },
   {
     "School": "Mississippi",
@@ -12469,7 +12469,7 @@
       "http://www.gorhody.com/sports/m-baskbl/coaches/cox_david?view=bio"
     ],
     "ResearchDate": "2026-09-05",
-    "ReviewNote": "The 2018 CSV row says 'Rhode Island' \u2014 Cox's 2018 stint is at **Maryland** (hired 2018 after leaving Rhode Island at end of 2017-18); the CSV may be mis-labeled. Flagged for Ryan to verify."
+    "ReviewNote": "The 2018 CSV row says 'Rhode Island' — Cox's 2018 stint is at **Maryland** (hired 2018 after leaving Rhode Island at end of 2017-18); the CSV may be mis-labeled. Flagged for Ryan to verify."
   },
   {
     "School": "Saint Peter's",
@@ -20443,5 +20443,67 @@
     ],
     "ResearchDate": "2026-09-05",
     "ReviewNote": "Wikipedia 'Billy Gillespie' article (12KB) has no coaching-career table (article may cover another Billy Gillespie). Hired at Tarleton 2020; prior roles and record not extracted - flagged for Ryan to verify."
+  },
+  {
+    "School": "Tennessee Martin",
+    "Conference": "OVC",
+    "Coach Name": "Montez Robinson",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Truett McConnell",
+        "Role": "Assistant",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Kennesaw State (Tony Ingle's staff)",
+        "Role": "Assistant",
+        "Start": null,
+        "End": "2011"
+      },
+      {
+        "Organization": "Bethune-Cookman",
+        "Role": "Assistant",
+        "Start": null,
+        "End": "2016"
+      },
+      {
+        "Organization": "Alcorn State",
+        "Role": "Head Coach",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "UT Martin",
+        "Role": "Assistant then Interim Head Coach",
+        "Start": "2020",
+        "End": "2021"
+      }
+    ],
+    "Education": [],
+    "HeadCoachingRecords": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2019-20",
+        "Tournament": "2020 CollegeInsider.com Postseason Tournament (CIT)",
+        "Result": "Alcorn State received an invitation; team set school records for single-season FT pct (.744) and 3PT made (268).",
+        "School": "Alcorn State"
+      },
+      {
+        "Season": "2016-17",
+        "Tournament": "SWAC",
+        "Result": "First Alcorn State head coach to win SWAC Coach of the Year since 2002; also NABC All-District 23 Co-Coach of the Year. 11-game win streak (5th-longest nationally, 4th in school history).",
+        "School": "Alcorn State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Montez_Robinson",
+      "https://utmsports.com/news/2020/9/11/montez-robinson-joins-ut-martin-mens-basketball-program-as-an-assistant-coach.aspx",
+      "https://www.wpsdlocal6.com/sports/robinson-named-ut-martin-interim-basketball-coach/article_cb41f298-2929-11eb-8563-73134428eaef.html",
+      "https://www.coachesdatabase.com/montez-robinson-fired-alcorn-state/"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "Thin-source flag: Wikipedia (200) + utmsports PR (200) are verified. wpsdlocal6 (429) and coachesdatabase (403) are real URLs but not reachable from this IP — listed so Ryan can open them in his browser. HeadCoachingRecords intentionally empty: no verified source states a clean 5-season W-L total for Alcorn State; only 15-15 (2015-16) and 18-14 (2016-17) are individually named, plus a conference-only .556 pct. Per no-fabrication rule, a career figure is not invented. Background Start years for Truett McConnell and Kennesaw State are null where the sources don't state them (KSU end=2011 per Wikipedia; BC end=2016 inferred from 'five years on the staff of Bethune-Cookman' before becoming Alcorn HC in 2016)."
   }
 ]
