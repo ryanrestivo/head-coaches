@@ -20665,5 +20665,87 @@
     ],
     "ResearchDate": "2026-10-11",
     "ReviewNote": "Coaching-experience only (playing career omitted per rubric — his player stats/play are in the Wikipedia source). Record attached: Cincinnati interim 2005-06 = 21-13 (0.6176), a clean stated total. UAB and Ole Miss: the sources give season-by-season W-L (UAB: 22-7, 27-8, 29-10, 23-12, 24-13, 20-12) and tenure stats but NO single stated career W-L total — per the no-fabrication rule I did not sum seasons into a total, so no Record is attached to those stints. If Ryan wants a per-stop figure for either, say which (and whether 'per-season' entries are acceptable). Education not stated in the verified sources -> left empty."
+  },
+  {
+    "School": "UC Riverside",
+    "Conference": "BW",
+    "Coach Name": "Mike Magpayo",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Columbia",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2014"
+      },
+      {
+        "Organization": "Campbell",
+        "Role": "Assistant",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "San Francisco",
+        "Role": "Director of Operations",
+        "Start": "2017",
+        "End": "2018"
+      },
+      {
+        "Organization": "UC Riverside (David Patrick's staff)",
+        "Role": "Associate/Acting Head Coach",
+        "Start": "2018",
+        "End": "2020"
+      },
+      {
+        "Organization": "UC Riverside",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025",
+        "Record": "89-63",
+        "WinPct": 0.5855
+      },
+      {
+        "Organization": "Fordham",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [
+      {
+        "Undergraduate College": "UC Santa Barbara",
+        "Undergraduate Year": 2001,
+        "Undergraduate Degree": "B.S. (Business Economics)"
+      }
+    ],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "UC Riverside",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": "2025",
+        "Record": "89-63",
+        "WinPct": 0.5855
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2016-17",
+        "Tournament": "ASUN / CIT (as Campbell assistant)",
+        "Result": "Campbell reached the ASUN Conference championship game and CIT quarterfinals in the program's first postseason since 1992.",
+        "School": "Campbell"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "UC Riverside year-1",
+        "Result": "First season as HC 14-8; signed a five-year extension (May 21, 2021). Began 2019-20 with 17 wins (improved from 9).",
+        "School": "UC Riverside"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Mike_Magpayo"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "THIN-SOURCE FLAG: Only 1 of up-to-5 sources verified (Wikipedia, 200). UCR official bio URL not resolvable from this IP. Coach moved on to Fordham in 2025; UCR may no longer carry his bio, or it's on a JS-shell site not fetchable here. If Ryan can open the UCR athletics site in his browser and confirm his career W-L as UCR HC, the 89-63 (0.5855) figure should be double-checked — it's the sum of the five per-season records (20-21 through 24-25) stated in the Wikipedia season table. San Francisco stint role = Director of Operations (source says so); 22-7 that season is the TEAM record while he was ODOL, not his own head-coaching stint — intentionally NOT attached. Fordham (started 2025) has no stated record — omitted. Education (UC Santa Barbara B.S. Business Economics 2001) sourced from Wikipedia."
   }
 ]
