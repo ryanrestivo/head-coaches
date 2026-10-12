@@ -20573,5 +20573,97 @@
     ],
     "ResearchDate": "2026-10-11",
     "ReviewNote": "Record 88-68 (0.5641) = stated career total in his head-coaching tenure at Texas State: official txstatebobcats bio says 'During his tenure, the Bobcats have compiled an 88-68 record.' This is the stated per-stop (stint) total, not a single season. Individual-season records (18-7 in 2020-21 [Sun Belt reg. season title, Sun Belt CoY, most first-year wins in D1 program history], 21-8 in 2021-22 [NIT], 16-19, 17-18, 16-16) are cited in the bio and Wikipedia's season table. NOTE: 88-68 is the figure as of the bio page I fetched (post 2024-25); it is a stated total, not a sum I computed. Source-discrepancy flagged (not csv-disputed): Samford assistant end yr — Wikipedia 'until 2012', official bio '2010 to 2013'; used the bio. Education not stated in the two verified sources -> left empty (no-fabrication)."
+  },
+  {
+    "School": "UAB",
+    "Conference": "CUSA",
+    "Coach Name": "Andy Kennedy",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "South Alabama",
+        "Role": "Assistant",
+        "Start": "1994",
+        "End": "1995"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Assistant",
+        "Start": "1996",
+        "End": "2001"
+      },
+      {
+        "Organization": "Cincinnati",
+        "Role": "Assistant",
+        "Start": "2001",
+        "End": "2005"
+      },
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach (interim)",
+        "Start": "2005",
+        "End": "2006",
+        "Record": "21-13",
+        "WinPct": 0.6176
+      },
+      {
+        "Organization": "Ole Miss",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2018"
+      },
+      {
+        "Organization": "SEC Network (ESPN)",
+        "Role": "Analyst",
+        "Start": "2018",
+        "End": "2020"
+      },
+      {
+        "Organization": "UAB",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Cincinnati",
+        "Role": "Head Coach (interim)",
+        "Start": "2005",
+        "End": "2006",
+        "Record": "21-13",
+        "WinPct": 0.6176
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2012-13",
+        "Tournament": "NCAA Tournament",
+        "Result": "12-seed Ole Miss, first NCAA bid in a decade; upset Wisconsin in round of 64, lost to 13-seed La Salle.",
+        "School": "Ole Miss"
+      },
+      {
+        "Season": "2005-06",
+        "Tournament": "NIT",
+        "Result": "Interim HC at Cincinnati led team to 21-13 and an NIT; NY Post Big East Coach of the Year.",
+        "School": "Cincinnati"
+      },
+      {
+        "Season": "2020-21",
+        "Tournament": "C-USA (UAB year-1)",
+        "Result": "22-7 — most first-year wins in the country; most wins for UAB since 2016; highest NET/KenPom since 2011/2016 era; most C-USA conference wins (13).",
+        "School": "UAB"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Andy_Kennedy",
+      "https://uabsports.com/sports/mens-basketball/roster/andy-kennedy/7207",
+      "http://www.espn.com/mens-college-basketball/story/_/id/22409723/andy-kennedy-ole-miss-rebels-part-ways-season",
+      "http://www.olemisssports.com/sports/m-baskbl/spec-rel/021818aaa.html",
+      "https://www.basketball-reference.com/international/players/andy-kennedy-1.html"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "Coaching-experience only (playing career omitted per rubric — his player stats/play are in the Wikipedia source). Record attached: Cincinnati interim 2005-06 = 21-13 (0.6176), a clean stated total. UAB and Ole Miss: the sources give season-by-season W-L (UAB: 22-7, 27-8, 29-10, 23-12, 24-13, 20-12) and tenure stats but NO single stated career W-L total — per the no-fabrication rule I did not sum seasons into a total, so no Record is attached to those stints. If Ryan wants a per-stop figure for either, say which (and whether 'per-season' entries are acceptable). Education not stated in the verified sources -> left empty."
   }
 ]
