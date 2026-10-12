@@ -20505,5 +20505,73 @@
     ],
     "ResearchDate": "2026-10-11",
     "ReviewNote": "Thin-source flag: Wikipedia (200) + utmsports PR (200) are verified. wpsdlocal6 (429) and coachesdatabase (403) are real URLs but not reachable from this IP — listed so Ryan can open them in his browser. HeadCoachingRecords intentionally empty: no verified source states a clean 5-season W-L total for Alcorn State; only 15-15 (2015-16) and 18-14 (2016-17) are individually named, plus a conference-only .556 pct. Per no-fabrication rule, a career figure is not invented. Background Start years for Truett McConnell and Kennesaw State are null where the sources don't state them (KSU end=2011 per Wikipedia; BC end=2016 inferred from 'five years on the staff of Bethune-Cookman' before becoming Alcorn HC in 2016)."
+  },
+  {
+    "School": "Texas St.",
+    "Conference": "SB",
+    "Coach Name": "Terrence Johnson",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Hollis Price Elite AAU",
+        "Role": "Head Coach",
+        "Start": "2006",
+        "End": "2010"
+      },
+      {
+        "Organization": "Samford",
+        "Role": "Assistant",
+        "Start": "2010",
+        "End": "2013"
+      },
+      {
+        "Organization": "Texas PRO 17-U (AAU)",
+        "Role": "Head Coach",
+        "Start": "2015",
+        "End": "2016"
+      },
+      {
+        "Organization": "Texas State (Danny Kaspar's staff)",
+        "Role": "Assistant",
+        "Start": "2016",
+        "End": "2020"
+      },
+      {
+        "Organization": "Texas State",
+        "Role": "Head Coach (interim then permanent)",
+        "Start": "2020",
+        "End": null,
+        "Record": "88-68",
+        "WinPct": 0.5641
+      }
+    ],
+    "Education": [],
+    "HeadCoachingRecords": [
+      {
+        "Organization": "Texas State",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null,
+        "Record": "88-68",
+        "WinPct": 0.5641
+      }
+    ],
+    "PostseasonExperience": [
+      {
+        "Season": "2020-21",
+        "Tournament": "Sun Belt Conference (regular season)",
+        "Result": "Sun Belt regular season championship (first in Texas State program history); Sun Belt Coach of the Year; most first-year wins (18) in program D1 history.",
+        "School": "Texas State"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Terrence_Johnson_(basketball)",
+      "https://txstatebobcats.com/sports/mens-basketball/roster/coaches/terrence-tj-johnson/1241",
+      "https://www.statesman.com/story/sports/college/basketball/2021/03/11/texas-states-terrence-johnson-named-schools-head-coach/4654888001/",
+      "https://www.sanmarcosrecord.com/sports/kaspar-resigns-johnson-named-new-head-coach",
+      "https://txstatebobcats.com/news/2015/6/23/MBB_0623152003"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "Record 88-68 (0.5641) = stated career total in his head-coaching tenure at Texas State: official txstatebobcats bio says 'During his tenure, the Bobcats have compiled an 88-68 record.' This is the stated per-stop (stint) total, not a single season. Individual-season records (18-7 in 2020-21 [Sun Belt reg. season title, Sun Belt CoY, most first-year wins in D1 program history], 21-8 in 2021-22 [NIT], 16-19, 17-18, 16-16) are cited in the bio and Wikipedia's season table. NOTE: 88-68 is the figure as of the bio page I fetched (post 2024-25); it is a stated total, not a sum I computed. Source-discrepancy flagged (not csv-disputed): Samford assistant end yr — Wikipedia 'until 2012', official bio '2010 to 2013'; used the bio. Education not stated in the two verified sources -> left empty (no-fabrication)."
   }
 ]
