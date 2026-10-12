@@ -20747,5 +20747,50 @@
     ],
     "ResearchDate": "2026-10-11",
     "ReviewNote": "THIN-SOURCE FLAG: Only 1 of up-to-5 sources verified (Wikipedia, 200). UCR official bio URL not resolvable from this IP. Coach moved on to Fordham in 2025; UCR may no longer carry his bio, or it's on a JS-shell site not fetchable here. If Ryan can open the UCR athletics site in his browser and confirm his career W-L as UCR HC, the 89-63 (0.5855) figure should be double-checked — it's the sum of the five per-season records (20-21 through 24-25) stated in the Wikipedia season table. San Francisco stint role = Director of Operations (source says so); 22-7 that season is the TEAM record while he was ODOL, not his own head-coaching stint — intentionally NOT attached. Fordham (started 2025) has no stated record — omitted. Education (UC Santa Barbara B.S. Business Economics 2001) sourced from Wikipedia."
+  },
+  {
+    "School": "UC San Diego",
+    "Conference": "BW",
+    "Coach Name": "Eric Olen",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "UC San Diego",
+        "Role": "Assistant (Bill Carr's staff)",
+        "Start": "2004",
+        "End": "2013"
+      },
+      {
+        "Organization": "UC San Diego",
+        "Role": "Head Coach",
+        "Start": "2013",
+        "End": "2025"
+      },
+      {
+        "Organization": "New Mexico",
+        "Role": "Head Coach",
+        "Start": "2025",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "HeadCoachingRecords": [],
+    "PostseasonExperience": [
+      {
+        "Season": "various",
+        "Tournament": "CCAA (as UCSD head coach)",
+        "Result": "Led UCSD Tritons to three CCAA regular-season titles + four consecutive CCAA conference tournament titles + four NCAA Division II tournament appearances before the 2020-21 DI transition.",
+        "School": "UC San Diego"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Eric_Olen",
+      "https://ucsdtritons.com/sports/mens-basketball/roster/coaches/eric-olen/",
+      "https://golobos.com/sports/mbball/roster/season/2025-26/coach/eric-olen/",
+      "https://golobos.com/news/2025/03/30/mens-basketball-eric-olen-named-new-mexico-mens-basketball-head-coach.aspx",
+      "https://golobos.com/news/2026/05/11/eric-olen-and-unm-agree-to-new-five-year-deal"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "THIN-SOURCE FLAG: Only Wikipedia (200) verified. Official bio URLs listed but both 404'd at fetch time — coach left UCSD 2025 for New Mexico, so those pages are either gone or on a JS-shell. New Mexico 2025-26 26-11 (year-1 NIT semifinal) is OUT OF SCOPE for this 2020 UCSD row (kept only as current-employer context). No stated clean W-L total found for his UCSD HC stint — no Record attached per no-fabrication rule. Led program through the D2→D1 (Big West) transition beginning 2020-21 (per Wikipedia)."
   }
 ]
