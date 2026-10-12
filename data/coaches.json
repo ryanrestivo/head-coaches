@@ -20792,5 +20792,68 @@
     ],
     "ResearchDate": "2026-10-11",
     "ReviewNote": "THIN-SOURCE FLAG: Only Wikipedia (200) verified. Official bio URLs listed but both 404'd at fetch time — coach left UCSD 2025 for New Mexico, so those pages are either gone or on a JS-shell. New Mexico 2025-26 26-11 (year-1 NIT semifinal) is OUT OF SCOPE for this 2020 UCSD row (kept only as current-employer context). No stated clean W-L total found for his UCSD HC stint — no Record attached per no-fabrication rule. Led program through the D2→D1 (Big West) transition beginning 2020-21 (per Wikipedia)."
+  },
+  {
+    "School": "UNC Wilmington",
+    "Conference": "CAA",
+    "Coach Name": "Takayo Siddle",
+    "Year": 2020,
+    "Background": [
+      {
+        "Organization": "Hargrave Military Academy",
+        "Role": "Assistant",
+        "Start": null,
+        "End": null
+      },
+      {
+        "Organization": "Gardner-Webb",
+        "Role": "Assistant",
+        "Start": null,
+        "End": "2014"
+      },
+      {
+        "Organization": "UNC Wilmington (Kevin Keatts' staff)",
+        "Role": "Assistant / Interim Head Coach",
+        "Start": "2014",
+        "End": "2017"
+      },
+      {
+        "Organization": "NC State (Kevin Keatts' staff)",
+        "Role": "Assistant",
+        "Start": "2017",
+        "End": "2020"
+      },
+      {
+        "Organization": "UNC Wilmington",
+        "Role": "Head Coach",
+        "Start": "2020",
+        "End": null
+      }
+    ],
+    "Education": [],
+    "HeadCoachingRecords": [],
+    "PostseasonExperience": [
+      {
+        "Season": "2011-12",
+        "Tournament": "CAA (as UNW assistant) — team honors",
+        "Result": "UNC Wilmington won back-to-back CAA regular-season and conference-tournament titles (2016, 2017) during his 3-year stint; 3 straight NIT/NCAA tournament appearances (2015, 2016, 2017).",
+        "School": "UNC Wilmington"
+      },
+      {
+        "Season": "2023-24",
+        "Tournament": "vs. Kentucky (Rupp Arena, Dec 2023)",
+        "Result": "First time back as a coach at Rupp Arena (as a player for Gardner-Webb) — UNW beat Kentucky 80-73.",
+        "School": "UNC Wilmington"
+      }
+    ],
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Takayo_Siddle",
+      "https://uncwsports.com/news/2020/3/13/mens-basketball-seahawks-name-siddle-new-head-coach.aspx",
+      "https://uncwsports.com/staff-directory/takayo-siddle/248",
+      "https://gwusports.com/sports/mens-basketball/roster/takayo-siddle/1731",
+      "https://www.wect.com/2020/03/16/uncw-agrees-five-year-contract-with-takayo-siddle/"
+    ],
+    "ResearchDate": "2026-10-11",
+    "ReviewNote": "Record: none attached. The 72-28 figure in the UNW hire PR is the TEAM record during Siddle's 3-year ASSISTANT stint (2014-17), not his own head-coaching record — intentionally NOT attached per the no-fabrication rule. His HC stint (2020-25+) has no clean stated W-L total in the verified sources. Named UNW 13th head coach 2020-03-13 (5-year deal, $300k base). Prior stops all assistant. Education not stated in the verified sources -> empty."
   }
 ]
